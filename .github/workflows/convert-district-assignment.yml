@@ -1,0 +1,37 @@
+name: Convert district assignment to GeoJSON
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run converter
+        run: python scripts/convert_assignment_to_geojson.py
+
+      - name: Commit converted GeoJSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add incoming/district_assignment.geojson incoming/district_assignment_missing_cells.json || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Convert district assignment to GeoJSON"
+            git push
+          fi
