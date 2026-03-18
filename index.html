@@ -52,14 +52,17 @@
 
   const infoBox = document.getElementById("infoBox");
 
+  // -------------------------
+  // POLYGON STYLE
+  // -------------------------
   function style(feature) {
     const color = feature.properties.district_color || "#888888";
 
     return {
-      color: "#000000",          // 🔥 bold black outline
-      weight: 3,                // thicker boundary
+      color: "#000000",
+      weight: 3,
       opacity: 1,
-      fillColor: color,         // use your hex color
+      fillColor: color,
       fillOpacity: 0.5
     };
   }
@@ -97,6 +100,9 @@
 
   let geojson;
 
+  // -------------------------
+  // LOAD POLYGONS
+  // -------------------------
   fetch('./incoming/district_assignment_dissolved.geojson')
     .then(res => res.json())
     .then(data => {
@@ -108,8 +114,46 @@
       map.fitBounds(geojson.getBounds());
     })
     .catch(err => {
-      console.error("Failed to load GeoJSON:", err);
+      console.error("Failed to load polygons:", err);
     });
+
+  // -------------------------
+  // LOAD POINTS
+  // -------------------------
+  fetch('./incoming/district_points.geojson')
+    .then(res => res.json())
+    .then(data => {
+      const pointLayer = L.geoJSON(data, {
+        pointToLayer: function (feature, latlng) {
+          const color = feature.properties.district_color || "#000000";
+
+          return L.circleMarker(latlng, {
+            radius: 6,
+            fillColor: color,
+            color: "#000",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 1
+          });
+        },
+        onEachFeature: function (feature, layer) {
+          const props = feature.properties;
+
+          const label = props.district_id !== undefined
+            ? `District ${Number(props.district_id) + 1}`
+            : "District";
+
+          layer.bindPopup(`
+            <b>${label}</b><br>
+            ${props.First_Name || ""} ${props.Last_Name || ""}
+          `);
+        }
+      }).addTo(map);
+    })
+    .catch(err => {
+      console.error("Failed to load points:", err);
+    });
+
 </script>
 
 </body>
