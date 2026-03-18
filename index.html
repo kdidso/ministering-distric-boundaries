@@ -76,7 +76,7 @@
     layer.bringToFront();
 
     const props = layer.feature.properties;
-    infoBox.innerHTML = `<b>District ${props.district_id}</b>`;
+    infoBox.innerHTML = `<b>District ${Number(props.district_id) + 1}</b>`;
   }
 
   function resetHighlight(e) {
@@ -90,7 +90,7 @@
       mouseout: resetHighlight,
       click: function () {
         const props = feature.properties;
-        layer.bindPopup(`<b>District ${props.district_id}</b>`).openPopup();
+        layer.bindPopup(`<b>District ${Number(props.district_id) + 1}</b>`).openPopup();
       }
     });
   }
