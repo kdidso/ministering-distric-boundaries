@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Ministering Districts</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+
+    .info {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      background: white;
+      padding: 10px;
+      border-radius: 6px;
+      font-family: sans-serif;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+<div class="info" id="infoBox">Hover over a district</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  const map = L.map('map').setView([37.13, -113.6], 13);
+
+  // Basemap
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  const infoBox = document.getElementById("infoBox");
+
+  function style(feature) {
+    const color = feature.properties.district_color || "#888888";
+
+    return {
+      color: "#000000",          // 🔥 bold black outline
+      weight: 3,                // thicker boundary
+      opacity: 1,
+      fillColor: color,         // use your hex color
+      fillOpacity: 0.5
+    };
+  }
+
+  function highlightFeature(e) {
+    const layer = e.target;
+
+    layer.setStyle({
+      weight: 5,
+      color: "#000",
+      fillOpacity: 0.7
+    });
+
+    layer.bringToFront();
+
+    const props = layer.feature.properties;
+    infoBox.innerHTML = `<b>District ${props.district_id}</b>`;
+  }
+
+  function resetHighlight(e) {
+    geojson.resetStyle(e.target);
+    infoBox.innerHTML = "Hover over a district";
+  }
+
+  function onEachFeature(feature, layer) {
+    layer.on({
+      mouseover: highlightFeature,
+      mouseout: resetHighlight,
+      click: function () {
+        const props = feature.properties;
+        layer.bindPopup(`<b>District ${props.district_id}</b>`).openPopup();
+      }
+    });
+  }
+
+  let geojson;
+
+  fetch('./incoming/district_assignment_dissolved.geojson')
+    .then(res => res.json())
+    .then(data => {
+      geojson = L.geoJSON(data, {
+        style: style,
+        onEachFeature: onEachFeature
+      }).addTo(map);
+
+      map.fitBounds(geojson.getBounds());
+    })
+    .catch(err => {
+      console.error("Failed to load GeoJSON:", err);
+    });
+</script>
+
+</body>
+</html>
