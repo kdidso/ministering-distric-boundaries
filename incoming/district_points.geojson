@@ -299,413 +299,6 @@
     },
     {
       "type": "Feature",
-      "id": 469,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60440210677064,
-          37.06080591803999
-        ]
-      },
-      "properties": {
-        "OBJECTID": 469,
-        "Last_Name": "Wilkes",
-        "First_Name": "Cole",
-        "Address": "930 Escalante Dr, St. George, UT 84790",
-        "lat": 37.0608063,
-        "lon": -113.604401,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 878601600000,
-        "Age": 28,
-        "Emails": "colewilkes100@gmail.com",
-        "Quarterly_att_pct": 45.454545454545446,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "6885",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "6885"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 665,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60440484842887,
-          37.060808483654434
-        ]
-      },
-      "properties": {
-        "OBJECTID": 665,
-        "Last_Name": "Wilkes",
-        "First_Name": "Luke Andrew",
-        "Address": "930 Escalante Dr, St. George, UT 84790",
-        "lat": 37.0608101,
-        "lon": -113.604408,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 943056000000,
-        "Age": 26,
-        "Emails": "lukeawilkes20@gmail.com",
-        "Quarterly_att_pct": 9.090909090909092,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "6885",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "6885"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 451,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.59257378730368,
-          37.06700714342604
-        ]
-      },
-      "properties": {
-        "OBJECTID": 451,
-        "Last_Name": "Walker",
-        "First_Name": "Ben",
-        "Address": "818 W Sir Monte Dr, St. George, UT 84770",
-        "lat": 37.067009,
-        "lon": -113.592575,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 719452800000,
-        "Age": 33,
-        "Emails": "learn.wisdom@icloud.com",
-        "Quarterly_att_pct": 63.63636363636363,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "7621",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "7621"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 419,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.58836712145691,
-          37.070255518593484
-        ]
-      },
-      "properties": {
-        "OBJECTID": 419,
-        "Last_Name": "Swindler",
-        "First_Name": "Chris",
-        "Address": "223 Golden Eagle Cir, St. George, UT 84770",
-        "lat": 37.0702553,
-        "lon": -113.588364,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 741398400000,
-        "Age": 32,
-        "Emails": "CmerrillSwindler@gmail.com",
-        "Quarterly_att_pct": 9.090909090909092,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "8008",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "8008"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 224,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60446634260164,
-          37.071884501369134
-        ]
-      },
-      "properties": {
-        "OBJECTID": 224,
-        "Last_Name": "Kalonji",
-        "First_Name": "Jean Miller Mbelu",
-        "Address": "1001 W Curly Hollow Dr, St. George, UT 84770",
-        "lat": 37.0718842,
-        "lon": -113.604469,
-        "Apt_Number": 87,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 888883200000,
-        "Age": 28,
-        "Emails": "millermk19@gmail.com",
-        "Quarterly_att_pct": 54.54545454545454,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "8542",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "8542"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 20,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.59145794946507,
-          37.073266359608475
-        ]
-      },
-      "properties": {
-        "OBJECTID": 20,
-        "Last_Name": "Bankhead",
-        "First_Name": "Derek",
-        "Address": "300 W 2025 S, St. George, UT 84770",
-        "lat": 37.0732651,
-        "lon": -113.591461,
-        "Apt_Number": 25,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 916012800000,
-        "Age": 27,
-        "Emails": "Derekbankhead@gmail.com",
-        "Quarterly_att_pct": 18.18181818181818,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "9000",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "9000"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 627,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.58763377099493,
-          37.08910698958865
-        ]
-      },
-      "properties": {
-        "OBJECTID": 627,
-        "Last_Name": "Potter",
-        "First_Name": "Jackson",
-        "Address": "161 W 950 S c10, St. George, UT 84770",
-        "lat": 37.0891075,
-        "lon": -113.587631,
-        "Apt_Number": 10,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 940982400000,
-        "Age": 26,
-        "Emails": "jpsnarr@outlook.com",
-        "Quarterly_att_pct": 18.18181818181818,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "10281",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "10281"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.57095494604911,
-          37.096493565912766
-        ]
-      },
-      "properties": {
-        "OBJECTID": 13,
-        "Last_Name": "Angell",
-        "First_Name": "Jeron",
-        "Address": "595 E 700 S, St. George, UT 84770",
-        "lat": 37.0964928,
-        "lon": -113.570953,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 795052800000,
-        "Age": 31,
-        "Emails": "elder.angell@gmail.com",
-        "Quarterly_att_pct": 18.18181818181818,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "12962",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "12962"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 695,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.57862044643828,
-          37.096515727718305
-        ]
-      },
-      "properties": {
-        "OBJECTID": 695,
-        "Last_Name": "Marshall",
-        "First_Name": "Austin",
-        "Address": "221 E 700 S, St. George, UT 84770",
-        "lat": 37.0965157,
-        "lon": -113.578621,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 742003200000,
-        "Age": 32,
-        "Emails": "austinkentmarshall@gmail.com",
-        "Quarterly_att_pct": 54.54545454545454,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "12868",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "12868"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 444,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56802065307242,
-          37.097221401214
-        ]
-      },
-      "properties": {
-        "OBJECTID": 444,
-        "Last_Name": "Vance",
-        "First_Name": "Hayden",
-        "Address": "669 S 700 E, St. George, UT 84770",
-        "lat": 37.0972214,
-        "lon": -113.568024,
-        "Apt_Number": 34,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 918518400000,
-        "Age": 27,
-        "Emails": "4haydenvance@gmail.com",
-        "Quarterly_att_pct": 18.18181818181818,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "13290",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "13290"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 711,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.58019775512653,
-          37.097734119786416
-        ]
-      },
-      "properties": {
-        "OBJECTID": 711,
-        "Last_Name": "Robison",
-        "First_Name": "Jalen",
-        "Address": "146 E 600 S, St. George, UT 84770",
-        "lat": 37.0977325,
-        "lon": -113.5802,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 947548800000,
-        "Age": 26,
-        "Emails": "jalenqb6@gmail.com",
-        "Quarterly_att_pct": 45.454545454545446,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "13639",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "13639"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 37,
       "geometry": {
         "type": "Point",
@@ -1298,6 +891,302 @@
     },
     {
       "type": "Feature",
+      "id": 469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.60440210677064,
+          37.06080591803999
+        ]
+      },
+      "properties": {
+        "OBJECTID": 469,
+        "Last_Name": "Wilkes",
+        "First_Name": "Cole",
+        "Address": "930 Escalante Dr, St. George, UT 84790",
+        "lat": 37.0608063,
+        "lon": -113.604401,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 878601600000,
+        "Age": 28,
+        "Emails": "colewilkes100@gmail.com",
+        "Quarterly_att_pct": 45.454545454545446,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "6885",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.60440484842887,
+          37.060808483654434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 665,
+        "Last_Name": "Wilkes",
+        "First_Name": "Luke Andrew",
+        "Address": "930 Escalante Dr, St. George, UT 84790",
+        "lat": 37.0608101,
+        "lon": -113.604408,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 943056000000,
+        "Age": 26,
+        "Emails": "lukeawilkes20@gmail.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "6885",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "6885"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.59257378730368,
+          37.06700714342604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 451,
+        "Last_Name": "Walker",
+        "First_Name": "Ben",
+        "Address": "818 W Sir Monte Dr, St. George, UT 84770",
+        "lat": 37.067009,
+        "lon": -113.592575,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 719452800000,
+        "Age": 33,
+        "Emails": "learn.wisdom@icloud.com",
+        "Quarterly_att_pct": 63.63636363636363,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "7621",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "7621"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.58836712145691,
+          37.070255518593484
+        ]
+      },
+      "properties": {
+        "OBJECTID": 419,
+        "Last_Name": "Swindler",
+        "First_Name": "Chris",
+        "Address": "223 Golden Eagle Cir, St. George, UT 84770",
+        "lat": 37.0702553,
+        "lon": -113.588364,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 741398400000,
+        "Age": 32,
+        "Emails": "CmerrillSwindler@gmail.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "8008",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "8008"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.60446634260164,
+          37.071884501369134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "Last_Name": "Kalonji",
+        "First_Name": "Jean Miller Mbelu",
+        "Address": "1001 W Curly Hollow Dr, St. George, UT 84770",
+        "lat": 37.0718842,
+        "lon": -113.604469,
+        "Apt_Number": 87,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 888883200000,
+        "Age": 28,
+        "Emails": "millermk19@gmail.com",
+        "Quarterly_att_pct": 54.54545454545454,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "8542",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "8542"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.59145794946507,
+          37.073266359608475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "Last_Name": "Bankhead",
+        "First_Name": "Derek",
+        "Address": "300 W 2025 S, St. George, UT 84770",
+        "lat": 37.0732651,
+        "lon": -113.591461,
+        "Apt_Number": 25,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 916012800000,
+        "Age": 27,
+        "Emails": "Derekbankhead@gmail.com",
+        "Quarterly_att_pct": 18.18181818181818,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "9000",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "9000"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.58763377099493,
+          37.08910698958865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 627,
+        "Last_Name": "Potter",
+        "First_Name": "Jackson",
+        "Address": "161 W 950 S c10, St. George, UT 84770",
+        "lat": 37.0891075,
+        "lon": -113.587631,
+        "Apt_Number": 10,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 940982400000,
+        "Age": 26,
+        "Emails": "jpsnarr@outlook.com",
+        "Quarterly_att_pct": 18.18181818181818,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "10281",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "10281"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57095494604911,
+          37.096493565912766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "Last_Name": "Angell",
+        "First_Name": "Jeron",
+        "Address": "595 E 700 S, St. George, UT 84770",
+        "lat": 37.0964928,
+        "lon": -113.570953,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 795052800000,
+        "Age": 31,
+        "Emails": "elder.angell@gmail.com",
+        "Quarterly_att_pct": 18.18181818181818,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "12962",
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "12962"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 221,
       "geometry": {
         "type": "Point",
@@ -1326,9 +1215,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "10621",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "10621"
       }
@@ -1363,9 +1252,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "10810",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "10810"
       }
@@ -1400,9 +1289,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "11096",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "11096"
       }
@@ -1437,9 +1326,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "11731",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "11731"
       }
@@ -1474,9 +1363,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "11928",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "11928"
       }
@@ -1511,9 +1400,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "11928",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "11928"
       }
@@ -1548,9 +1437,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "12160",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "12160"
       }
@@ -1585,9 +1474,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "12305",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "12305"
       }
@@ -1622,9 +1511,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "12328",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "12328"
       }
@@ -1659,9 +1548,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "12500",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "12500"
       }
@@ -1696,9 +1585,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "12949",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "12949"
       }
@@ -1733,9 +1622,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "12949",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "12949"
       }
@@ -1770,9 +1659,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "13185",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "13185"
       }
@@ -1807,9 +1696,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "13391",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "13391"
       }
@@ -1844,270 +1733,122 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "13416",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 2,
         "cell_id": "13416"
       }
     },
     {
       "type": "Feature",
-      "id": 636,
+      "id": 695,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.58244308699265,
-          37.09876462359546
+          -113.57862044643828,
+          37.096515727718305
         ]
       },
       "properties": {
-        "OBJECTID": 636,
-        "Last_Name": "Angell",
-        "First_Name": "Brian",
-        "Address": "575 S Main St, St. George, UT 84770",
-        "lat": 37.0987663,
-        "lon": -113.582443,
-        "Apt_Number": 16,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 787881600000,
-        "Age": 31,
-        "Emails": "angell.brian.s@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "14093",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 2,
-        "cell_id": "14093"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 635,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.6267651384577,
-          37.09913520388347
-        ]
-      },
-      "properties": {
-        "OBJECTID": 635,
-        "Last_Name": "Le Sueur",
-        "First_Name": "Jarron",
-        "Address": "2023 W 530 S Cir, St. George, UT 84770",
-        "lat": 37.0991364,
-        "lon": -113.626762,
+        "OBJECTID": 695,
+        "Last_Name": "Marshall",
+        "First_Name": "Austin",
+        "Address": "221 E 700 S, St. George, UT 84770",
+        "lat": 37.0965157,
+        "lon": -113.578621,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 938563200000,
-        "Age": 26,
-        "Emails": "jarron.lesueur29@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "14320",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 2,
-        "cell_id": "14320"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 577,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.58057543921132,
-          37.09915797536561
-        ]
-      },
-      "properties": {
-        "OBJECTID": 577,
-        "Last_Name": "Acosta",
-        "First_Name": "Joseph",
-        "Address": "142 E 500 S, St. George, UT 84770",
-        "lat": 37.0991592,
-        "lon": -113.580574,
-        "Apt_Number": 2,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 733449600000,
+        "BirthDate": 742003200000,
         "Age": 32,
-        "Emails": "joey@ebpnet.com",
-        "Quarterly_att_pct": 0,
+        "Emails": "austinkentmarshall@gmail.com",
+        "Quarterly_att_pct": 54.54545454545454,
         "prospective_elder": "no",
-        "Assigned_to_minister": "no",
+        "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "14270",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 2,
-        "cell_id": "14270"
+        "_group": 1,
+        "_cellId": "12868",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 1,
+        "cell_id": "12868"
       }
     },
     {
       "type": "Feature",
-      "id": 498,
+      "id": 444,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.57950458451059,
-          37.099322004779694
+          -113.56802065307242,
+          37.097221401214
         ]
       },
       "properties": {
-        "OBJECTID": 498,
-        "Last_Name": "Hurst",
-        "First_Name": "Ethan",
-        "Address": "524 S 200 E, St. George, UT 84770",
-        "lat": 37.0993233,
-        "lon": -113.579506,
-        "Apt_Number": 3,
+        "OBJECTID": 444,
+        "Last_Name": "Vance",
+        "First_Name": "Hayden",
+        "Address": "669 S 700 E, St. George, UT 84770",
+        "lat": 37.0972214,
+        "lon": -113.568024,
+        "Apt_Number": 34,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 921801600000,
+        "BirthDate": 918518400000,
+        "Age": 27,
+        "Emails": "4haydenvance@gmail.com",
+        "Quarterly_att_pct": 18.18181818181818,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "13290",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 1,
+        "cell_id": "13290"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.58019775512653,
+          37.097734119786416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 711,
+        "Last_Name": "Robison",
+        "First_Name": "Jalen",
+        "Address": "146 E 600 S, St. George, UT 84770",
+        "lat": 37.0977325,
+        "lon": -113.5802,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 947548800000,
         "Age": 26,
-        "Emails": null,
-        "Quarterly_att_pct": 0,
+        "Emails": "jalenqb6@gmail.com",
+        "Quarterly_att_pct": 45.454545454545446,
         "prospective_elder": "no",
-        "Assigned_to_minister": "no",
+        "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "14336",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 2,
-        "cell_id": "14336"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 449,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56959980869692,
-          37.099377224508686
-        ]
-      },
-      "properties": {
-        "OBJECTID": 449,
-        "Last_Name": "Vuki",
-        "First_Name": "Micah Ifalemi Kealoha",
-        "Address": "650 E 500 S, St. George, UT 84770",
-        "lat": 37.0993767,
-        "lon": -113.569603,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 910396800000,
-        "Age": 27,
-        "Emails": "micahvuki@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "14412",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 2,
-        "cell_id": "14412"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 363,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.62005092880158,
-          37.1000173512816
-        ]
-      },
-      "properties": {
-        "OBJECTID": 363,
-        "Last_Name": "Romero",
-        "First_Name": "Erik Alexis",
-        "Address": "1732 W Green Valley Ln, St. George, UT 84770",
-        "lat": 37.1000175,
-        "lon": -113.620049,
-        "Apt_Number": null,
-        "Notes": "https://www.facebook.com/erik.romero3",
-        "Gender": "M",
-        "Address_confidence": "low",
-        "BirthDate": 905385600000,
-        "Age": 27,
-        "Emails": "erikromero1335@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "14720",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 2,
-        "cell_id": "14720"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 387,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.62005495864392,
-          37.10001505854022
-        ]
-      },
-      "properties": {
-        "OBJECTID": 387,
-        "Last_Name": "Shurtz",
-        "First_Name": "Justin Kenneth",
-        "Address": "1732 W Green Valley Ln, St. George, UT 84770",
-        "lat": 37.1000137,
-        "lon": -113.620056,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 896054400000,
-        "Age": 27,
-        "Emails": "Just.shurtz05@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "14720",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 2,
-        "cell_id": "14720"
+        "_group": 1,
+        "_cellId": "13639",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 1,
+        "cell_id": "13639"
       }
     },
     {
@@ -2140,9 +1881,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "13889",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "13889"
       }
@@ -2177,9 +1918,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "13959",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "13959"
       }
@@ -2214,9 +1955,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14417",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "14417"
       }
@@ -2251,9 +1992,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14412",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "14412"
       }
@@ -2288,492 +2029,270 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14696",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "14696"
       }
     },
     {
       "type": "Feature",
-      "id": 591,
+      "id": 636,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.56373578259199,
-          37.10053518807142
+          -113.58244308699265,
+          37.09876462359546
         ]
       },
       "properties": {
-        "OBJECTID": 591,
-        "Last_Name": "Valentine",
-        "First_Name": "Seth",
-        "Address": "423 S 900 E, St. George, UT 84770",
-        "lat": 37.1005363,
-        "lon": -113.563736,
+        "OBJECTID": 636,
+        "Last_Name": "Angell",
+        "First_Name": "Brian",
+        "Address": "575 S Main St, St. George, UT 84770",
+        "lat": 37.0987663,
+        "lon": -113.582443,
+        "Apt_Number": 16,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 787881600000,
+        "Age": 31,
+        "Emails": "angell.brian.s@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "_cellId": "14093",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "14093"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6267651384577,
+          37.09913520388347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 635,
+        "Last_Name": "Le Sueur",
+        "First_Name": "Jarron",
+        "Address": "2023 W 530 S Cir, St. George, UT 84770",
+        "lat": 37.0991364,
+        "lon": -113.626762,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 929577600000,
+        "BirthDate": 938563200000,
         "Age": 26,
-        "Emails": "seththomasvalentine@gmail.com",
-        "Quarterly_att_pct": 36.36363636363636,
+        "Emails": "jarron.lesueur29@gmail.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "15195",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "15195"
+        "_group": 2,
+        "_cellId": "14320",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "14320"
       }
     },
     {
       "type": "Feature",
-      "id": 45,
+      "id": 577,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.58432375854899,
-          37.10064322839278
+          -113.58057543921132,
+          37.09915797536561
         ]
       },
       "properties": {
-        "OBJECTID": 45,
-        "Last_Name": "Boone",
-        "First_Name": "Jacob",
-        "Address": "460 S Main St, St. George, UT 84770",
-        "lat": 37.1006432,
-        "lon": -113.58432,
-        "Apt_Number": 18,
+        "OBJECTID": 577,
+        "Last_Name": "Acosta",
+        "First_Name": "Joseph",
+        "Address": "142 E 500 S, St. George, UT 84770",
+        "lat": 37.0991592,
+        "lon": -113.580574,
+        "Apt_Number": 2,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 884217600000,
-        "Age": 28,
-        "Emails": "Jacob.boone5656@gmail.com",
-        "Quarterly_att_pct": 27.27272727272727,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "14963",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "14963"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 415,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.57449895974507,
-          37.100945597034894
-        ]
-      },
-      "properties": {
-        "OBJECTID": 415,
-        "Last_Name": "Stucki",
-        "First_Name": "Bradley",
-        "Address": "419 S 400 E, St. George, UT 84770",
-        "lat": 37.1009445,
-        "lon": -113.574501,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 863481600000,
-        "Age": 28,
-        "Emails": "bradley.stucki@gmail.com",
-        "Quarterly_att_pct": 36.36363636363636,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "15116",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "15116"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 282,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.58174604463784,
-          37.101145526381806
-        ]
-      },
-      "properties": {
-        "OBJECTID": 282,
-        "Last_Name": "Miner",
-        "First_Name": "Jens",
-        "Address": "86 E 400 S, St. George, UT 84770",
-        "lat": 37.1011467,
-        "lon": -113.581749,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 888451200000,
-        "Age": 28,
-        "Emails": "miner.je15@gmail.com",
-        "Quarterly_att_pct": 18.18181818181818,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "15227",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "15227"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 194,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56884138535705,
-          37.10241875916142
-        ]
-      },
-      "properties": {
-        "OBJECTID": 194,
-        "Last_Name": "Huefner",
-        "First_Name": "Grant",
-        "Address": "338 S 700 E, St. George, UT 84770",
-        "lat": 37.102417,
-        "lon": -113.56884,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 848102400000,
-        "Age": 29,
-        "Emails": "granthuefner@gmail.com",
-        "Quarterly_att_pct": 27.27272727272727,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "16025",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "16025"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 667,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56881374060248,
-          37.101990539745984
-        ]
-      },
-      "properties": {
-        "OBJECTID": 667,
-        "Last_Name": "Kersey",
-        "First_Name": "Jordan",
-        "Address": "364 S 700 E d417, St. George, UT 84770",
-        "lat": 37.1019897,
-        "lon": -113.568817,
-        "Apt_Number": 417,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 749260800000,
+        "BirthDate": 733449600000,
         "Age": 32,
-        "Emails": "jordanmkersey@gmail.com",
-        "Quarterly_att_pct": 36.36363636363636,
+        "Emails": "joey@ebpnet.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "15705",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "15705"
+        "_group": 2,
+        "_cellId": "14270",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "14270"
       }
     },
     {
       "type": "Feature",
-      "id": 722,
+      "id": 498,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.56881241468913,
-          37.101993397000406
+          -113.57950458451059,
+          37.099322004779694
         ]
       },
       "properties": {
-        "OBJECTID": 722,
-        "Last_Name": "Oakley",
-        "First_Name": "Garren",
-        "Address": "364 S 700 E, St. George, UT 84770",
-        "lat": 37.1019936,
-        "lon": -113.56881,
-        "Apt_Number": null,
+        "OBJECTID": 498,
+        "Last_Name": "Hurst",
+        "First_Name": "Ethan",
+        "Address": "524 S 200 E, St. George, UT 84770",
+        "lat": 37.0993233,
+        "lon": -113.579506,
+        "Apt_Number": 3,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 803174400000,
-        "Age": 30,
-        "Emails": "garrenoakley@yahoo.com",
-        "Quarterly_att_pct": 54.54545454545454,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "15705",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "15705"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 530,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.6172454461518,
-          37.10234966812674
-        ]
-      },
-      "properties": {
-        "OBJECTID": 530,
-        "Last_Name": "Graham",
-        "First_Name": "Gabriel Demetrius",
-        "Address": "1590 W Brook View Ln\r\nSaint George, Utah 84770-6857",
-        "lat": 37.1023483,
-        "lon": -113.617249,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 927590400000,
+        "BirthDate": 921801600000,
         "Age": 26,
-        "Emails": "gabethegraham@gmail.com",
-        "Quarterly_att_pct": 9.090909090909092,
+        "Emails": null,
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "16140",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "16140"
+        "_group": 2,
+        "_cellId": "14336",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "14336"
       }
     },
     {
       "type": "Feature",
-      "id": 269,
+      "id": 449,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.56176576819077,
-          37.10272916221951
+          -113.56959980869692,
+          37.099377224508686
         ]
       },
       "properties": {
-        "OBJECTID": 269,
-        "Last_Name": "Maughan",
-        "First_Name": "Landon Joshua",
-        "Address": "333 S 1000 E f1, St. George, UT 84770",
-        "lat": 37.1027298,
-        "lon": -113.561768,
-        "Apt_Number": 1,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 801964800000,
-        "Age": 30,
-        "Emails": "tubalandon@gmail.com",
-        "Quarterly_att_pct": 72.72727272727273,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "16486",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "16486"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 492,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.57841359497108,
-          37.102824157063864
-        ]
-      },
-      "properties": {
-        "OBJECTID": 492,
-        "Last_Name": "Whitehead",
-        "First_Name": "Steven Dallin",
-        "Address": "325 S 200 E, St. George, UT 84770",
-        "lat": 37.1028252,
-        "lon": -113.578415,
-        "Apt_Number": 7,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 723254400000,
-        "Age": 33,
-        "Emails": "Stevenwhitehead92@gmail.com",
-        "Quarterly_att_pct": 45.454545454545446,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "16291",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "16291"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 160,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.572342481142,
-          37.103842451468765
-        ]
-      },
-      "properties": {
-        "OBJECTID": 160,
-        "Last_Name": "Hainsworth",
-        "First_Name": "Ezra",
-        "Address": "253 S 500 E, St. George, UT 84770",
-        "lat": 37.1038437,
-        "lon": -113.572342,
+        "OBJECTID": 449,
+        "Last_Name": "Vuki",
+        "First_Name": "Micah Ifalemi Kealoha",
+        "Address": "650 E 500 S, St. George, UT 84770",
+        "lat": 37.0993767,
+        "lon": -113.569603,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 743385600000,
-        "Age": 32,
-        "Emails": "ezrahainsworth@gmail.com",
-        "Quarterly_att_pct": 9.090909090909092,
+        "BirthDate": 910396800000,
+        "Age": 27,
+        "Emails": "micahvuki@gmail.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "16928",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "16928"
+        "_group": 2,
+        "_cellId": "14412",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "14412"
       }
     },
     {
       "type": "Feature",
-      "id": 244,
+      "id": 363,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.58154777118328,
-          37.1045638950314
+          -113.62005092880158,
+          37.1000173512816
         ]
       },
       "properties": {
-        "OBJECTID": 244,
-        "Last_Name": "Larsen",
-        "First_Name": "Jacob",
-        "Address": "84 E 200 S, St. George, UT 84770",
-        "lat": 37.1045647,
-        "lon": -113.581551,
+        "OBJECTID": 363,
+        "Last_Name": "Romero",
+        "First_Name": "Erik Alexis",
+        "Address": "1732 W Green Valley Ln, St. George, UT 84770",
+        "lat": 37.1000175,
+        "lon": -113.620049,
         "Apt_Number": null,
-        "Notes": null,
+        "Notes": "https://www.facebook.com/erik.romero3",
         "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 839894400000,
-        "Age": 29,
-        "Emails": "larsenjacobc@gmail.com",
-        "Quarterly_att_pct": 18.18181818181818,
+        "Address_confidence": "low",
+        "BirthDate": 905385600000,
+        "Age": 27,
+        "Emails": "erikromero1335@gmail.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "17352",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "17352"
+        "_group": 2,
+        "_cellId": "14720",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "14720"
       }
     },
     {
       "type": "Feature",
-      "id": 637,
+      "id": 387,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.56293617149633,
-          37.10576846674294
+          -113.62005495864392,
+          37.10001505854022
         ]
       },
       "properties": {
-        "OBJECTID": 637,
-        "Last_Name": "Hess",
-        "First_Name": "James",
-        "Address": "974 E 100 S, St. George, UT 84770",
-        "lat": 37.1057701,
-        "lon": -113.562935,
+        "OBJECTID": 387,
+        "Last_Name": "Shurtz",
+        "First_Name": "Justin Kenneth",
+        "Address": "1732 W Green Valley Ln, St. George, UT 84770",
+        "lat": 37.1000137,
+        "lon": -113.620056,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 940204800000,
-        "Age": 26,
-        "Emails": "jamesmhess@hotmail.com",
-        "Quarterly_att_pct": 27.27272727272727,
+        "BirthDate": 896054400000,
+        "Age": 27,
+        "Emails": "Just.shurtz05@gmail.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "18192",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "18192"
+        "_group": 2,
+        "_cellId": "14720",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "14720"
       }
     },
     {
@@ -2806,9 +2325,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "14621",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "14621"
       }
@@ -2843,9 +2362,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "14658",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "14658"
       }
@@ -2880,9 +2399,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "14658",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "14658"
       }
@@ -2917,9 +2436,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "14770",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "14770"
       }
@@ -2954,9 +2473,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15070",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "15070"
       }
@@ -2991,9 +2510,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15085",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "15085"
       }
@@ -3028,9 +2547,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "14749",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "14749"
       }
@@ -3065,11 +2584,270 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "14828",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 2,
         "cell_id": "14828"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56373578259199,
+          37.10053518807142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 591,
+        "Last_Name": "Valentine",
+        "First_Name": "Seth",
+        "Address": "423 S 900 E, St. George, UT 84770",
+        "lat": 37.1005363,
+        "lon": -113.563736,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 929577600000,
+        "Age": 26,
+        "Emails": "seththomasvalentine@gmail.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "15195",
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "15195"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.58432375854899,
+          37.10064322839278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "Last_Name": "Boone",
+        "First_Name": "Jacob",
+        "Address": "460 S Main St, St. George, UT 84770",
+        "lat": 37.1006432,
+        "lon": -113.58432,
+        "Apt_Number": 18,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 884217600000,
+        "Age": 28,
+        "Emails": "Jacob.boone5656@gmail.com",
+        "Quarterly_att_pct": 27.27272727272727,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "14963",
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "14963"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57449895974507,
+          37.100945597034894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 415,
+        "Last_Name": "Stucki",
+        "First_Name": "Bradley",
+        "Address": "419 S 400 E, St. George, UT 84770",
+        "lat": 37.1009445,
+        "lon": -113.574501,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 863481600000,
+        "Age": 28,
+        "Emails": "bradley.stucki@gmail.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "15116",
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "15116"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.58174604463784,
+          37.101145526381806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 282,
+        "Last_Name": "Miner",
+        "First_Name": "Jens",
+        "Address": "86 E 400 S, St. George, UT 84770",
+        "lat": 37.1011467,
+        "lon": -113.581749,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 888451200000,
+        "Age": 28,
+        "Emails": "miner.je15@gmail.com",
+        "Quarterly_att_pct": 18.18181818181818,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "15227",
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "15227"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56884138535705,
+          37.10241875916142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "Last_Name": "Huefner",
+        "First_Name": "Grant",
+        "Address": "338 S 700 E, St. George, UT 84770",
+        "lat": 37.102417,
+        "lon": -113.56884,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 848102400000,
+        "Age": 29,
+        "Emails": "granthuefner@gmail.com",
+        "Quarterly_att_pct": 27.27272727272727,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "16025",
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "16025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56881374060248,
+          37.101990539745984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 667,
+        "Last_Name": "Kersey",
+        "First_Name": "Jordan",
+        "Address": "364 S 700 E d417, St. George, UT 84770",
+        "lat": 37.1019897,
+        "lon": -113.568817,
+        "Apt_Number": 417,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 749260800000,
+        "Age": 32,
+        "Emails": "jordanmkersey@gmail.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "15705",
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "15705"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56881241468913,
+          37.101993397000406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 722,
+        "Last_Name": "Oakley",
+        "First_Name": "Garren",
+        "Address": "364 S 700 E, St. George, UT 84770",
+        "lat": 37.1019936,
+        "lon": -113.56881,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 803174400000,
+        "Age": 30,
+        "Emails": "garrenoakley@yahoo.com",
+        "Quarterly_att_pct": 54.54545454545454,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "15705",
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "15705"
       }
     },
     {
@@ -3102,9 +2880,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15067",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15067"
       }
@@ -3139,9 +2917,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15163",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15163"
       }
@@ -3176,9 +2954,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15163",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15163"
       }
@@ -3213,9 +2991,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15195",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15195"
       }
@@ -3250,9 +3028,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15729",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15729"
       }
@@ -3287,9 +3065,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15602",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15602"
       }
@@ -3324,9 +3102,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15729",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15729"
       }
@@ -3361,9 +3139,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "15834",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "15834"
       }
@@ -3398,9 +3176,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16292",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "16292"
       }
@@ -3435,9 +3213,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16123",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "16123"
       }
@@ -3472,9 +3250,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16486",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "16486"
       }
@@ -3509,9 +3287,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16486",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "16486"
       }
@@ -3546,9 +3324,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16486",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "16486"
       }
@@ -3583,9 +3361,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16486",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "16486"
       }
@@ -3620,11 +3398,270 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16620",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 2,
         "cell_id": "16620"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6172454461518,
+          37.10234966812674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 530,
+        "Last_Name": "Graham",
+        "First_Name": "Gabriel Demetrius",
+        "Address": "1590 W Brook View Ln\r\nSaint George, Utah 84770-6857",
+        "lat": 37.1023483,
+        "lon": -113.617249,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 927590400000,
+        "Age": 26,
+        "Emails": "gabethegraham@gmail.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "16140",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 1,
+        "cell_id": "16140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56176576819077,
+          37.10272916221951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 269,
+        "Last_Name": "Maughan",
+        "First_Name": "Landon Joshua",
+        "Address": "333 S 1000 E f1, St. George, UT 84770",
+        "lat": 37.1027298,
+        "lon": -113.561768,
+        "Apt_Number": 1,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 801964800000,
+        "Age": 30,
+        "Emails": "tubalandon@gmail.com",
+        "Quarterly_att_pct": 72.72727272727273,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "16486",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 1,
+        "cell_id": "16486"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57841359497108,
+          37.102824157063864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 492,
+        "Last_Name": "Whitehead",
+        "First_Name": "Steven Dallin",
+        "Address": "325 S 200 E, St. George, UT 84770",
+        "lat": 37.1028252,
+        "lon": -113.578415,
+        "Apt_Number": 7,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 723254400000,
+        "Age": 33,
+        "Emails": "Stevenwhitehead92@gmail.com",
+        "Quarterly_att_pct": 45.454545454545446,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "16291",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 1,
+        "cell_id": "16291"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.572342481142,
+          37.103842451468765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "Last_Name": "Hainsworth",
+        "First_Name": "Ezra",
+        "Address": "253 S 500 E, St. George, UT 84770",
+        "lat": 37.1038437,
+        "lon": -113.572342,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 743385600000,
+        "Age": 32,
+        "Emails": "ezrahainsworth@gmail.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "16928",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 1,
+        "cell_id": "16928"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.58154777118328,
+          37.1045638950314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 244,
+        "Last_Name": "Larsen",
+        "First_Name": "Jacob",
+        "Address": "84 E 200 S, St. George, UT 84770",
+        "lat": 37.1045647,
+        "lon": -113.581551,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 839894400000,
+        "Age": 29,
+        "Emails": "larsenjacobc@gmail.com",
+        "Quarterly_att_pct": 18.18181818181818,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "17352",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 1,
+        "cell_id": "17352"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56293617149633,
+          37.10576846674294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 637,
+        "Last_Name": "Hess",
+        "First_Name": "James",
+        "Address": "974 E 100 S, St. George, UT 84770",
+        "lat": 37.1057701,
+        "lon": -113.562935,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 940204800000,
+        "Age": 26,
+        "Emails": "jamesmhess@hotmail.com",
+        "Quarterly_att_pct": 27.27272727272727,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "18192",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 1,
+        "cell_id": "18192"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.58043170247767,
+          37.1067299311187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 592,
+        "Last_Name": "Gallegos Guevara",
+        "First_Name": "Enrique Mosiah",
+        "Address": "123 E 100 S, St. George, UT 84770",
+        "lat": 37.1067314,
+        "lon": -113.580429,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 919382400000,
+        "Age": 27,
+        "Emails": "enriquewankenobi1@gmail.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "18645",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 1,
+        "cell_id": "18645"
       }
     },
     {
@@ -3657,9 +3694,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16563",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "16563"
       }
@@ -3694,9 +3731,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16666",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "16666"
       }
@@ -3731,9 +3768,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "17165",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "17165"
       }
@@ -3768,9 +3805,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "16862",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "16862"
       }
@@ -3805,9 +3842,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "17456",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "17456"
       }
@@ -3842,9 +3879,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "18192",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "18192"
       }
@@ -3879,9 +3916,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "17561",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "17561"
       }
@@ -3916,9 +3953,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "17541",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "17541"
       }
@@ -3953,9 +3990,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "17816",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "17816"
       }
@@ -3990,9 +4027,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "17798",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "17798"
       }
@@ -4027,9 +4064,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "18020",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "18020"
       }
@@ -4064,9 +4101,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "17986",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "17986"
       }
@@ -4101,9 +4138,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "18193",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "18193"
       }
@@ -4138,48 +4175,48 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "18776",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 2,
         "cell_id": "18776"
       }
     },
     {
       "type": "Feature",
-      "id": 592,
+      "id": 336,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.58043170247767,
-          37.1067299311187
+          -113.57882399120692,
+          37.107265547098606
         ]
       },
       "properties": {
-        "OBJECTID": 592,
-        "Last_Name": "Gallegos Guevara",
-        "First_Name": "Enrique Mosiah",
-        "Address": "123 E 100 S, St. George, UT 84770",
-        "lat": 37.1067314,
-        "lon": -113.580429,
-        "Apt_Number": null,
-        "Notes": null,
+        "OBJECTID": 336,
+        "Last_Name": "Polatis",
+        "First_Name": "Samuel",
+        "Address": "55 S 200 E, St. George, UT 84770",
+        "lat": 37.1072655,
+        "lon": -113.578827,
+        "Apt_Number": 1,
+        "Notes": "https://www.facebook.com/sam.polatis/",
         "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 919382400000,
-        "Age": 27,
-        "Emails": "enriquewankenobi1@gmail.com",
-        "Quarterly_att_pct": 9.090909090909092,
+        "Address_confidence": "low",
+        "BirthDate": 811987200000,
+        "Age": 30,
+        "Emails": "sampolatis78@gmail.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "18645",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "18645"
+        "_group": 2,
+        "_cellId": "18734",
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
+        "group": 2,
+        "cell_id": "18734"
       }
     },
     {
@@ -4212,9 +4249,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18737",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "18737"
       }
@@ -4249,9 +4286,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19672",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "19672"
       }
@@ -4286,9 +4323,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19491",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "19491"
       }
@@ -4323,9 +4360,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19569",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "19569"
       }
@@ -4360,9 +4397,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "23158",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "23158"
       }
@@ -4397,9 +4434,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "23054",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "23054"
       }
@@ -4434,418 +4471,11 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "23573",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "23573"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 326,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.63740714006548,
-          37.11795668213146
-        ]
-      },
-      "properties": {
-        "OBJECTID": 326,
-        "Last_Name": "Patterson",
-        "First_Name": "Cason",
-        "Address": "2477 Catawba Cir, Santa Clara, UT 84765",
-        "lat": 37.1179581,
-        "lon": -113.637405,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 806630400000,
-        "Age": 30,
-        "Emails": "cason.patterson@gmail.com",
-        "Quarterly_att_pct": 27.27272727272727,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "24364",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "24364"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 508,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.62564367536879,
-          37.11823266230596
-        ]
-      },
-      "properties": {
-        "OBJECTID": 508,
-        "Last_Name": "Moody",
-        "First_Name": "Dallen",
-        "Address": "585 N Dusk Dr, St. George, UT 84770",
-        "lat": 37.1182327,
-        "lon": -113.625641,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 893203200000,
-        "Age": 27,
-        "Emails": "dallen.moody@icloud.com",
-        "Quarterly_att_pct": 9.090909090909092,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "24536",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "24536"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 256,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60520472901908,
-          37.11895933246186
-        ]
-      },
-      "properties": {
-        "OBJECTID": 256,
-        "Last_Name": "Lovell",
-        "First_Name": "Tyson",
-        "Address": "623 N 1000 W, St. George, UT 84770",
-        "lat": 37.1189575,
-        "lon": -113.605202,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 711331200000,
-        "Age": 33,
-        "Emails": "tyson.lovell3@icloud.com",
-        "Quarterly_att_pct": 36.36363636363636,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "24881",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "24881"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 193,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.61889235002006,
-          37.11921227349011
-        ]
-      },
-      "properties": {
-        "OBJECTID": 193,
-        "Last_Name": "Horlacher",
-        "First_Name": "Joe",
-        "Address": "1732 W 540 N , St. George, UT 84770",
-        "lat": 37.1192131,
-        "lon": -113.618889,
-        "Apt_Number": 145,
-        "Notes": "https://www.facebook.com/joe.horlacher.73/friends",
-        "Gender": "M",
-        "Address_confidence": "low",
-        "BirthDate": 776563200000,
-        "Age": 31,
-        "Emails": "joe.horlacher3@gmail.com",
-        "Quarterly_att_pct": 18.18181818181818,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "24997",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "24997"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 483,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.59663528180727,
-          37.12064094633477
-        ]
-      },
-      "properties": {
-        "OBJECTID": 483,
-        "Last_Name": "Angell",
-        "First_Name": "Rex",
-        "Address": "625 Diagonal St, St. George, UT 84770",
-        "lat": 37.1206398,
-        "lon": -113.596634,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 857088000000,
-        "Age": 29,
-        "Emails": "Rexdangello@gmail.com",
-        "Quarterly_att_pct": 36.36363636363636,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "25768",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "25768"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 534,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.63391413181303,
-          37.1212765333976
-        ]
-      },
-      "properties": {
-        "OBJECTID": 534,
-        "Last_Name": "Frei",
-        "First_Name": "Lincoln",
-        "Address": "2379 W Covey Ln, Santa Clara, UT 84765",
-        "lat": 37.1212769,
-        "lon": -113.633911,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 813888000000,
-        "Age": 30,
-        "Emails": "lfrei95@gmail.com",
-        "Quarterly_att_pct": 54.54545454545454,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "26096",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "26096"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 296,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.62004165908616,
-          37.12991974842866
-        ]
-      },
-      "properties": {
-        "OBJECTID": 296,
-        "Last_Name": "Nash",
-        "First_Name": "Cason",
-        "Address": "1687 W 1280 N, St. George, UT 84770",
-        "lat": 37.129921,
-        "lon": -113.620041,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 806198400000,
-        "Age": 30,
-        "Emails": "casonnash@gmail.com",
-        "Quarterly_att_pct": 36.36363636363636,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "29179",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "29179"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 696,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.65380571849045,
-          37.129937027438295
-        ]
-      },
-      "properties": {
-        "OBJECTID": 696,
-        "Last_Name": "Stapp",
-        "First_Name": "Shane",
-        "Address": "3278 W Bonneli Trail, Santa Clara, UT 84765",
-        "lat": 37.1299362,
-        "lon": -113.653809,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 883785600000,
-        "Age": 28,
-        "Emails": "shanestappalaskan@gmail.com",
-        "Quarterly_att_pct": 18.18181818181818,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "29246",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "29246"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 278,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.65640368132641,
-          37.132772163259986
-        ]
-      },
-      "properties": {
-        "OBJECTID": 278,
-        "Last_Name": "Mikami",
-        "First_Name": "Kyler",
-        "Address": "3131 Santa Clara Dr, Santa Clara, UT 84765",
-        "lat": 37.1327705,
-        "lon": -113.656403,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 866419200000,
-        "Age": 28,
-        "Emails": "kyguy28rules@yahoo.com",
-        "Quarterly_att_pct": 36.36363636363636,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "30468",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "30468"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 343,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.64175430332102,
-          37.13300386524372
-        ]
-      },
-      "properties": {
-        "OBJECTID": 343,
-        "Last_Name": "Quinn",
-        "First_Name": "Dominic",
-        "Address": "2457 Scenic Dr, Santa Clara, UT 84765",
-        "lat": 37.1330032,
-        "lon": -113.641754,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 791510400000,
-        "Age": 31,
-        "Emails": "dominicquinn951@gmail.com",
-        "Quarterly_att_pct": 54.54545454545454,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "30562",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "30562"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 336,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.57882399120692,
-          37.107265547098606
-        ]
-      },
-      "properties": {
-        "OBJECTID": 336,
-        "Last_Name": "Polatis",
-        "First_Name": "Samuel",
-        "Address": "55 S 200 E, St. George, UT 84770",
-        "lat": 37.1072655,
-        "lon": -113.578827,
-        "Apt_Number": 1,
-        "Notes": "https://www.facebook.com/sam.polatis/",
-        "Gender": "M",
-        "Address_confidence": "low",
-        "BirthDate": 811987200000,
-        "Age": 30,
-        "Emails": "sampolatis78@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "18734",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "18734"
       }
     },
     {
@@ -4878,9 +4508,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19000",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19000"
       }
@@ -4915,9 +4545,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19067",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19067"
       }
@@ -4952,9 +4582,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19067",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19067"
       }
@@ -4989,9 +4619,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19074",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19074"
       }
@@ -5026,9 +4656,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19867",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19867"
       }
@@ -5063,9 +4693,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19867",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19867"
       }
@@ -5100,9 +4730,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19672",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19672"
       }
@@ -5137,9 +4767,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19672",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19672"
       }
@@ -5174,9 +4804,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19506",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19506"
       }
@@ -5211,9 +4841,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19593",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19593"
       }
@@ -5248,9 +4878,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "19721",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "19721"
       }
@@ -5285,9 +4915,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "20018",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "20018"
       }
@@ -5322,9 +4952,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "21551",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "21551"
       }
@@ -5359,9 +4989,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "21623",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "21623"
       }
@@ -5396,11 +5026,270 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "21733",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 2,
         "cell_id": "21733"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.63740714006548,
+          37.11795668213146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 326,
+        "Last_Name": "Patterson",
+        "First_Name": "Cason",
+        "Address": "2477 Catawba Cir, Santa Clara, UT 84765",
+        "lat": 37.1179581,
+        "lon": -113.637405,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 806630400000,
+        "Age": 30,
+        "Emails": "cason.patterson@gmail.com",
+        "Quarterly_att_pct": 27.27272727272727,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "24364",
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
+        "group": 1,
+        "cell_id": "24364"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.62564367536879,
+          37.11823266230596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 508,
+        "Last_Name": "Moody",
+        "First_Name": "Dallen",
+        "Address": "585 N Dusk Dr, St. George, UT 84770",
+        "lat": 37.1182327,
+        "lon": -113.625641,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 893203200000,
+        "Age": 27,
+        "Emails": "dallen.moody@icloud.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "24536",
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
+        "group": 1,
+        "cell_id": "24536"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.60520472901908,
+          37.11895933246186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 256,
+        "Last_Name": "Lovell",
+        "First_Name": "Tyson",
+        "Address": "623 N 1000 W, St. George, UT 84770",
+        "lat": 37.1189575,
+        "lon": -113.605202,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 711331200000,
+        "Age": 33,
+        "Emails": "tyson.lovell3@icloud.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "24881",
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
+        "group": 1,
+        "cell_id": "24881"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.61889235002006,
+          37.11921227349011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "Last_Name": "Horlacher",
+        "First_Name": "Joe",
+        "Address": "1732 W 540 N , St. George, UT 84770",
+        "lat": 37.1192131,
+        "lon": -113.618889,
+        "Apt_Number": 145,
+        "Notes": "https://www.facebook.com/joe.horlacher.73/friends",
+        "Gender": "M",
+        "Address_confidence": "low",
+        "BirthDate": 776563200000,
+        "Age": 31,
+        "Emails": "joe.horlacher3@gmail.com",
+        "Quarterly_att_pct": 18.18181818181818,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "24997",
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
+        "group": 1,
+        "cell_id": "24997"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.59663528180727,
+          37.12064094633477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 483,
+        "Last_Name": "Angell",
+        "First_Name": "Rex",
+        "Address": "625 Diagonal St, St. George, UT 84770",
+        "lat": 37.1206398,
+        "lon": -113.596634,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 857088000000,
+        "Age": 29,
+        "Emails": "Rexdangello@gmail.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "25768",
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
+        "group": 1,
+        "cell_id": "25768"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.63391413181303,
+          37.1212765333976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 534,
+        "Last_Name": "Frei",
+        "First_Name": "Lincoln",
+        "Address": "2379 W Covey Ln, Santa Clara, UT 84765",
+        "lat": 37.1212769,
+        "lon": -113.633911,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 813888000000,
+        "Age": 30,
+        "Emails": "lfrei95@gmail.com",
+        "Quarterly_att_pct": 54.54545454545454,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "26096",
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
+        "group": 1,
+        "cell_id": "26096"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.62004165908616,
+          37.12991974842866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 296,
+        "Last_Name": "Nash",
+        "First_Name": "Cason",
+        "Address": "1687 W 1280 N, St. George, UT 84770",
+        "lat": 37.129921,
+        "lon": -113.620041,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 806198400000,
+        "Age": 30,
+        "Emails": "casonnash@gmail.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "29179",
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
+        "group": 1,
+        "cell_id": "29179"
       }
     },
     {
@@ -5433,9 +5322,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "22533",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "22533"
       }
@@ -5470,9 +5359,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "22095",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "22095"
       }
@@ -5507,9 +5396,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "22752",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "22752"
       }
@@ -5544,9 +5433,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "22820",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "22820"
       }
@@ -5581,9 +5470,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "22961",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "22961"
       }
@@ -5618,9 +5507,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "22942",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "22942"
       }
@@ -5655,9 +5544,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "23054",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "23054"
       }
@@ -5692,9 +5581,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "23158",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "23158"
       }
@@ -5729,9 +5618,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "23158",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "23158"
       }
@@ -5766,9 +5655,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "23235",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "23235"
       }
@@ -5803,9 +5692,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "23203",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "23203"
       }
@@ -5840,9 +5729,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "23932",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "23932"
       }
@@ -5877,9 +5766,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "24066",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "24066"
       }
@@ -5914,9 +5803,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "24066",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "24066"
       }
@@ -5951,233 +5840,122 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "24252",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 6,
+        "district_color": "#dc2626",
+        "district_label": 7,
         "group": 2,
         "cell_id": "24252"
       }
     },
     {
       "type": "Feature",
-      "id": 586,
+      "id": 696,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.60784581009038,
-          37.118673883233434
+          -113.65380571849045,
+          37.129937027438295
         ]
       },
       "properties": {
-        "OBJECTID": 586,
-        "Last_Name": "Chamberlain",
-        "First_Name": "Garrett Joseph",
-        "Address": "1150 W 610 N Cir, St. George, UT 84770",
-        "lat": 37.1186752,
-        "lon": -113.607849,
+        "OBJECTID": 696,
+        "Last_Name": "Stapp",
+        "First_Name": "Shane",
+        "Address": "3278 W Bonneli Trail, Santa Clara, UT 84765",
+        "lat": 37.1299362,
+        "lon": -113.653809,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 924566400000,
-        "Age": 26,
-        "Emails": "garrettjchamberlain@gmail.com",
-        "Quarterly_att_pct": 0,
+        "BirthDate": 883785600000,
+        "Age": 28,
+        "Emails": "shanestappalaskan@gmail.com",
+        "Quarterly_att_pct": 18.18181818181818,
         "prospective_elder": "no",
-        "Assigned_to_minister": "no",
+        "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "24728",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "24728"
+        "_group": 1,
+        "_cellId": "29246",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 1,
+        "cell_id": "29246"
       }
     },
     {
       "type": "Feature",
-      "id": 135,
+      "id": 278,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.60027162973805,
-          37.11971085682694
+          -113.65640368132641,
+          37.132772163259986
         ]
       },
       "properties": {
-        "OBJECTID": 135,
-        "Last_Name": "Foster",
-        "First_Name": "Brandt",
-        "Address": "664 Ridge Rim Way, St. George, UT 84770",
-        "lat": 37.119709,
-        "lon": -113.600273,
+        "OBJECTID": 278,
+        "Last_Name": "Mikami",
+        "First_Name": "Kyler",
+        "Address": "3131 Santa Clara Dr, Santa Clara, UT 84765",
+        "lat": 37.1327705,
+        "lon": -113.656403,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 867974400000,
+        "BirthDate": 866419200000,
         "Age": 28,
-        "Emails": "xolani3713@gmail.com",
-        "Quarterly_att_pct": 0,
+        "Emails": "kyguy28rules@yahoo.com",
+        "Quarterly_att_pct": 36.36363636363636,
         "prospective_elder": "no",
-        "Assigned_to_minister": "no",
+        "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "25268",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "25268"
+        "_group": 1,
+        "_cellId": "30468",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 1,
+        "cell_id": "30468"
       }
     },
     {
       "type": "Feature",
-      "id": 120,
+      "id": 343,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.59490033136306,
-          37.12001680315542
+          -113.64175430332102,
+          37.13300386524372
         ]
       },
       "properties": {
-        "OBJECTID": 120,
-        "Last_Name": "Enfield",
-        "First_Name": "Vincent",
-        "Address": "550 Diagonal St, St. George, UT 84770",
-        "lat": 37.120018,
-        "lon": -113.594902,
-        "Apt_Number": 4,
+        "OBJECTID": 343,
+        "Last_Name": "Quinn",
+        "First_Name": "Dominic",
+        "Address": "2457 Scenic Dr, Santa Clara, UT 84765",
+        "lat": 37.1330032,
+        "lon": -113.641754,
+        "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 838339200000,
-        "Age": 29,
-        "Emails": "fez72696@icloud.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "25414",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "25414"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 738,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60599030124348,
-          37.121675676823855
-        ]
-      },
-      "properties": {
-        "OBJECTID": 738,
-        "Last_Name": "Duff",
-        "First_Name": "Cody",
-        "Address": "781 N Valley View Dr, St. George, UT 84770",
-        "lat": 37.1216774,
-        "lon": -113.605988,
-        "Apt_Number": 63,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 949968000000,
-        "Age": 26,
-        "Emails": null,
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "26164",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "26164"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60621187160663,
-          37.12231025600128
-        ]
-      },
-      "properties": {
-        "OBJECTID": 25,
-        "Last_Name": "Barton",
-        "First_Name": "Benjamin Joseph",
-        "Address": "781 N Valley View Dr, St. George, UT 84770",
-        "lat": 37.1223106,
-        "lon": -113.606209,
-        "Apt_Number": 63,
-        "Notes": "address is not certain.  No address provided in lds tools",
-        "Gender": "M",
-        "Address_confidence": "low",
-        "BirthDate": 888019200000,
-        "Age": 28,
-        "Emails": "xeonparkour@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "26331",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "26331"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 4,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.55727497959265,
-          37.12395801899972
-        ]
-      },
-      "properties": {
-        "OBJECTID": 4,
-        "Last_Name": "Ahlstrom",
-        "First_Name": "Jacob",
-        "Address": "861 Redrock Rd, St. George, UT 84770",
-        "lat": 37.1239586,
-        "lon": -113.557274,
-        "Apt_Number": 18,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 792028800000,
+        "BirthDate": 791510400000,
         "Age": 31,
-        "Emails": "cubbyj95@gmail.com",
-        "Quarterly_att_pct": 0,
+        "Emails": "dominicquinn951@gmail.com",
+        "Quarterly_att_pct": 54.54545454545454,
         "prospective_elder": "no",
-        "Assigned_to_minister": "no",
+        "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
-        "_group": 2,
-        "_cellId": "26822",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "26822"
+        "_group": 1,
+        "_cellId": "30562",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 1,
+        "cell_id": "30562"
       }
     },
     {
@@ -6210,9 +5988,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "31072",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 1,
         "cell_id": "31072"
       }
@@ -6247,9 +6025,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "32798",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 1,
         "cell_id": "32798"
       }
@@ -6284,9 +6062,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "34411",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 1,
         "cell_id": "34411"
       }
@@ -6321,529 +6099,233 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "34607",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 1,
         "cell_id": "34607"
       }
     },
     {
       "type": "Feature",
-      "id": 513,
+      "id": 586,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.6569661048477,
-          37.1457198420476
+          -113.60784581009038,
+          37.118673883233434
         ]
       },
       "properties": {
-        "OBJECTID": 513,
-        "Last_Name": "Phillips",
-        "First_Name": "Shane",
-        "Address": "3437 Robbin Ct, Santa Clara, UT 84765",
-        "lat": 37.1457214,
-        "lon": -113.656967,
+        "OBJECTID": 586,
+        "Last_Name": "Chamberlain",
+        "First_Name": "Garrett Joseph",
+        "Address": "1150 W 610 N Cir, St. George, UT 84770",
+        "lat": 37.1186752,
+        "lon": -113.607849,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 823824000000,
-        "Age": 30,
-        "Emails": "shanequeen14@gmail.com",
-        "Quarterly_att_pct": 9.090909090909092,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "35277",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "35277"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 533,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.67261685286661,
-          37.14649168545742
-        ]
-      },
-      "properties": {
-        "OBJECTID": 533,
-        "Last_Name": "Evans",
-        "First_Name": "Trystan",
-        "Address": "284 1175 S, Ivins, UT 84738",
-        "lat": 37.146492,
-        "lon": -113.672615,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 928540800000,
+        "BirthDate": 924566400000,
         "Age": 26,
-        "Emails": "Trystan.evansj@gmail.com",
-        "Quarterly_att_pct": 45.454545454545446,
+        "Emails": "garrettjchamberlain@gmail.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "35497",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "35497"
+        "_group": 2,
+        "_cellId": "24728",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 2,
+        "cell_id": "24728"
       }
     },
     {
       "type": "Feature",
-      "id": 607,
+      "id": 135,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.67695692302465,
-          37.159636445775995
+          -113.60027162973805,
+          37.11971085682694
         ]
       },
       "properties": {
-        "OBJECTID": 607,
-        "Last_Name": "Munoz",
-        "First_Name": "Tito",
-        "Address": "468 100 E, Ivins, UT 84738",
-        "lat": 37.1596375,
-        "lon": -113.676956,
+        "OBJECTID": 135,
+        "Last_Name": "Foster",
+        "First_Name": "Brandt",
+        "Address": "664 Ridge Rim Way, St. George, UT 84770",
+        "lat": 37.119709,
+        "lon": -113.600273,
         "Apt_Number": null,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 851644800000,
+        "BirthDate": 867974400000,
+        "Age": 28,
+        "Emails": "xolani3713@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "_cellId": "25268",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 2,
+        "cell_id": "25268"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.59490033136306,
+          37.12001680315542
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "Last_Name": "Enfield",
+        "First_Name": "Vincent",
+        "Address": "550 Diagonal St, St. George, UT 84770",
+        "lat": 37.120018,
+        "lon": -113.594902,
+        "Apt_Number": 4,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 838339200000,
         "Age": 29,
-        "Emails": "munozman231@gmail.com",
-        "Quarterly_att_pct": 54.54545454545454,
+        "Emails": "fez72696@icloud.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "40278",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "40278"
+        "_group": 2,
+        "_cellId": "25414",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 2,
+        "cell_id": "25414"
       }
     },
     {
       "type": "Feature",
-      "id": 441,
+      "id": 738,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.6762129940019,
-          37.16071193010805
+          -113.60599030124348,
+          37.121675676823855
         ]
       },
       "properties": {
-        "OBJECTID": 441,
-        "Last_Name": "Twitchell",
-        "First_Name": "Craig",
-        "Address": "414 S 150 E, Ivins, UT 84738",
-        "lat": 37.1607132,
-        "lon": -113.676216,
-        "Apt_Number": null,
+        "OBJECTID": 738,
+        "Last_Name": "Duff",
+        "First_Name": "Cody",
+        "Address": "781 N Valley View Dr, St. George, UT 84770",
+        "lat": 37.1216774,
+        "lon": -113.605988,
+        "Apt_Number": 63,
         "Notes": null,
         "Gender": "M",
         "Address_confidence": "high",
-        "BirthDate": 803692800000,
-        "Age": 30,
-        "Emails": "cyresstheman@gmail.com",
-        "Quarterly_att_pct": 36.36363636363636,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "40876",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "40876"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.67165418137724,
-          37.16967130551942
-        ]
-      },
-      "properties": {
-        "OBJECTID": 293,
-        "Last_Name": "Munson",
-        "First_Name": "Reed Howard",
-        "Address": "95 N 400 E a209, Ivins, UT 84738",
-        "lat": 37.1696701,
-        "lon": -113.671654,
-        "Apt_Number": 209,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 908841600000,
-        "Age": 27,
-        "Emails": "munsreed@isu.edu",
-        "Quarterly_att_pct": 9.090909090909092,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "44239",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "44239"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 568,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.67164792640791,
-          37.169668659123985
-        ]
-      },
-      "properties": {
-        "OBJECTID": 568,
-        "Last_Name": "Roberts",
-        "First_Name": "Brayden",
-        "Address": "95 N 400 E, Ivins, UT 84738",
-        "lat": 37.1696701,
-        "lon": -113.671646,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 870652800000,
-        "Age": 28,
-        "Emails": "braydenrobertsdawg@gmail.com",
-        "Quarterly_att_pct": 36.36363636363636,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "44239",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "44239"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 570,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.67164596987723,
-          37.16966613942905
-        ]
-      },
-      "properties": {
-        "OBJECTID": 570,
-        "Last_Name": "Taylor",
-        "First_Name": "Trey",
-        "Address": "95 N 400 E, Ivins, UT 84738",
-        "lat": 37.1696663,
-        "lon": -113.671646,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 931910400000,
+        "BirthDate": 949968000000,
         "Age": 26,
-        "Emails": "Treyrtaylor18@outlook.com",
-        "Quarterly_att_pct": 9.090909090909092,
+        "Emails": null,
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "44239",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "44239"
+        "_group": 2,
+        "_cellId": "26164",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 2,
+        "cell_id": "26164"
       }
     },
     {
       "type": "Feature",
-      "id": 396,
+      "id": 25,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.6829241987934,
-          37.169730476091004
+          -113.60621187160663,
+          37.12231025600128
         ]
       },
       "properties": {
-        "OBJECTID": 396,
-        "Last_Name": "Sorensen",
-        "First_Name": "Christian",
-        "Address": "137 W 100 N, Ivins, UT 84738",
-        "lat": 37.1697311,
-        "lon": -113.682922,
-        "Apt_Number": null,
-        "Notes": null,
+        "OBJECTID": 25,
+        "Last_Name": "Barton",
+        "First_Name": "Benjamin Joseph",
+        "Address": "781 N Valley View Dr, St. George, UT 84770",
+        "lat": 37.1223106,
+        "lon": -113.606209,
+        "Apt_Number": 63,
+        "Notes": "address is not certain.  No address provided in lds tools",
         "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 919728000000,
-        "Age": 27,
-        "Emails": "chrishans.sor@gmail.com",
-        "Quarterly_att_pct": 45.454545454545446,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "43652",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "43652"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 106,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.67567320982242,
-          37.169794280127256
-        ]
-      },
-      "properties": {
-        "OBJECTID": 106,
-        "Last_Name": "Dennett",
-        "First_Name": "Logan",
-        "Address": "172 E 100 N, Ivins, UT 84738",
-        "lat": 37.169796,
-        "lon": -113.675674,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 804643200000,
-        "Age": 30,
-        "Emails": "13dennelog@gmail.com",
-        "Quarterly_att_pct": 27.27272727272727,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "43676",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "43676"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.68967238093695,
-          37.17114205353782
-        ]
-      },
-      "properties": {
-        "OBJECTID": 82,
-        "Last_Name": "Clark",
-        "First_Name": "Cameron Ray",
-        "Address": "445 W Cantera Ct, Ivins, UT 84738",
-        "lat": 37.1711426,
-        "lon": -113.689674,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 801792000000,
-        "Age": 30,
-        "Emails": "crclark95@gmail.com",
-        "Quarterly_att_pct": 54.54545454545454,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "44013",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "44013"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 313,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.65309389166268,
-          37.17370271327078
-        ]
-      },
-      "properties": {
-        "OBJECTID": 313,
-        "Last_Name": "Olsen",
-        "First_Name": "Russell",
-        "Address": "250 Snow Canyon Dr, Ivins, UT 84738",
-        "lat": 37.1737022,
-        "lon": -113.653091,
-        "Apt_Number": 12,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 707961600000,
-        "Age": 33,
-        "Emails": "mathman196@gmail.com",
-        "Quarterly_att_pct": 45.454545454545446,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "44687",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "44687"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 189,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.61946841356064,
-          37.20612186970182
-        ]
-      },
-      "properties": {
-        "OBJECTID": 189,
-        "Last_Name": "Holmes",
-        "First_Name": "Colton",
-        "Address": "1652 Serene Dr, St. George, UT 84770",
-        "lat": 37.2061234,
-        "lon": -113.619469,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 773712000000,
-        "Age": 31,
-        "Emails": "coltonholmes5@gmail.com",
-        "Quarterly_att_pct": 45.454545454545446,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "48661",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "48661"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 19,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.66633019008175,
-          37.303656460996365
-        ]
-      },
-      "properties": {
-        "OBJECTID": 19,
-        "Last_Name": "Ballif",
-        "First_Name": "Zack",
-        "Address": "920 N Horsemans Pk Dr, Dammeron Valley, UT 84783",
-        "lat": 37.3036575,
-        "lon": -113.666328,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 800496000000,
-        "Age": 30,
-        "Emails": "zballif@hotmail.com",
-        "Quarterly_att_pct": 9.090909090909092,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "50335",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "50335"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 616,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.68133594413342,
-          37.34456285365141
-        ]
-      },
-      "properties": {
-        "OBJECTID": 616,
-        "Last_Name": "Jensen",
-        "First_Name": "Seth",
-        "Address": "544 Chad Ranch Rd, Veyo, UT 84782",
-        "lat": 37.3445625,
-        "lon": -113.681335,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "M",
-        "Address_confidence": "high",
-        "BirthDate": 868492800000,
+        "Address_confidence": "low",
+        "BirthDate": 888019200000,
         "Age": 28,
-        "Emails": "sharpiefumesart@gmail.com",
-        "Quarterly_att_pct": 27.27272727272727,
+        "Emails": "xeonparkour@gmail.com",
+        "Quarterly_att_pct": 0,
         "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
+        "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "51330",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "51330"
+        "_group": 2,
+        "_cellId": "26331",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 2,
+        "cell_id": "26331"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.55727497959265,
+          37.12395801899972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "Last_Name": "Ahlstrom",
+        "First_Name": "Jacob",
+        "Address": "861 Redrock Rd, St. George, UT 84770",
+        "lat": 37.1239586,
+        "lon": -113.557274,
+        "Apt_Number": 18,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 792028800000,
+        "Age": 31,
+        "Emails": "cubbyj95@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "_cellId": "26822",
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
+        "group": 2,
+        "cell_id": "26822"
       }
     },
     {
@@ -6876,9 +6358,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "27054",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "27054"
       }
@@ -6913,9 +6395,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "27279",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "27279"
       }
@@ -6950,9 +6432,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "27295",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "27295"
       }
@@ -6987,9 +6469,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "27964",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "27964"
       }
@@ -7024,9 +6506,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "28649",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "28649"
       }
@@ -7061,9 +6543,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "29635",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "29635"
       }
@@ -7098,9 +6580,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "30562",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "30562"
       }
@@ -7135,11 +6617,270 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "31412",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 7,
+        "district_color": "#65a30d",
+        "district_label": 8,
         "group": 2,
         "cell_id": "31412"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6569661048477,
+          37.1457198420476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 513,
+        "Last_Name": "Phillips",
+        "First_Name": "Shane",
+        "Address": "3437 Robbin Ct, Santa Clara, UT 84765",
+        "lat": 37.1457214,
+        "lon": -113.656967,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 823824000000,
+        "Age": 30,
+        "Emails": "shanequeen14@gmail.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "35277",
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
+        "group": 1,
+        "cell_id": "35277"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.67261685286661,
+          37.14649168545742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 533,
+        "Last_Name": "Evans",
+        "First_Name": "Trystan",
+        "Address": "284 1175 S, Ivins, UT 84738",
+        "lat": 37.146492,
+        "lon": -113.672615,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 928540800000,
+        "Age": 26,
+        "Emails": "Trystan.evansj@gmail.com",
+        "Quarterly_att_pct": 45.454545454545446,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "35497",
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
+        "group": 1,
+        "cell_id": "35497"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.67695692302465,
+          37.159636445775995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 607,
+        "Last_Name": "Munoz",
+        "First_Name": "Tito",
+        "Address": "468 100 E, Ivins, UT 84738",
+        "lat": 37.1596375,
+        "lon": -113.676956,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 851644800000,
+        "Age": 29,
+        "Emails": "munozman231@gmail.com",
+        "Quarterly_att_pct": 54.54545454545454,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "40278",
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
+        "group": 1,
+        "cell_id": "40278"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6762129940019,
+          37.16071193010805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 441,
+        "Last_Name": "Twitchell",
+        "First_Name": "Craig",
+        "Address": "414 S 150 E, Ivins, UT 84738",
+        "lat": 37.1607132,
+        "lon": -113.676216,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 803692800000,
+        "Age": 30,
+        "Emails": "cyresstheman@gmail.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "40876",
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
+        "group": 1,
+        "cell_id": "40876"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.67165418137724,
+          37.16967130551942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 293,
+        "Last_Name": "Munson",
+        "First_Name": "Reed Howard",
+        "Address": "95 N 400 E a209, Ivins, UT 84738",
+        "lat": 37.1696701,
+        "lon": -113.671654,
+        "Apt_Number": 209,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 908841600000,
+        "Age": 27,
+        "Emails": "munsreed@isu.edu",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "44239",
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
+        "group": 1,
+        "cell_id": "44239"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.67164792640791,
+          37.169668659123985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 568,
+        "Last_Name": "Roberts",
+        "First_Name": "Brayden",
+        "Address": "95 N 400 E, Ivins, UT 84738",
+        "lat": 37.1696701,
+        "lon": -113.671646,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 870652800000,
+        "Age": 28,
+        "Emails": "braydenrobertsdawg@gmail.com",
+        "Quarterly_att_pct": 36.36363636363636,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "44239",
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
+        "group": 1,
+        "cell_id": "44239"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.67164596987723,
+          37.16966613942905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 570,
+        "Last_Name": "Taylor",
+        "First_Name": "Trey",
+        "Address": "95 N 400 E, Ivins, UT 84738",
+        "lat": 37.1696663,
+        "lon": -113.671646,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 931910400000,
+        "Age": 26,
+        "Emails": "Treyrtaylor18@outlook.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "44239",
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
+        "group": 1,
+        "cell_id": "44239"
       }
     },
     {
@@ -7172,9 +6913,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32172",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32172"
       }
@@ -7209,9 +6950,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32234",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32234"
       }
@@ -7246,9 +6987,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32362",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32362"
       }
@@ -7283,9 +7024,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32408",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32408"
       }
@@ -7320,9 +7061,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32496",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32496"
       }
@@ -7357,9 +7098,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32559",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32559"
       }
@@ -7394,9 +7135,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32590",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32590"
       }
@@ -7431,9 +7172,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32708",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32708"
       }
@@ -7468,9 +7209,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "32802",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "32802"
       }
@@ -7505,9 +7246,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "33979",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "33979"
       }
@@ -7542,9 +7283,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "34159",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "34159"
       }
@@ -7579,9 +7320,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "34631",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "34631"
       }
@@ -7616,9 +7357,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "35817",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "35817"
       }
@@ -7653,11 +7394,270 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "35878",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 8,
+        "district_color": "#c2410c",
+        "district_label": 9,
         "group": 2,
         "cell_id": "35878"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6829241987934,
+          37.169730476091004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 396,
+        "Last_Name": "Sorensen",
+        "First_Name": "Christian",
+        "Address": "137 W 100 N, Ivins, UT 84738",
+        "lat": 37.1697311,
+        "lon": -113.682922,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 919728000000,
+        "Age": 27,
+        "Emails": "chrishans.sor@gmail.com",
+        "Quarterly_att_pct": 45.454545454545446,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "43652",
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
+        "group": 1,
+        "cell_id": "43652"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.67567320982242,
+          37.169794280127256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "Last_Name": "Dennett",
+        "First_Name": "Logan",
+        "Address": "172 E 100 N, Ivins, UT 84738",
+        "lat": 37.169796,
+        "lon": -113.675674,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 804643200000,
+        "Age": 30,
+        "Emails": "13dennelog@gmail.com",
+        "Quarterly_att_pct": 27.27272727272727,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "43676",
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
+        "group": 1,
+        "cell_id": "43676"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.68967238093695,
+          37.17114205353782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "Last_Name": "Clark",
+        "First_Name": "Cameron Ray",
+        "Address": "445 W Cantera Ct, Ivins, UT 84738",
+        "lat": 37.1711426,
+        "lon": -113.689674,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 801792000000,
+        "Age": 30,
+        "Emails": "crclark95@gmail.com",
+        "Quarterly_att_pct": 54.54545454545454,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "44013",
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
+        "group": 1,
+        "cell_id": "44013"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.65309389166268,
+          37.17370271327078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 313,
+        "Last_Name": "Olsen",
+        "First_Name": "Russell",
+        "Address": "250 Snow Canyon Dr, Ivins, UT 84738",
+        "lat": 37.1737022,
+        "lon": -113.653091,
+        "Apt_Number": 12,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 707961600000,
+        "Age": 33,
+        "Emails": "mathman196@gmail.com",
+        "Quarterly_att_pct": 45.454545454545446,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "44687",
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
+        "group": 1,
+        "cell_id": "44687"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.61946841356064,
+          37.20612186970182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "Last_Name": "Holmes",
+        "First_Name": "Colton",
+        "Address": "1652 Serene Dr, St. George, UT 84770",
+        "lat": 37.2061234,
+        "lon": -113.619469,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 773712000000,
+        "Age": 31,
+        "Emails": "coltonholmes5@gmail.com",
+        "Quarterly_att_pct": 45.454545454545446,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "48661",
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
+        "group": 1,
+        "cell_id": "48661"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.66633019008175,
+          37.303656460996365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "Last_Name": "Ballif",
+        "First_Name": "Zack",
+        "Address": "920 N Horsemans Pk Dr, Dammeron Valley, UT 84783",
+        "lat": 37.3036575,
+        "lon": -113.666328,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 800496000000,
+        "Age": 30,
+        "Emails": "zballif@hotmail.com",
+        "Quarterly_att_pct": 9.090909090909092,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "50335",
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
+        "group": 1,
+        "cell_id": "50335"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.68133594413342,
+          37.34456285365141
+        ]
+      },
+      "properties": {
+        "OBJECTID": 616,
+        "Last_Name": "Jensen",
+        "First_Name": "Seth",
+        "Address": "544 Chad Ranch Rd, Veyo, UT 84782",
+        "lat": 37.3445625,
+        "lon": -113.681335,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 868492800000,
+        "Age": 28,
+        "Emails": "sharpiefumesart@gmail.com",
+        "Quarterly_att_pct": 27.27272727272727,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "51330",
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
+        "group": 1,
+        "cell_id": "51330"
       }
     },
     {
@@ -7690,9 +7690,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "36077",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "36077"
       }
@@ -7727,9 +7727,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "37089",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "37089"
       }
@@ -7764,9 +7764,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "37089",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "37089"
       }
@@ -7801,9 +7801,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "37383",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "37383"
       }
@@ -7838,9 +7838,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "39703",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "39703"
       }
@@ -7875,9 +7875,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "42339",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "42339"
       }
@@ -7912,9 +7912,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "42457",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "42457"
       }
@@ -7949,9 +7949,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "42950",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "42950"
       }
@@ -7986,9 +7986,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "42980",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "42980"
       }
@@ -8023,9 +8023,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "44239",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "44239"
       }
@@ -8060,9 +8060,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "44540",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "44540"
       }
@@ -8097,9 +8097,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "45183",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "45183"
       }
@@ -8134,9 +8134,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "50400",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "50400"
       }
@@ -8171,9 +8171,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 2,
         "_cellId": "51033",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 9,
+        "district_color": "#0f766e",
+        "district_label": 10,
         "group": 2,
         "cell_id": "51033"
       }
