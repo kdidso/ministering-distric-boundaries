@@ -232,10 +232,22 @@
           const districtLabel = `District ${getDistrictNumber(props)}`;
           const displayName = getDisplayName(props);
 
-          layer.bindPopup(`
-            <b>${displayName}</b><br>
-            ${districtLabel}
-          `);
+function formatYesNo(val) {
+  if (val === null || val === undefined) return "Unknown";
+  if (typeof val === "string") return val.toLowerCase() === "yes" ? "Yes" : "No";
+  if (typeof val === "number") return val === 1 ? "Yes" : "No";
+  return val;
+}
+
+const assignedToMinister = formatYesNo(props.Assigned_to_minister);
+const isAssignedMinisters = formatYesNo(props.Is_assigned_ministers);
+
+layer.bindPopup(`
+  <b>${displayName}</b><br>
+  ${districtLabel}<br><br>
+  <b>Assigned to Minister:</b> ${assignedToMinister}<br>
+  <b>Has Assigned Ministers:</b> ${isAssignedMinisters}
+`);
 
           layer.on("mouseover", function () {
             layer.setStyle({
