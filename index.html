@@ -32,6 +32,8 @@
       border-radius: 6px;
       font-family: sans-serif;
       box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+      line-height: 1.4;
+      min-width: 220px;
     }
 
     .district-label {
@@ -70,6 +72,8 @@
   let pointLayer;
   let districtLabelLayer;
 
+  const districtStats = new Map();
+
   // Guaranteed unique display colors by district_id
   const DISTRICT_PALETTE = [
     "#e41a1c", // red
@@ -98,6 +102,60 @@
     return "#888888";
   }
 
+  function normalizeYesNo(value) {
+    return String(value ?? "").trim().toLowerCase();
+  }
+
+  function buildDistrictStats(pointData) {
+    districtStats.clear();
+
+    for (const feature of pointData.features || []) {
+      const props = feature.properties || {};
+      const districtId = Number(props.district_id);
+
+      if (!Number.isFinite(districtId)) continue;
+
+      if (!districtStats.has(districtId)) {
+        districtStats.set(districtId, {
+          assignedYes: 0,
+          assignedNo: 0,
+          total: 0
+        });
+      }
+
+      const stats = districtStats.get(districtId);
+      const assignedToMinister = normalizeYesNo(props.Assigned_to_minister);
+
+      if (assignedToMinister === "yes") {
+        stats.assignedYes++;
+      } else if (assignedToMinister === "no") {
+        stats.assignedNo++;
+      }
+
+      stats.total++;
+    }
+  }
+
+  function getDistrictStats(districtId) {
+    return districtStats.get(Number(districtId)) || {
+      assignedYes: 0,
+      assignedNo: 0,
+      total: 0
+    };
+  }
+
+  function getDistrictPopupHtml(props) {
+    const districtNum = getDistrictNumber(props);
+    const stats = getDistrictStats(props.district_id);
+
+    return `
+      <b>District ${districtNum}</b><br><br>
+      <b>Assigned_to_minister = yes:</b> ${stats.assignedYes}<br>
+      <b>Assigned_to_minister = no:</b> ${stats.assignedNo}<br>
+      <b>District total:</b> ${stats.total}
+    `;
+  }
+
   function polygonStyle(feature) {
     const color = getDistrictColor(feature.properties);
 
@@ -118,7 +176,12 @@
     });
 
     const props = layer.feature.properties;
-    infoBox.innerHTML = `<b>District ${getDistrictNumber(props)}</b>`;
+    const stats = getDistrictStats(props.district_id);
+
+    infoBox.innerHTML = `
+      <b>District ${getDistrictNumber(props)}</b><br>
+      Yes: ${stats.assignedYes} | No: ${stats.assignedNo} | Total: ${stats.total}
+    `;
   }
 
   function resetPolygonStyle(layer) {
@@ -130,7 +193,7 @@
 
   function openDistrictPopup(layer) {
     const props = layer.feature.properties;
-    layer.bindPopup(`<b>District ${getDistrictNumber(props)}</b>`).openPopup();
+    layer.bindPopup(getDistrictPopupHtml(props)).openPopup();
   }
 
   function onEachPolygon(feature, layer) {
@@ -155,6 +218,13 @@
     if (last) return last;
     if (first) return first;
     return "Member";
+  }
+
+  function formatYesNo(val) {
+    if (val === null || val === undefined) return "Unknown";
+    if (typeof val === "string") return val.toLowerCase() === "yes" ? "Yes" : "No";
+    if (typeof val === "number") return val === 1 ? "Yes" : "No";
+    return val;
   }
 
   function createDistrictLabels(polygonData) {
@@ -207,6 +277,8 @@
     fetch('./incoming/district_points.geojson').then(res => res.json())
   ])
     .then(([polygonData, pointData]) => {
+      buildDistrictStats(pointData);
+
       polygonLayer = L.geoJSON(polygonData, {
         style: polygonStyle,
         onEachFeature: onEachPolygon
@@ -232,22 +304,15 @@
           const districtLabel = `District ${getDistrictNumber(props)}`;
           const displayName = getDisplayName(props);
 
-function formatYesNo(val) {
-  if (val === null || val === undefined) return "Unknown";
-  if (typeof val === "string") return val.toLowerCase() === "yes" ? "Yes" : "No";
-  if (typeof val === "number") return val === 1 ? "Yes" : "No";
-  return val;
-}
+          const assignedToMinister = formatYesNo(props.Assigned_to_minister);
+          const isAssignedMinisters = formatYesNo(props.Is_assigned_ministers);
 
-const assignedToMinister = formatYesNo(props.Assigned_to_minister);
-const isAssignedMinisters = formatYesNo(props.Is_assigned_ministers);
-
-layer.bindPopup(`
-  <b>${displayName}</b><br>
-  ${districtLabel}<br><br>
-  <b>Assigned to Minister:</b> ${assignedToMinister}<br>
-  <b>Has Assigned Ministers:</b> ${isAssignedMinisters}
-`);
+          layer.bindPopup(`
+            <b>${displayName}</b><br>
+            ${districtLabel}<br><br>
+            <b>Assigned to Minister:</b> ${assignedToMinister}<br>
+            <b>Has Assigned Ministers:</b> ${isAssignedMinisters}
+          `);
 
           layer.on("mouseover", function () {
             layer.setStyle({
