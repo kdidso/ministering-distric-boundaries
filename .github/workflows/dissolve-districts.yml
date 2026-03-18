@@ -27,7 +27,7 @@ jobs:
       - name: Install geospatial dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install geopandas pyogrio shapely
+          pip install geopandas pyogrio shapely fiona
 
       - name: Run dissolve script
         run: python scripts/dissolve_districts.py
