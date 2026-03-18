@@ -1,0 +1,83 @@
+import express from "express";
+import fetch from "node-fetch";
+
+const app = express();
+app.use(express.json({ limit: "100mb" }));
+
+const PORT = process.env.PORT || 3000;
+
+// ENV VARIABLES (set these in Render later)
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const OWNER = "kdidso";
+const REPO = "ministering-distric-boundaries";
+const BRANCH = "main";
+const PATH_IN_REPO = "incoming/district_cells.geojson";
+const APP_SECRET = process.env.APP_SECRET;
+
+app.get("/", (req, res) => {
+  res.send("Backend is running");
+});
+
+app.post("/save-districts", async (req, res) => {
+  try {
+    const { geojson, secret } = req.body;
+
+    if (secret !== APP_SECRET) {
+      return res.status(401).json({ error: "Unauthorized" });
+    }
+
+    if (!geojson) {
+      return res.status(400).json({ error: "Missing geojson" });
+    }
+
+    let sha;
+
+    const getResp = await fetch(
+      `https://api.github.com/repos/${OWNER}/${REPO}/contents/${PATH_IN_REPO}?ref=${BRANCH}`,
+      {
+        headers: {
+          Authorization: `Bearer ${GITHUB_TOKEN}`,
+          Accept: "application/vnd.github+json"
+        }
+      }
+    );
+
+    if (getResp.ok) {
+      const existing = await getResp.json();
+      sha = existing.sha;
+    }
+
+    const contentString = JSON.stringify(geojson, null, 2);
+    const contentBase64 = Buffer.from(contentString).toString("base64");
+
+    const putResp = await fetch(
+      `https://api.github.com/repos/${OWNER}/${REPO}/contents/${PATH_IN_REPO}`,
+      {
+        method: "PUT",
+        headers: {
+          Authorization: `Bearer ${GITHUB_TOKEN}`,
+          Accept: "application/vnd.github+json"
+        },
+        body: JSON.stringify({
+          message: "Upload district cells GeoJSON",
+          content: contentBase64,
+          branch: BRANCH,
+          sha
+        })
+      }
+    );
+
+    if (!putResp.ok) {
+      const text = await putResp.text();
+      return res.status(500).json({ error: text });
+    }
+
+    return res.json({ success: true });
+  } catch (err) {
+    return res.status(500).json({ error: String(err) });
+  }
+});
+
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
