@@ -22,12 +22,30 @@ jobs:
       - name: Run converter
         run: python scripts/convert_assignment_to_geojson.py
 
+      - name: Show incoming folder contents
+        run: |
+          echo "Repo root:"
+          pwd
+          echo ""
+          echo "Incoming folder contents:"
+          ls -lah incoming || true
+          echo ""
+          echo "Git status:"
+          git status --short
+
       - name: Commit converted GeoJSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add incoming/district_assignment.geojson incoming/district_assignment_missing_cells.json || true
+          git add incoming/district_assignment.geojson
+          if [ -f incoming/district_assignment_missing_cells.json ]; then
+            git add incoming/district_assignment_missing_cells.json
+          fi
+
+          echo ""
+          echo "Git status after add:"
+          git status --short
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
