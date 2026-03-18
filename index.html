@@ -33,6 +33,21 @@
       font-family: sans-serif;
       box-shadow: 0 2px 6px rgba(0,0,0,0.3);
     }
+
+    .district-label {
+      background: rgba(255, 255, 255, 0.95);
+      border: 2px solid #000;
+      border-radius: 999px;
+      padding: 4px 8px;
+      font-family: sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: #000;
+      text-align: center;
+      white-space: nowrap;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
@@ -53,9 +68,38 @@
 
   let polygonLayer;
   let pointLayer;
+  let districtLabelLayer;
+
+  // Guaranteed unique display colors by district_id
+  const DISTRICT_PALETTE = [
+    "#e41a1c", // red
+    "#377eb8", // blue
+    "#4daf4a", // green
+    "#984ea3", // purple
+    "#ff7f00", // orange
+    "#ffff33", // yellow
+    "#a65628", // brown
+    "#f781bf", // pink
+    "#17becf", // cyan
+    "#66a61e", // olive
+    "#d62728", // dark red
+    "#1f77b4"  // steel blue
+  ];
+
+  function getDistrictNumber(props) {
+    return Number(props.district_id) + 1;
+  }
+
+  function getDistrictColor(props) {
+    const districtId = Number(props.district_id);
+    if (Number.isFinite(districtId)) {
+      return DISTRICT_PALETTE[districtId % DISTRICT_PALETTE.length];
+    }
+    return "#888888";
+  }
 
   function polygonStyle(feature) {
-    const color = feature.properties.district_color || "#888888";
+    const color = getDistrictColor(feature.properties);
 
     return {
       color: "#000000",
@@ -66,38 +110,39 @@
     };
   }
 
-  function highlightPolygon(e) {
-    const layer = e.target;
-
+  function highlightPolygon(layer) {
     layer.setStyle({
       weight: 5,
       color: "#000000",
       fillOpacity: 0.7
     });
 
-    if (layer.bringToFront) {
-      layer.bringToFront();
-    }
-    if (pointLayer && pointLayer.bringToFront) {
-      pointLayer.bringToFront();
-    }
-
     const props = layer.feature.properties;
-    infoBox.innerHTML = `<b>District ${Number(props.district_id) + 1}</b>`;
+    infoBox.innerHTML = `<b>District ${getDistrictNumber(props)}</b>`;
   }
 
-  function resetPolygonHighlight(e) {
-    polygonLayer.resetStyle(e.target);
+  function resetPolygonStyle(layer) {
+    if (polygonLayer) {
+      polygonLayer.resetStyle(layer);
+    }
     infoBox.innerHTML = "Hover over a district";
+  }
+
+  function openDistrictPopup(layer) {
+    const props = layer.feature.properties;
+    layer.bindPopup(`<b>District ${getDistrictNumber(props)}</b>`).openPopup();
   }
 
   function onEachPolygon(feature, layer) {
     layer.on({
-      mouseover: highlightPolygon,
-      mouseout: resetPolygonHighlight,
+      mouseover: function () {
+        highlightPolygon(layer);
+      },
+      mouseout: function () {
+        resetPolygonStyle(layer);
+      },
       click: function () {
-        const props = feature.properties;
-        layer.bindPopup(`<b>District ${Number(props.district_id) + 1}</b>`).openPopup();
+        openDistrictPopup(layer);
       }
     });
   }
@@ -112,6 +157,51 @@
     return "Member";
   }
 
+  function createDistrictLabels(polygonData) {
+    if (districtLabelLayer) {
+      map.removeLayer(districtLabelLayer);
+    }
+
+    districtLabelLayer = L.layerGroup();
+
+    polygonData.features.forEach(feature => {
+      const tempLayer = L.geoJSON(feature);
+      const center = tempLayer.getBounds().getCenter();
+      const districtNum = getDistrictNumber(feature.properties);
+
+      const labelMarker = L.marker(center, {
+        icon: L.divIcon({
+          className: "",
+          html: `<div class="district-label">District ${districtNum}</div>`
+        })
+      });
+
+      labelMarker.on("click", function () {
+        const matchingLayer = findPolygonLayerByDistrictId(feature.properties.district_id);
+        if (matchingLayer) {
+          highlightPolygon(matchingLayer);
+          openDistrictPopup(matchingLayer);
+        }
+      });
+
+      districtLabelLayer.addLayer(labelMarker);
+    });
+
+    districtLabelLayer.addTo(map);
+  }
+
+  function findPolygonLayerByDistrictId(districtId) {
+    let found = null;
+
+    polygonLayer.eachLayer(layer => {
+      if (String(layer.feature.properties.district_id) === String(districtId)) {
+        found = layer;
+      }
+    });
+
+    return found;
+  }
+
   Promise.all([
     fetch('./incoming/district_assignment_dissolved.geojson').then(res => res.json()),
     fetch('./incoming/district_points.geojson').then(res => res.json())
@@ -122,9 +212,11 @@
         onEachFeature: onEachPolygon
       }).addTo(map);
 
+      createDistrictLabels(polygonData);
+
       pointLayer = L.geoJSON(pointData, {
         pointToLayer: function (feature, latlng) {
-          const color = feature.properties.district_color || "#000000";
+          const color = getDistrictColor(feature.properties);
 
           return L.circleMarker(latlng, {
             radius: 7,
@@ -132,16 +224,12 @@
             color: "#000000",
             weight: 2,
             opacity: 1,
-            fillOpacity: 1,
-            bubblingMouseEvents: false
+            fillOpacity: 1
           });
         },
         onEachFeature: function (feature, layer) {
           const props = feature.properties;
-          const districtLabel = props.district_id !== undefined
-            ? `District ${Number(props.district_id) + 1}`
-            : "District";
-
+          const districtLabel = `District ${getDistrictNumber(props)}`;
           const displayName = getDisplayName(props);
 
           layer.bindPopup(`
@@ -167,9 +255,8 @@
 
       map.fitBounds(polygonLayer.getBounds());
 
-      if (pointLayer.bringToFront) {
-        pointLayer.bringToFront();
-      }
+      if (districtLabelLayer) districtLabelLayer.bringToFront();
+      if (pointLayer) pointLayer.bringToFront();
     })
     .catch(err => {
       console.error("Failed to load map layers:", err);
