@@ -1,18 +1,25 @@
-name: Dissolve district GeoJSON
+name: Update district outputs
 
 on:
-  workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
-      - "incoming/district_assignment.geojson"
+      - "incoming/district_assignment.json"
+      - "scripts/convert_assignment_to_geojson.py"
       - "scripts/dissolve_districts.py"
-      - ".github/workflows/dissolve-districts.yml"
+      - ".github/workflows/update-district-outputs.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: district-output-pipeline
+  cancel-in-progress: true
+
 jobs:
-  dissolve:
+  build-district-outputs:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,7 +36,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install geopandas pyogrio shapely fiona
 
-      - name: Run dissolve script
+      - name: Convert assignment JSON to cell GeoJSON
+        run: python scripts/convert_assignment_to_geojson.py
+
+      - name: Dissolve districts
         run: python scripts/dissolve_districts.py
 
       - name: Show outputs
@@ -40,16 +50,21 @@ jobs:
           echo "Git status:"
           git status --short
 
-      - name: Commit dissolved output
+      - name: Commit updated outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git add incoming/district_assignment.geojson
           git add incoming/district_assignment_dissolved.geojson
+
+          if [ -f incoming/district_assignment_missing_cells.json ]; then
+            git add incoming/district_assignment_missing_cells.json
+          fi
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Generate dissolved district GeoJSON"
+            git commit -m "Update district GeoJSON outputs"
             git push
           fi
