@@ -45,17 +45,16 @@
 <script>
   const map = L.map('map').setView([37.13, -113.6], 13);
 
-  // Basemap
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
   const infoBox = document.getElementById("infoBox");
 
-  // -------------------------
-  // POLYGON STYLE
-  // -------------------------
-  function style(feature) {
+  let polygonLayer;
+  let pointLayer;
+
+  function polygonStyle(feature) {
     const color = feature.properties.district_color || "#888888";
 
     return {
@@ -67,30 +66,35 @@
     };
   }
 
-  function highlightFeature(e) {
+  function highlightPolygon(e) {
     const layer = e.target;
 
     layer.setStyle({
       weight: 5,
-      color: "#000",
+      color: "#000000",
       fillOpacity: 0.7
     });
 
-    layer.bringToFront();
+    if (layer.bringToFront) {
+      layer.bringToFront();
+    }
+    if (pointLayer && pointLayer.bringToFront) {
+      pointLayer.bringToFront();
+    }
 
     const props = layer.feature.properties;
     infoBox.innerHTML = `<b>District ${Number(props.district_id) + 1}</b>`;
   }
 
-  function resetHighlight(e) {
-    geojson.resetStyle(e.target);
+  function resetPolygonHighlight(e) {
+    polygonLayer.resetStyle(e.target);
     infoBox.innerHTML = "Hover over a district";
   }
 
-  function onEachFeature(feature, layer) {
+  function onEachPolygon(feature, layer) {
     layer.on({
-      mouseover: highlightFeature,
-      mouseout: resetHighlight,
+      mouseover: highlightPolygon,
+      mouseout: resetPolygonHighlight,
       click: function () {
         const props = feature.properties;
         layer.bindPopup(`<b>District ${Number(props.district_id) + 1}</b>`).openPopup();
@@ -98,62 +102,78 @@
     });
   }
 
-  let geojson;
+  function getDisplayName(props) {
+    const last = (props.Last_Name || "").trim();
+    const first = (props.First_Name || "").trim();
 
-  // -------------------------
-  // LOAD POLYGONS
-  // -------------------------
-  fetch('./incoming/district_assignment_dissolved.geojson')
-    .then(res => res.json())
-    .then(data => {
-      geojson = L.geoJSON(data, {
-        style: style,
-        onEachFeature: onEachFeature
+    if (last && first) return `${last}, ${first}`;
+    if (last) return last;
+    if (first) return first;
+    return "Member";
+  }
+
+  Promise.all([
+    fetch('./incoming/district_assignment_dissolved.geojson').then(res => res.json()),
+    fetch('./incoming/district_points.geojson').then(res => res.json())
+  ])
+    .then(([polygonData, pointData]) => {
+      polygonLayer = L.geoJSON(polygonData, {
+        style: polygonStyle,
+        onEachFeature: onEachPolygon
       }).addTo(map);
 
-      map.fitBounds(geojson.getBounds());
-    })
-    .catch(err => {
-      console.error("Failed to load polygons:", err);
-    });
-
-  // -------------------------
-  // LOAD POINTS
-  // -------------------------
-  fetch('./incoming/district_points.geojson')
-    .then(res => res.json())
-    .then(data => {
-      const pointLayer = L.geoJSON(data, {
+      pointLayer = L.geoJSON(pointData, {
         pointToLayer: function (feature, latlng) {
           const color = feature.properties.district_color || "#000000";
 
           return L.circleMarker(latlng, {
-            radius: 6,
+            radius: 7,
             fillColor: color,
-            color: "#000",
-            weight: 1,
+            color: "#000000",
+            weight: 2,
             opacity: 1,
-            fillOpacity: 1
+            fillOpacity: 1,
+            bubblingMouseEvents: false
           });
         },
         onEachFeature: function (feature, layer) {
           const props = feature.properties;
-
-          const label = props.district_id !== undefined
+          const districtLabel = props.district_id !== undefined
             ? `District ${Number(props.district_id) + 1}`
             : "District";
 
+          const displayName = getDisplayName(props);
+
           layer.bindPopup(`
-            <b>${label}</b><br>
-            ${props.First_Name || ""} ${props.Last_Name || ""}
+            <b>${displayName}</b><br>
+            ${districtLabel}
           `);
+
+          layer.on("mouseover", function () {
+            layer.setStyle({
+              radius: 9,
+              weight: 3
+            });
+          });
+
+          layer.on("mouseout", function () {
+            layer.setStyle({
+              radius: 7,
+              weight: 2
+            });
+          });
         }
       }).addTo(map);
+
+      map.fitBounds(polygonLayer.getBounds());
+
+      if (pointLayer.bringToFront) {
+        pointLayer.bringToFront();
+      }
     })
     .catch(err => {
-      console.error("Failed to load points:", err);
+      console.error("Failed to load map layers:", err);
     });
-
 </script>
 
 </body>
