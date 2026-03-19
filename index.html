@@ -51,41 +51,35 @@
       cursor: pointer;
     }
 
-    /* Permanent visible name labels */
     .member-name-tooltip {
-      background: rgba(255, 255, 255, 0.92);
-      border: 1px solid rgba(0,0,0,0.75);
+      background: rgba(255, 255, 255, 0.96);
+      border: 1px solid #555;
       border-radius: 999px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.22);
-      color: #111;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+      padding: 2px 8px;
       font-family: sans-serif;
       font-size: 12px;
-      font-weight: 700;
-      padding: 2px 7px;
-      white-space: nowrap;
+      font-weight: 600;
+      color: #111;
     }
 
     .member-name-tooltip::before {
       display: none;
-    }
-
-    .member-name-tooltip span {
-      text-shadow:
-        0 0 2px rgba(255,255,255,0.95),
-        0 0 4px rgba(255,255,255,0.95);
-    }
-
-    .member-name-tooltip-hover {
-      background: rgba(255, 255, 255, 0.98);
-      border-color: #000;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.28);
     }
   </style>
 </head>
 <body>
 
 <div id="map"></div>
-<div class="info" id="infoBox">Hover over a district</div>
+
+<div class="info" id="infoBox">
+  <div id="infoText">Hover over a district</div>
+  <hr style="margin:8px 0;">
+  <label style="display:flex;align-items:center;gap:8px;cursor:pointer;">
+    <input type="checkbox" id="toggleNameLabels">
+    <span>Show member names on hover</span>
+  </label>
+</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
@@ -97,10 +91,13 @@
   }).addTo(map);
 
   const infoBox = document.getElementById("infoBox");
+  const infoText = document.getElementById("infoText");
+  const toggleNameLabels = document.getElementById("toggleNameLabels");
 
   let polygonLayer;
   let pointLayer;
   let districtLabelLayer;
+  let showHoverLabels = false;
 
   const districtStats = new Map();
 
@@ -207,7 +204,7 @@
     const props = layer.feature.properties;
     const stats = getDistrictStats(props.district_id);
 
-    infoBox.innerHTML = `
+    infoText.innerHTML = `
       <b>District ${getDistrictNumber(props)}</b><br>
       Yes: ${stats.assignedYes} | No: ${stats.assignedNo} | Total: ${stats.total}
     `;
@@ -217,7 +214,7 @@
     if (polygonLayer) {
       polygonLayer.resetStyle(layer);
     }
-    infoBox.innerHTML = "Hover over a district";
+    infoText.innerHTML = "Hover over a district";
   }
 
   function openDistrictPopup(layer) {
@@ -346,7 +343,8 @@
           layer.bindTooltip(
             `<span>${displayName}</span>`,
             {
-              permanent: true,
+              permanent: false,
+              sticky: true,
               direction: "top",
               offset: [0, -10],
               className: "member-name-tooltip"
@@ -359,9 +357,8 @@
               weight: 3
             });
 
-            const tooltipEl = layer.getTooltip() && layer.getTooltip().getElement();
-            if (tooltipEl) {
-              tooltipEl.classList.add("member-name-tooltip-hover");
+            if (showHoverLabels) {
+              layer.openTooltip();
             }
           });
 
@@ -371,14 +368,7 @@
               weight: 2
             });
 
-            const tooltipEl = layer.getTooltip() && layer.getTooltip().getElement();
-            if (tooltipEl) {
-              tooltipEl.classList.remove("member-name-tooltip-hover");
-            }
-          });
-
-          layer.on("click", function () {
-            layer.openPopup();
+            layer.closeTooltip();
           });
         }
       }).addTo(map);
@@ -387,6 +377,18 @@
 
       if (districtLabelLayer) districtLabelLayer.bringToFront();
       if (pointLayer) pointLayer.bringToFront();
+
+      toggleNameLabels.addEventListener("change", function () {
+        showHoverLabels = toggleNameLabels.checked;
+
+        if (!showHoverLabels && pointLayer) {
+          pointLayer.eachLayer(layer => {
+            if (layer.closeTooltip) {
+              layer.closeTooltip();
+            }
+          });
+        }
+      });
     })
     .catch(err => {
       console.error("Failed to load map layers:", err);
