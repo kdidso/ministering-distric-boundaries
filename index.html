@@ -50,6 +50,36 @@
       box-shadow: 0 1px 4px rgba(0,0,0,0.25);
       cursor: pointer;
     }
+
+    /* Permanent visible name labels */
+    .member-name-tooltip {
+      background: rgba(255, 255, 255, 0.92);
+      border: 1px solid rgba(0,0,0,0.75);
+      border-radius: 999px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.22);
+      color: #111;
+      font-family: sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 2px 7px;
+      white-space: nowrap;
+    }
+
+    .member-name-tooltip::before {
+      display: none;
+    }
+
+    .member-name-tooltip span {
+      text-shadow:
+        0 0 2px rgba(255,255,255,0.95),
+        0 0 4px rgba(255,255,255,0.95);
+    }
+
+    .member-name-tooltip-hover {
+      background: rgba(255, 255, 255, 0.98);
+      border-color: #000;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.28);
+    }
   </style>
 </head>
 <body>
@@ -74,20 +104,19 @@
 
   const districtStats = new Map();
 
-  // Guaranteed unique display colors by district_id
   const DISTRICT_PALETTE = [
-    "#e41a1c", // red
-    "#377eb8", // blue
-    "#4daf4a", // green
-    "#984ea3", // purple
-    "#ff7f00", // orange
-    "#ffff33", // yellow
-    "#a65628", // brown
-    "#f781bf", // pink
-    "#17becf", // cyan
-    "#66a61e", // olive
-    "#d62728", // dark red
-    "#1f77b4"  // steel blue
+    "#e41a1c",
+    "#377eb8",
+    "#4daf4a",
+    "#984ea3",
+    "#ff7f00",
+    "#ffff33",
+    "#a65628",
+    "#f781bf",
+    "#17becf",
+    "#66a61e",
+    "#d62728",
+    "#1f77b4"
   ];
 
   function getDistrictNumber(props) {
@@ -314,11 +343,26 @@
             <b>Has Assigned Ministers:</b> ${isAssignedMinisters}
           `);
 
+          layer.bindTooltip(
+            `<span>${displayName}</span>`,
+            {
+              permanent: true,
+              direction: "top",
+              offset: [0, -10],
+              className: "member-name-tooltip"
+            }
+          );
+
           layer.on("mouseover", function () {
             layer.setStyle({
               radius: 9,
               weight: 3
             });
+
+            const tooltipEl = layer.getTooltip() && layer.getTooltip().getElement();
+            if (tooltipEl) {
+              tooltipEl.classList.add("member-name-tooltip-hover");
+            }
           });
 
           layer.on("mouseout", function () {
@@ -326,6 +370,15 @@
               radius: 7,
               weight: 2
             });
+
+            const tooltipEl = layer.getTooltip() && layer.getTooltip().getElement();
+            if (tooltipEl) {
+              tooltipEl.classList.remove("member-name-tooltip-hover");
+            }
+          });
+
+          layer.on("click", function () {
+            layer.openPopup();
           });
         }
       }).addTo(map);
