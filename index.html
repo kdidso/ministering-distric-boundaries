@@ -191,15 +191,16 @@
       background: white;
     }
 
+    .export-map .leaflet-pane,
+    .export-map .leaflet-top,
+    .export-map .leaflet-bottom,
+    .export-map .leaflet-control-container {
+      transform: none !important;
+    }
+
     .leaflet-control-attribution {
       font-size: 10px;
     }
-.export-map .leaflet-pane,
-.export-map .leaflet-top,
-.export-map .leaflet-bottom,
-.export-map .leaflet-control-container {
-  transform: none !important;
-} 
   </style>
 </head>
 <body>
@@ -218,8 +219,8 @@
 
   <label for="exportSize">Size</label>
   <select id="exportSize">
-    <option value="web">Web Image (1600 × 900)</option>
-    <option value="letter_landscape" selected>Letter Landscape</option>
+    <option value="web" selected>Web Image (1600 × 900)</option>
+    <option value="letter_landscape">Letter Landscape</option>
     <option value="letter_portrait">Letter Portrait</option>
   </select>
 
@@ -236,6 +237,11 @@
   <label class="checkbox-row">
     <input type="checkbox" id="includeTimestamp" checked />
     <span>Include timestamp</span>
+  </label>
+
+  <label class="checkbox-row">
+    <input type="checkbox" id="includeExportPoints" />
+    <span>Include member points</span>
   </label>
 
   <button id="exportMapBtn">Export Current View</button>
@@ -266,7 +272,6 @@
 
   L.tileLayer(baseTileUrl, baseTileOptions).addTo(map);
 
-  const infoBox = document.getElementById("infoBox");
   const infoText = document.getElementById("infoText");
   const toggleNameLabels = document.getElementById("toggleNameLabels");
 
@@ -365,18 +370,6 @@
   }
 
   function polygonStyle(feature) {
-    const color = getDistrictColor(feature.properties);
-
-    return {
-      color: "#000000",
-      weight: 3,
-      opacity: 1,
-      fillColor: color,
-      fillOpacity: 0.5
-    };
-  }
-
-  function polygonStyleForExport(feature) {
     const color = getDistrictColor(feature.properties);
 
     return {
@@ -612,7 +605,6 @@
     });
   }
 
-  
   async function buildExportCanvas() {
     if (!polygonDataGlobal || !pointDataGlobal) {
       throw new Error("Map data is not loaded yet.");
@@ -623,6 +615,7 @@
     const dpi = document.getElementById("exportDpi").value;
     const title = document.getElementById("exportTitle").value.trim() || "Ministering Districts";
     const includeTimestamp = document.getElementById("includeTimestamp").checked;
+    const includeExportPoints = document.getElementById("includeExportPoints").checked;
 
     const dims = getExportDimensions(sizePreset, dpi);
 
@@ -699,24 +692,26 @@
       interactive: false
     }).addTo(exportMap);
 
-    L.geoJSON(pointDataGlobal, {
-      renderer: exportRenderer,
-      interactive: false,
-      pointToLayer: function (feature, latlng) {
-        const color = getDistrictColor(feature.properties);
+    if (includeExportPoints) {
+      L.geoJSON(pointDataGlobal, {
+        renderer: exportRenderer,
+        interactive: false,
+        pointToLayer: function (feature, latlng) {
+          const color = getDistrictColor(feature.properties);
 
-        return L.circleMarker(latlng, {
-          renderer: exportRenderer,
-          radius: 7,
-          fillColor: color,
-          color: "#000000",
-          weight: 2,
-          opacity: 1,
-          fillOpacity: 1,
-          interactive: false
-        });
-      }
-    }).addTo(exportMap);
+          return L.circleMarker(latlng, {
+            renderer: exportRenderer,
+            radius: 4,
+            fillColor: color,
+            color: "#111111",
+            weight: 1,
+            opacity: 0.7,
+            fillOpacity: 0.65,
+            interactive: false
+          });
+        }
+      }).addTo(exportMap);
+    }
 
     addExportDistrictLabels(exportMap, polygonDataGlobal);
 
