@@ -194,6 +194,12 @@
     .leaflet-control-attribution {
       font-size: 10px;
     }
+.export-map .leaflet-pane,
+.export-map .leaflet-top,
+.export-map .leaflet-bottom,
+.export-map .leaflet-control-container {
+  transform: none !important;
+} 
   </style>
 </head>
 <body>
@@ -606,6 +612,7 @@
     });
   }
 
+  
   async function buildExportCanvas() {
     if (!polygonDataGlobal || !pointDataGlobal) {
       throw new Error("Map data is not loaded yet.");
@@ -653,8 +660,7 @@
     layout.appendChild(mapWrap);
     exportRenderArea.appendChild(layout);
 
-    const center = map.getCenter();
-    const zoom = map.getZoom();
+    const currentBounds = map.getBounds();
 
     const exportMap = L.map(exportMapDiv, {
       zoomControl: false,
@@ -665,38 +671,63 @@
       boxZoom: false,
       keyboard: false,
       tap: false,
-      touchZoom: false
-    }).setView([center.lat, center.lng], zoom);
+      touchZoom: false,
+      preferCanvas: true,
+      zoomAnimation: false,
+      fadeAnimation: false,
+      markerZoomAnimation: false
+    });
 
     L.tileLayer(baseTileUrl, baseTileOptions).addTo(exportMap);
 
+    const exportRenderer = L.canvas({ padding: 0.5 });
+
     L.geoJSON(polygonDataGlobal, {
-      style: polygonStyleForExport,
+      renderer: exportRenderer,
+      style: function(feature) {
+        const color = getDistrictColor(feature.properties);
+        return {
+          renderer: exportRenderer,
+          color: "#000000",
+          weight: 3,
+          opacity: 1,
+          fillColor: color,
+          fillOpacity: 0.5,
+          interactive: false
+        };
+      },
       interactive: false
     }).addTo(exportMap);
 
     L.geoJSON(pointDataGlobal, {
+      renderer: exportRenderer,
       interactive: false,
       pointToLayer: function (feature, latlng) {
         const color = getDistrictColor(feature.properties);
 
         return L.circleMarker(latlng, {
+          renderer: exportRenderer,
           radius: 7,
           fillColor: color,
           color: "#000000",
           weight: 2,
           opacity: 1,
-          fillOpacity: 1
+          fillOpacity: 1,
+          interactive: false
         });
       }
     }).addTo(exportMap);
 
     addExportDistrictLabels(exportMap, polygonDataGlobal);
 
-    exportMap.invalidateSize();
+    exportMap.invalidateSize(true);
+    exportMap.fitBounds(currentBounds, {
+      animate: false,
+      padding: [0, 0]
+    });
 
     await waitForTileLayers(exportMap);
-    await new Promise(resolve => setTimeout(resolve, 1200));
+    await new Promise(resolve => setTimeout(resolve, 1500));
 
     const canvas = await html2canvas(layout, {
       useCORS: true,
