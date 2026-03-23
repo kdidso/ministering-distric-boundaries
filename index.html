@@ -312,7 +312,7 @@
 
   let polygonDataGlobal = null;
   let pointDataGlobal = null;
-
+  let wardBoundaryDataGlobal = null;
   const districtStats = new Map();
 
   const DISTRICT_PALETTE = [
@@ -680,7 +680,9 @@ function addExportDistrictLabels(exportMap, polygonData) {
     layout.appendChild(mapWrap);
     exportRenderArea.appendChild(layout);
 
-    const exportBounds = L.geoJSON(polygonDataGlobal).getBounds();
+const exportBounds = wardBoundaryDataGlobal
+  ? L.geoJSON(wardBoundaryDataGlobal).getBounds()
+  : L.geoJSON(polygonDataGlobal).getBounds();
 
     const exportMap = L.map(exportMapDiv, {
       zoomControl: false,
@@ -813,13 +815,15 @@ exportMap.fitBounds(exportBounds, {
 
   exportButton.addEventListener("click", exportCurrentView);
 
-  Promise.all([
-    fetch('./incoming/district_assignment_dissolved.geojson').then(res => res.json()),
-    fetch('./incoming/district_points.geojson').then(res => res.json())
-  ])
-    .then(([polygonData, pointData]) => {
-      polygonDataGlobal = polygonData;
-      pointDataGlobal = pointData;
+Promise.all([
+  fetch('./incoming/district_assignment_dissolved.geojson').then(res => res.json()),
+  fetch('./incoming/district_points.geojson').then(res => res.json()),
+  fetch('./incoming/ward_boundaries_JSO.geojson').then(res => res.json())
+])
+.then(([polygonData, pointData, wardBoundaryData]) => {
+  polygonDataGlobal = polygonData;
+  pointDataGlobal = pointData;
+  wardBoundaryDataGlobal = wardBoundaryData;
 
       buildDistrictStats(pointData);
 
