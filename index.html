@@ -287,7 +287,7 @@
 
 <div id="map"></div>
 
-<div class="export-panel" id="exportPanel">
+<div class="export-panel collapsed" id="exportPanel">
   <div class="export-panel-header">
     <span>Export Map</span>
     <button type="button" id="toggleExportPanelBtn" class="export-panel-toggle">Expand</button>
@@ -330,44 +330,6 @@
 
     <button id="exportMapBtn">Export Current View</button>
   </div>
-</div>
-  <h3>Export Map</h3>
-
-  <label for="exportFormat">Format</label>
-  <select id="exportFormat">
-    <option value="png">PNG</option>
-    <option value="jpeg" selected>JPEG</option>
-    <option value="pdf">PDF</option>
-  </select>
-
-  <label for="exportSize">Size</label>
-  <select id="exportSize">
-    <option value="web" selected>Web Image (1600 × 900)</option>
-    <option value="letter_landscape">Letter Landscape</option>
-    <option value="letter_portrait">Letter Portrait</option>
-  </select>
-
-  <label for="exportDpi">DPI</label>
-  <select id="exportDpi">
-    <option value="150">150</option>
-    <option value="200">200</option>
-    <option value="300" selected>300</option>
-  </select>
-
-  <label for="exportTitle">Map Title</label>
-  <input type="text" id="exportTitle" value="Ministering Districts" />
-
-  <label class="checkbox-row">
-    <input type="checkbox" id="includeTimestamp" checked />
-    <span>Include timestamp</span>
-  </label>
-
-  <label class="checkbox-row">
-    <input type="checkbox" id="includeExportPoints" />
-    <span>Include member points</span>
-  </label>
-
-  <button id="exportMapBtn">Export Current View</button>
 </div>
 
 <div class="info" id="infoBox">
