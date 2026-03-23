@@ -66,11 +66,174 @@
     .member-name-tooltip::before {
       display: none;
     }
+
+    .export-panel {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 1100;
+      width: 250px;
+      background: rgba(255,255,255,0.97);
+      padding: 12px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.28);
+      font-family: sans-serif;
+    }
+
+    .export-panel h3 {
+      margin: 0 0 10px 0;
+      font-size: 16px;
+    }
+
+    .export-panel label {
+      display: block;
+      margin-top: 8px;
+      margin-bottom: 4px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .export-panel select,
+    .export-panel input[type="text"],
+    .export-panel button {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 8px;
+      font-size: 13px;
+      border-radius: 5px;
+      border: 1px solid #bbb;
+      font-family: sans-serif;
+    }
+
+    .export-panel button {
+      margin-top: 12px;
+      cursor: pointer;
+      border: none;
+      background: #2c7be5;
+      color: white;
+      font-weight: 700;
+    }
+
+    .export-panel button:hover {
+      background: #1f64c2;
+    }
+
+    .export-panel .checkbox-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 10px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .export-panel .checkbox-row input {
+      margin: 0;
+      width: auto;
+    }
+
+    #exportRenderArea {
+      position: fixed;
+      left: -99999px;
+      top: 0;
+      background: white;
+      overflow: hidden;
+      z-index: -1;
+    }
+
+    .export-layout {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      background: white;
+      font-family: Arial, sans-serif;
+    }
+
+    .export-header {
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      height: 90px;
+      box-sizing: border-box;
+      padding: 18px 24px 10px 24px;
+      background: white;
+      border-bottom: 1px solid #d8d8d8;
+    }
+
+    .export-header h1 {
+      margin: 0;
+      font-size: 28px;
+      line-height: 1.2;
+      color: #111;
+    }
+
+    .export-subtitle {
+      margin-top: 6px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    .export-map-wrap {
+      position: absolute;
+      left: 20px;
+      right: 20px;
+      top: 110px;
+      bottom: 20px;
+      border: 1px solid #ccc;
+      overflow: hidden;
+      background: white;
+    }
+
+    .export-map {
+      width: 100%;
+      height: 100%;
+      background: white;
+    }
+
+    .leaflet-control-attribution {
+      font-size: 10px;
+    }
   </style>
 </head>
 <body>
 
 <div id="map"></div>
+
+<div class="export-panel">
+  <h3>Export Map</h3>
+
+  <label for="exportFormat">Format</label>
+  <select id="exportFormat">
+    <option value="png">PNG</option>
+    <option value="jpeg" selected>JPEG</option>
+    <option value="pdf">PDF</option>
+  </select>
+
+  <label for="exportSize">Size</label>
+  <select id="exportSize">
+    <option value="web">Web Image (1600 × 900)</option>
+    <option value="letter_landscape" selected>Letter Landscape</option>
+    <option value="letter_portrait">Letter Portrait</option>
+  </select>
+
+  <label for="exportDpi">DPI</label>
+  <select id="exportDpi">
+    <option value="150">150</option>
+    <option value="200">200</option>
+    <option value="300" selected>300</option>
+  </select>
+
+  <label for="exportTitle">Map Title</label>
+  <input type="text" id="exportTitle" value="Ministering Districts" />
+
+  <label class="checkbox-row">
+    <input type="checkbox" id="includeTimestamp" checked />
+    <span>Include timestamp</span>
+  </label>
+
+  <button id="exportMapBtn">Export Current View</button>
+</div>
 
 <div class="info" id="infoBox">
   <div id="infoText">Hover over a district</div>
@@ -81,23 +244,36 @@
   </label>
 </div>
 
+<div id="exportRenderArea"></div>
+
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
 
 <script>
   const map = L.map('map').setView([37.13, -113.6], 13);
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  const baseTileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+  const baseTileOptions = {
     attribution: '&copy; OpenStreetMap contributors'
-  }).addTo(map);
+  };
+
+  L.tileLayer(baseTileUrl, baseTileOptions).addTo(map);
 
   const infoBox = document.getElementById("infoBox");
   const infoText = document.getElementById("infoText");
   const toggleNameLabels = document.getElementById("toggleNameLabels");
 
+  const exportButton = document.getElementById("exportMapBtn");
+  const exportRenderArea = document.getElementById("exportRenderArea");
+
   let polygonLayer;
   let pointLayer;
   let districtLabelLayer;
   let showHoverLabels = false;
+
+  let polygonDataGlobal = null;
+  let pointDataGlobal = null;
 
   const districtStats = new Map();
 
@@ -183,6 +359,18 @@
   }
 
   function polygonStyle(feature) {
+    const color = getDistrictColor(feature.properties);
+
+    return {
+      color: "#000000",
+      weight: 3,
+      opacity: 1,
+      fillColor: color,
+      fillOpacity: 0.5
+    };
+  }
+
+  function polygonStyleForExport(feature) {
     const color = getDistrictColor(feature.properties);
 
     return {
@@ -298,11 +486,289 @@
     return found;
   }
 
+  function getExportDimensions(sizePreset, dpi) {
+    dpi = Number(dpi);
+
+    if (sizePreset === "web") {
+      return {
+        width: 1600,
+        height: 900,
+        pdfWidthIn: 11,
+        pdfHeightIn: 8.5,
+        orientation: "landscape"
+      };
+    }
+
+    if (sizePreset === "letter_landscape") {
+      return {
+        width: Math.round(11 * dpi),
+        height: Math.round(8.5 * dpi),
+        pdfWidthIn: 11,
+        pdfHeightIn: 8.5,
+        orientation: "landscape"
+      };
+    }
+
+    if (sizePreset === "letter_portrait") {
+      return {
+        width: Math.round(8.5 * dpi),
+        height: Math.round(11 * dpi),
+        pdfWidthIn: 8.5,
+        pdfHeightIn: 11,
+        orientation: "portrait"
+      };
+    }
+
+    return {
+      width: 1600,
+      height: 900,
+      pdfWidthIn: 11,
+      pdfHeightIn: 8.5,
+      orientation: "landscape"
+    };
+  }
+
+  function formatTimestamp() {
+    const now = new Date();
+    return now.toLocaleString();
+  }
+
+  function downloadDataUrl(dataUrl, filename) {
+    const a = document.createElement("a");
+    a.href = dataUrl;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+  }
+
+  function safeFilename(text) {
+    return String(text || "map")
+      .trim()
+      .replace(/[^a-z0-9_\- ]/gi, "")
+      .replace(/\s+/g, "_");
+  }
+
+  function addExportDistrictLabels(exportMap, polygonData) {
+    polygonData.features.forEach(feature => {
+      const tempLayer = L.geoJSON(feature);
+      const center = tempLayer.getBounds().getCenter();
+      const districtNum = getDistrictNumber(feature.properties);
+
+      L.marker(center, {
+        interactive: false,
+        keyboard: false,
+        icon: L.divIcon({
+          className: "",
+          html: `<div class="district-label">District ${districtNum}</div>`
+        })
+      }).addTo(exportMap);
+    });
+  }
+
+  function waitForTileLayers(mapInstance) {
+    return new Promise(resolve => {
+      const tileLayers = [];
+
+      mapInstance.eachLayer(layer => {
+        if (layer instanceof L.TileLayer) {
+          tileLayers.push(layer);
+        }
+      });
+
+      if (!tileLayers.length) {
+        setTimeout(resolve, 500);
+        return;
+      }
+
+      let settled = false;
+      let loadedCount = 0;
+
+      function finish() {
+        if (!settled) {
+          settled = true;
+          resolve();
+        }
+      }
+
+      tileLayers.forEach(layer => {
+        layer.on("load", function onLoad() {
+          loadedCount += 1;
+          layer.off("load", onLoad);
+
+          if (loadedCount >= tileLayers.length) {
+            finish();
+          }
+        });
+      });
+
+      setTimeout(finish, 4000);
+    });
+  }
+
+  async function buildExportCanvas() {
+    if (!polygonDataGlobal || !pointDataGlobal) {
+      throw new Error("Map data is not loaded yet.");
+    }
+
+    const format = document.getElementById("exportFormat").value;
+    const sizePreset = document.getElementById("exportSize").value;
+    const dpi = document.getElementById("exportDpi").value;
+    const title = document.getElementById("exportTitle").value.trim() || "Ministering Districts";
+    const includeTimestamp = document.getElementById("includeTimestamp").checked;
+
+    const dims = getExportDimensions(sizePreset, dpi);
+
+    exportRenderArea.innerHTML = "";
+    exportRenderArea.style.width = dims.width + "px";
+    exportRenderArea.style.height = dims.height + "px";
+
+    const layout = document.createElement("div");
+    layout.className = "export-layout";
+    layout.style.width = dims.width + "px";
+    layout.style.height = dims.height + "px";
+
+    const header = document.createElement("div");
+    header.className = "export-header";
+
+    const titleEl = document.createElement("h1");
+    titleEl.textContent = title;
+    header.appendChild(titleEl);
+
+    if (includeTimestamp) {
+      const subtitleEl = document.createElement("div");
+      subtitleEl.className = "export-subtitle";
+      subtitleEl.textContent = "Exported: " + formatTimestamp();
+      header.appendChild(subtitleEl);
+    }
+
+    const mapWrap = document.createElement("div");
+    mapWrap.className = "export-map-wrap";
+
+    const exportMapDiv = document.createElement("div");
+    exportMapDiv.className = "export-map";
+
+    mapWrap.appendChild(exportMapDiv);
+    layout.appendChild(header);
+    layout.appendChild(mapWrap);
+    exportRenderArea.appendChild(layout);
+
+    const center = map.getCenter();
+    const zoom = map.getZoom();
+
+    const exportMap = L.map(exportMapDiv, {
+      zoomControl: false,
+      attributionControl: true,
+      dragging: false,
+      scrollWheelZoom: false,
+      doubleClickZoom: false,
+      boxZoom: false,
+      keyboard: false,
+      tap: false,
+      touchZoom: false
+    }).setView([center.lat, center.lng], zoom);
+
+    L.tileLayer(baseTileUrl, baseTileOptions).addTo(exportMap);
+
+    L.geoJSON(polygonDataGlobal, {
+      style: polygonStyleForExport,
+      interactive: false
+    }).addTo(exportMap);
+
+    L.geoJSON(pointDataGlobal, {
+      interactive: false,
+      pointToLayer: function (feature, latlng) {
+        const color = getDistrictColor(feature.properties);
+
+        return L.circleMarker(latlng, {
+          radius: 7,
+          fillColor: color,
+          color: "#000000",
+          weight: 2,
+          opacity: 1,
+          fillOpacity: 1
+        });
+      }
+    }).addTo(exportMap);
+
+    addExportDistrictLabels(exportMap, polygonDataGlobal);
+
+    exportMap.invalidateSize();
+
+    await waitForTileLayers(exportMap);
+    await new Promise(resolve => setTimeout(resolve, 1200));
+
+    const canvas = await html2canvas(layout, {
+      useCORS: true,
+      backgroundColor: "#ffffff",
+      scale: 1,
+      logging: false
+    });
+
+    exportMap.remove();
+
+    return {
+      canvas,
+      format,
+      dims,
+      title
+    };
+  }
+
+  async function exportCurrentView() {
+    exportButton.disabled = true;
+    exportButton.textContent = "Exporting...";
+
+    try {
+      const { canvas, format, dims, title } = await buildExportCanvas();
+      const fileBase = safeFilename(title);
+
+      if (format === "png") {
+        const dataUrl = canvas.toDataURL("image/png");
+        downloadDataUrl(dataUrl, `${fileBase}.png`);
+      } else if (format === "jpeg") {
+        const dataUrl = canvas.toDataURL("image/jpeg", 0.95);
+        downloadDataUrl(dataUrl, `${fileBase}.jpg`);
+      } else if (format === "pdf") {
+        const { jsPDF } = window.jspdf;
+
+        const pdf = new jsPDF({
+          orientation: dims.orientation,
+          unit: "in",
+          format: [dims.pdfWidthIn, dims.pdfHeightIn]
+        });
+
+        const imgData = canvas.toDataURL("image/jpeg", 0.98);
+        pdf.addImage(
+          imgData,
+          "JPEG",
+          0,
+          0,
+          dims.pdfWidthIn,
+          dims.pdfHeightIn
+        );
+
+        pdf.save(`${fileBase}.pdf`);
+      }
+    } catch (err) {
+      console.error("Export failed:", err);
+      alert("Export failed. Check the browser console for details.");
+    } finally {
+      exportButton.disabled = false;
+      exportButton.textContent = "Export Current View";
+    }
+  }
+
+  exportButton.addEventListener("click", exportCurrentView);
+
   Promise.all([
     fetch('./incoming/district_assignment_dissolved.geojson').then(res => res.json()),
     fetch('./incoming/district_points.geojson').then(res => res.json())
   ])
     .then(([polygonData, pointData]) => {
+      polygonDataGlobal = polygonData;
+      pointDataGlobal = pointData;
+
       buildDistrictStats(pointData);
 
       polygonLayer = L.geoJSON(polygonData, {
