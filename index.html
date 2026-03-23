@@ -227,14 +227,110 @@
      1px  1px 0 rgba(255,255,255,0.95);
   white-space: nowrap;
   line-height: 1.1;
-}  
+}
+.export-panel {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1100;
+  width: 250px;
+  background: rgba(255,255,255,0.97);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.28);
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+.export-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  font-size: 15px;
+  font-weight: 700;
+  background: rgba(255,255,255,0.98);
+  border-bottom: 1px solid #ddd;
+}
+
+.export-panel-toggle {
+  border: 1px solid #bbb;
+  background: white;
+  border-radius: 5px;
+  padding: 5px 8px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.export-panel-toggle:hover {
+  background: #f3f3f3;
+}
+
+.export-panel-body {
+  padding: 12px;
+}
+
+.export-panel.collapsed .export-panel-body {
+  display: none;
+}
+
+.export-panel.collapsed {
+  width: 170px;
+}
+
+.export-panel.collapsed .export-panel-header {
+  border-bottom: none;
+}
   </style>
 </head>
 <body>
 
 <div id="map"></div>
 
-<div class="export-panel">
+<div class="export-panel" id="exportPanel">
+  <div class="export-panel-header">
+    <span>Export Map</span>
+    <button type="button" id="toggleExportPanelBtn" class="export-panel-toggle">Expand</button>
+  </div>
+
+  <div class="export-panel-body" id="exportPanelBody">
+    <label for="exportFormat">Format</label>
+    <select id="exportFormat">
+      <option value="png">PNG</option>
+      <option value="jpeg" selected>JPEG</option>
+      <option value="pdf">PDF</option>
+    </select>
+
+    <label for="exportSize">Size</label>
+    <select id="exportSize">
+      <option value="web" selected>Web Image (1600 × 900)</option>
+      <option value="letter_landscape">Letter Landscape</option>
+      <option value="letter_portrait">Letter Portrait</option>
+    </select>
+
+    <label for="exportDpi">DPI</label>
+    <select id="exportDpi">
+      <option value="150">150</option>
+      <option value="200">200</option>
+      <option value="300" selected>300</option>
+    </select>
+
+    <label for="exportTitle">Map Title</label>
+    <input type="text" id="exportTitle" value="Ministering Districts" />
+
+    <label class="checkbox-row">
+      <input type="checkbox" id="includeTimestamp" checked />
+      <span>Include timestamp</span>
+    </label>
+
+    <label class="checkbox-row">
+      <input type="checkbox" id="includeExportPoints" />
+      <span>Include member points</span>
+    </label>
+
+    <button id="exportMapBtn">Export Current View</button>
+  </div>
+</div>
   <h3>Export Map</h3>
 
   <label for="exportFormat">Format</label>
@@ -304,6 +400,8 @@
 
   const exportButton = document.getElementById("exportMapBtn");
   const exportRenderArea = document.getElementById("exportRenderArea");
+  const exportPanel = document.getElementById("exportPanel");
+  const toggleExportPanelBtn = document.getElementById("toggleExportPanelBtn");
 
   let polygonLayer;
   let pointLayer;
@@ -820,6 +918,10 @@ exportMap.fitBounds(exportBounds, {
   }
 
   exportButton.addEventListener("click", exportCurrentView);
+  toggleExportPanelBtn.addEventListener("click", function () {
+  const isCollapsed = exportPanel.classList.toggle("collapsed");
+  toggleExportPanelBtn.textContent = isCollapsed ? "Expand" : "Minimize";
+});
 
 Promise.all([
   fetch('./incoming/district_assignment_dissolved.geojson').then(res => res.json()),
