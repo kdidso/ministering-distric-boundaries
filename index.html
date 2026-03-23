@@ -215,6 +215,19 @@
   box-shadow: 0 1px 2px rgba(0,0,0,0.18);
   line-height: 1.1;
 }
+  .export-district-text {
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: #111;
+  text-shadow:
+    -1px -1px 0 rgba(255,255,255,0.95),
+     1px -1px 0 rgba(255,255,255,0.95),
+    -1px  1px 0 rgba(255,255,255,0.95),
+     1px  1px 0 rgba(255,255,255,0.95);
+  white-space: nowrap;
+  line-height: 1.1;
+}  
   </style>
 </head>
 <body>
@@ -565,28 +578,15 @@
 function addExportDistrictLabels(exportMap, polygonData) {
   polygonData.features.forEach(feature => {
     const tempLayer = L.geoJSON(feature);
-    const bounds = tempLayer.getBounds();
-    const center = bounds.getCenter();
+    const center = tempLayer.getBounds().getCenter();
     const districtNum = getDistrictNumber(feature.properties);
-
-    let labelText = `District ${districtNum}`;
-    let iconSize = [64, 22];
-    let iconAnchor = [32, 11];
-
-    if (districtNum === 2) {
-      labelText = `D${districtNum}`;
-      iconSize = [30, 18];
-      iconAnchor = [15, 9];
-    }
 
     L.marker(center, {
       interactive: false,
       keyboard: false,
       icon: L.divIcon({
         className: "",
-        iconSize: iconSize,
-        iconAnchor: iconAnchor,
-        html: `<div class="export-district-label">${labelText}</div>`
+        html: `<div class="export-district-text">District ${districtNum}</div>`
       })
     }).addTo(exportMap);
   });
@@ -680,7 +680,7 @@ function addExportDistrictLabels(exportMap, polygonData) {
     layout.appendChild(mapWrap);
     exportRenderArea.appendChild(layout);
 
-    const currentBounds = map.getBounds();
+    const exportBounds = L.geoJSON(polygonDataGlobal).getBounds();
 
     const exportMap = L.map(exportMapDiv, {
       zoomControl: false,
@@ -742,11 +742,10 @@ function addExportDistrictLabels(exportMap, polygonData) {
 
     addExportDistrictLabels(exportMap, polygonDataGlobal);
 
-    exportMap.invalidateSize(true);
-    exportMap.fitBounds(currentBounds, {
-      animate: false,
-      padding: [0, 0]
-    });
+exportMap.fitBounds(exportBounds, {
+  animate: false,
+  padding: [20, 20]
+});
 
     await waitForTileLayers(exportMap);
     await new Promise(resolve => setTimeout(resolve, 1500));
