@@ -1984,7 +1984,7 @@
         "Gender": "M",
         "Address_confidence": "high",
         "BirthDate": 921801600000,
-        "Age": 26,
+        "Age": 27,
         "Emails": null,
         "Quarterly_att_pct": 0,
         "prospective_elder": "no",
@@ -5980,7 +5980,7 @@
         "Gender": "M",
         "Address_confidence": "low",
         "BirthDate": 795657600000,
-        "Age": 30,
+        "Age": 31,
         "Emails": "mikbod.n@gmail.com",
         "Quarterly_att_pct": 0,
         "prospective_elder": "no",
@@ -6030,6 +6030,43 @@
         "district_label": 3,
         "group": 2,
         "cell_id": "24728"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.63778644830433,
+          37.11884513083749
+        ]
+      },
+      "properties": {
+        "OBJECTID": 748,
+        "Last_Name": "Stevens",
+        "First_Name": "Brandon",
+        "Address": "2494 Catawba Cir, Santa Clara, UT 84765",
+        "lat": 37.1188469,
+        "lon": -113.637787,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 925862400000,
+        "Age": 26,
+        "Emails": "vgbrandon@gmail.com",
+        "Quarterly_att_pct": null,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "_cellId": "24835",
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "24835"
       }
     },
     {
