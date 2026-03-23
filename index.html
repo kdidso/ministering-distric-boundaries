@@ -680,9 +680,15 @@ function addExportDistrictLabels(exportMap, polygonData) {
     layout.appendChild(mapWrap);
     exportRenderArea.appendChild(layout);
 
-const exportBounds = wardBoundaryDataGlobal
+const districtBounds = L.geoJSON(polygonDataGlobal).getBounds();
+const wardBounds = wardBoundaryDataGlobal
   ? L.geoJSON(wardBoundaryDataGlobal).getBounds()
-  : L.geoJSON(polygonDataGlobal).getBounds();
+  : districtBounds;
+
+const exportBounds = L.latLngBounds(
+  L.latLng(districtBounds.getSouth(), wardBounds.getWest()),
+  L.latLng(districtBounds.getNorth(), wardBounds.getEast())
+);
 
     const exportMap = L.map(exportMapDiv, {
       zoomControl: false,
