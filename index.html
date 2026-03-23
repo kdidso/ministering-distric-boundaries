@@ -390,6 +390,11 @@
     "#1f77b4"
   ];
 
+function isLikelyMobileOrTablet() {
+  return /iPad|iPhone|iPod|Android/.test(navigator.userAgent) ||
+    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+}
+  
   function getDistrictNumber(props) {
     return Number(props.district_id) + 1;
   }
@@ -572,39 +577,12 @@
     return found;
   }
 
-  function getExportDimensions(sizePreset, dpi) {
-    dpi = Number(dpi);
+function getExportDimensions(sizePreset, dpi) {
+  dpi = Number(dpi);
 
-    if (sizePreset === "web") {
-      return {
-        width: 1600,
-        height: 900,
-        pdfWidthIn: 11,
-        pdfHeightIn: 8.5,
-        orientation: "landscape"
-      };
-    }
+  const isMobile = isLikelyMobileOrTablet();
 
-    if (sizePreset === "letter_landscape") {
-      return {
-        width: Math.round(11 * dpi),
-        height: Math.round(8.5 * dpi),
-        pdfWidthIn: 11,
-        pdfHeightIn: 8.5,
-        orientation: "landscape"
-      };
-    }
-
-    if (sizePreset === "letter_portrait") {
-      return {
-        width: Math.round(8.5 * dpi),
-        height: Math.round(11 * dpi),
-        pdfWidthIn: 8.5,
-        pdfHeightIn: 11,
-        orientation: "portrait"
-      };
-    }
-
+  if (sizePreset === "web") {
     return {
       width: 1600,
       height: 900,
@@ -613,6 +591,39 @@
       orientation: "landscape"
     };
   }
+
+  if (sizePreset === "letter_landscape") {
+    const effectiveDpi = isMobile ? Math.min(dpi, 150) : dpi;
+
+    return {
+      width: Math.round(11 * effectiveDpi),
+      height: Math.round(8.5 * effectiveDpi),
+      pdfWidthIn: 11,
+      pdfHeightIn: 8.5,
+      orientation: "landscape"
+    };
+  }
+
+  if (sizePreset === "letter_portrait") {
+    const effectiveDpi = isMobile ? Math.min(dpi, 150) : dpi;
+
+    return {
+      width: Math.round(8.5 * effectiveDpi),
+      height: Math.round(11 * effectiveDpi),
+      pdfWidthIn: 8.5,
+      pdfHeightIn: 11,
+      orientation: "portrait"
+    };
+  }
+
+  return {
+    width: 1600,
+    height: 900,
+    pdfWidthIn: 11,
+    pdfHeightIn: 8.5,
+    orientation: "landscape"
+  };
+}
 
   function formatTimestamp() {
     const now = new Date();
@@ -815,15 +826,17 @@ exportMap.fitBounds(exportBounds, {
   padding: [0, 0]
 });
 
-    await waitForTileLayers(exportMap);
-    await new Promise(resolve => setTimeout(resolve, 1500));
+await waitForTileLayers(exportMap);
+await new Promise(resolve => setTimeout(resolve, isLikelyMobileOrTablet() ? 900 : 1500));
 
-    const canvas = await html2canvas(layout, {
-      useCORS: true,
-      backgroundColor: "#ffffff",
-      scale: 1,
-      logging: false
-    });
+const isMobile = isLikelyMobileOrTablet();
+
+const canvas = await html2canvas(layout, {
+  useCORS: true,
+  backgroundColor: "#ffffff",
+  scale: isMobile ? 1 : 1,
+  logging: false
+});
 
     exportMap.remove();
 
