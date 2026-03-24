@@ -281,6 +281,62 @@
 .export-panel.collapsed .export-panel-header {
   border-bottom: none;
 }
+
+.export-north-arrow {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  z-index: 1000;
+  width: 54px;
+  height: 74px;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: Arial, sans-serif;
+}
+
+.export-north-arrow .north-label {
+  font-size: 18px;
+  font-weight: 700;
+  color: #111;
+  line-height: 1;
+  margin-bottom: 2px;
+  text-shadow:
+    -1px -1px 0 rgba(255,255,255,0.95),
+     1px -1px 0 rgba(255,255,255,0.95),
+    -1px  1px 0 rgba(255,255,255,0.95),
+     1px  1px 0 rgba(255,255,255,0.95);
+}
+
+.export-north-arrow .north-arrow-shaft {
+  width: 4px;
+  height: 30px;
+  background: #111;
+  border-radius: 2px;
+}
+
+.export-north-arrow .north-arrow-head {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 18px solid #111;
+  margin-bottom: -2px;
+}
+
+.export-map .leaflet-control-scale {
+  margin-left: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.export-map .leaflet-control-scale-line {
+  background: rgba(255,255,255,0.9);
+  border-color: #111;
+  color: #111;
+  font-weight: 600;
+}
   </style>
 </head>
 <body>
@@ -703,6 +759,17 @@ function addExportDistrictLabels(exportMap, polygonData) {
     });
   }
 
+function addExportNorthArrow(mapWrap) {
+  const arrow = document.createElement("div");
+  arrow.className = "export-north-arrow";
+  arrow.innerHTML = `
+    <div class="north-label">N</div>
+    <div class="north-arrow-head"></div>
+    <div class="north-arrow-shaft"></div>
+  `;
+  mapWrap.appendChild(arrow);
+}
+  
   async function buildExportCanvas() {
     if (!polygonDataGlobal || !pointDataGlobal) {
       throw new Error("Map data is not loaded yet.");
@@ -740,16 +807,18 @@ function addExportDistrictLabels(exportMap, polygonData) {
       header.appendChild(subtitleEl);
     }
 
-    const mapWrap = document.createElement("div");
-    mapWrap.className = "export-map-wrap";
+const mapWrap = document.createElement("div");
+mapWrap.className = "export-map-wrap";
 
-    const exportMapDiv = document.createElement("div");
-    exportMapDiv.className = "export-map";
+const exportMapDiv = document.createElement("div");
+exportMapDiv.className = "export-map";
 
-    mapWrap.appendChild(exportMapDiv);
-    layout.appendChild(header);
-    layout.appendChild(mapWrap);
-    exportRenderArea.appendChild(layout);
+mapWrap.appendChild(exportMapDiv);
+addExportNorthArrow(mapWrap);
+
+layout.appendChild(header);
+layout.appendChild(mapWrap);
+exportRenderArea.appendChild(layout);
 
 const districtBounds = L.geoJSON(polygonDataGlobal).getBounds();
 const wardBounds = wardBoundaryDataGlobal
@@ -778,6 +847,11 @@ const exportBounds = L.latLngBounds(
     });
 
     L.tileLayer(baseTileUrl, baseTileOptions).addTo(exportMap);
+L.control.scale({
+  imperial: true,
+  metric: true,
+  position: "bottomleft"
+}).addTo(exportMap);
 
     const exportRenderer = L.canvas({ padding: 0.5 });
 
