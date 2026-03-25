@@ -1066,12 +1066,11 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
-        "_cellId": "10281",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
-        "cell_id": "10281"
+        "cell_id": null
       }
     },
     {
@@ -1103,12 +1102,11 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
-        "_cellId": "10281",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
-        "cell_id": "10281"
+        "cell_id": null
       }
     },
     {
@@ -1141,9 +1139,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "10608",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
         "cell_id": "10608"
       }
@@ -1178,9 +1176,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "12042",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
         "cell_id": "12042"
       }
@@ -1215,9 +1213,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "12292",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
         "cell_id": "12292"
       }
@@ -1252,9 +1250,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "12304",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
         "cell_id": "12304"
       }
@@ -1289,9 +1287,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "12327",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
         "cell_id": "12327"
       }
@@ -1326,9 +1324,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "12578",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
         "cell_id": "12578"
       }
@@ -1363,9 +1361,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "12578",
-        "district_id": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
         "group": 1,
         "cell_id": "12578"
       }
@@ -2103,9 +2101,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14258",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14258"
       }
@@ -2140,9 +2138,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14342",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14342"
       }
@@ -2177,9 +2175,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14382",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14382"
       }
@@ -2214,9 +2212,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14382",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14382"
       }
@@ -2251,9 +2249,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14461",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14461"
       }
@@ -2288,9 +2286,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14461",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14461"
       }
@@ -2325,9 +2323,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14453",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14453"
       }
@@ -2362,9 +2360,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14453",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14453"
       }
@@ -2399,9 +2397,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14453",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14453"
       }
@@ -2436,9 +2434,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14635",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14635"
       }
@@ -2473,9 +2471,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14635",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14635"
       }
@@ -2510,9 +2508,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14641",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14641"
       }
@@ -2547,9 +2545,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "14749",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14749"
       }
@@ -2584,9 +2582,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "15182",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15182"
       }
@@ -2621,9 +2619,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "15717",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15717"
       }
@@ -2658,9 +2656,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "15732",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15732"
       }
@@ -2695,9 +2693,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "15814",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15814"
       }
@@ -2732,9 +2730,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "15885",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15885"
       }
@@ -2769,9 +2767,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "16391",
-        "district_id": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "16391"
       }
@@ -3139,9 +3137,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17165",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17165"
       }
@@ -3176,9 +3174,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "16900",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16900"
       }
@@ -3213,9 +3211,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "16986",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16986"
       }
@@ -3250,9 +3248,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "16886",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16886"
       }
@@ -3287,9 +3285,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17456",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17456"
       }
@@ -3324,9 +3322,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17005",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17005"
       }
@@ -3361,9 +3359,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17098",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17098"
       }
@@ -3398,9 +3396,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17246",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17246"
       }
@@ -3435,9 +3433,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17232",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17232"
       }
@@ -3472,9 +3470,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17434",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17434"
       }
@@ -3509,9 +3507,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17534",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17534"
       }
@@ -3546,9 +3544,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17520",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17520"
       }
@@ -3583,9 +3581,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17520",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17520"
       }
@@ -3620,9 +3618,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17520",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17520"
       }
@@ -3657,9 +3655,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17590",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17590"
       }
@@ -3694,9 +3692,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17681",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17681"
       }
@@ -3731,9 +3729,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17563",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17563"
       }
@@ -3768,9 +3766,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17714",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17714"
       }
@@ -3805,9 +3803,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17802",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17802"
       }
@@ -3842,9 +3840,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "17845",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17845"
       }
@@ -3879,9 +3877,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18040",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18040"
       }
@@ -3916,9 +3914,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18192",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18192"
       }
@@ -3953,9 +3951,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18192",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18192"
       }
@@ -3990,9 +3988,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18123",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18123"
       }
@@ -4027,9 +4025,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18306",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18306"
       }
@@ -4064,9 +4062,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18222",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18222"
       }
@@ -4101,9 +4099,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18525",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18525"
       }
@@ -4138,9 +4136,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18529",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18529"
       }
@@ -4175,9 +4173,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18529",
-        "district_id": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "district_id": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18529"
       }
@@ -4212,9 +4210,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18546",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18546"
       }
@@ -4249,9 +4247,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18546",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18546"
       }
@@ -4286,9 +4284,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18743",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18743"
       }
@@ -4323,9 +4321,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19148",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19148"
       }
@@ -4360,9 +4358,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19148",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19148"
       }
@@ -4397,9 +4395,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19067",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19067"
       }
@@ -4434,9 +4432,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "18949",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18949"
       }
@@ -4471,9 +4469,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19074",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19074"
       }
@@ -4508,9 +4506,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19867",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19867"
       }
@@ -4545,9 +4543,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19867",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19867"
       }
@@ -4582,9 +4580,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "19672",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19672"
       }
@@ -4619,9 +4617,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "20018",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "20018"
       }
@@ -4656,9 +4654,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "20471",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "20471"
       }
@@ -4693,9 +4691,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "20519",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "20519"
       }
@@ -4730,9 +4728,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "21086",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21086"
       }
@@ -4767,9 +4765,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "21284",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21284"
       }
@@ -4804,9 +4802,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "21592",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21592"
       }
@@ -4841,9 +4839,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22533",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22533"
       }
@@ -4878,9 +4876,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22533",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22533"
       }
@@ -4915,9 +4913,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "21810",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21810"
       }
@@ -4952,9 +4950,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22050",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22050"
       }
@@ -4989,9 +4987,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22154",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22154"
       }
@@ -5026,9 +5024,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22446",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22446"
       }
@@ -5063,9 +5061,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22321",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22321"
       }
@@ -5100,9 +5098,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22231",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22231"
       }
@@ -5137,9 +5135,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22728",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22728"
       }
@@ -5174,9 +5172,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22684",
-        "district_id": 4,
-        "district_color": "#7c3aed",
-        "district_label": 5,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22684"
       }
@@ -5211,9 +5209,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22841",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22841"
       }
@@ -5248,9 +5246,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "22899",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22899"
       }
@@ -5285,9 +5283,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "23235",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23235"
       }
@@ -5322,9 +5320,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "23283",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23283"
       }
@@ -5359,9 +5357,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "23705",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23705"
       }
@@ -5396,9 +5394,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "23799",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23799"
       }
@@ -5433,9 +5431,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "24245",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "24245"
       }
@@ -5470,9 +5468,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "24378",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "24378"
       }
@@ -5507,9 +5505,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "24500",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "24500"
       }
@@ -5544,9 +5542,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "24737",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24737"
       }
@@ -5581,9 +5579,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "24737",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24737"
       }
@@ -5618,9 +5616,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "24908",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24908"
       }
@@ -5655,9 +5653,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "24961",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24961"
       }
@@ -5692,9 +5690,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "25115",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25115"
       }
@@ -5729,9 +5727,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "25218",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25218"
       }
@@ -5766,9 +5764,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "25375",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25375"
       }
@@ -5803,9 +5801,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "25392",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25392"
       }
@@ -5840,9 +5838,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "25786",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25786"
       }
@@ -5877,9 +5875,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "25736",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25736"
       }
@@ -5914,9 +5912,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "26136",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26136"
       }
@@ -5951,9 +5949,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "26668",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26668"
       }
@@ -5988,9 +5986,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "26613",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26613"
       }
@@ -6025,9 +6023,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "26677",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26677"
       }
@@ -6062,9 +6060,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "27486",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "27486"
       }
@@ -6099,9 +6097,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "27531",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "27531"
       }
@@ -6136,9 +6134,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "28010",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28010"
       }
@@ -6173,9 +6171,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "28318",
-        "district_id": 5,
-        "district_color": "#0891b2",
-        "district_label": 6,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28318"
       }
@@ -6210,9 +6208,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "28371",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28371"
       }
@@ -6247,9 +6245,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "28371",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28371"
       }
@@ -6284,9 +6282,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "28732",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28732"
       }
@@ -6321,9 +6319,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "29544",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "29544"
       }
@@ -6358,9 +6356,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "30454",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "30454"
       }
@@ -6395,9 +6393,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "30957",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "30957"
       }
@@ -6432,9 +6430,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "31360",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "31360"
       }
@@ -6469,9 +6467,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "31764",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "31764"
       }
@@ -6506,9 +6504,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "32061",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "32061"
       }
@@ -6543,9 +6541,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "32554",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "32554"
       }
@@ -6580,9 +6578,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "33368",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "33368"
       }
@@ -6617,9 +6615,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "33633",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "33633"
       }
@@ -6654,9 +6652,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "33740",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "33740"
       }
@@ -6691,9 +6689,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "34680",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "34680"
       }
@@ -6728,9 +6726,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "35036",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "35036"
       }
@@ -6765,9 +6763,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "35650",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "35650"
       }
@@ -6802,9 +6800,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "35770",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "35770"
       }
@@ -6839,9 +6837,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "36149",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "36149"
       }
@@ -6876,9 +6874,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "36487",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "36487"
       }
@@ -6913,9 +6911,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "36607",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "36607"
       }
@@ -6950,9 +6948,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "36496",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "36496"
       }
@@ -6987,9 +6985,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "36972",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "36972"
       }
@@ -7024,9 +7022,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "38574",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "38574"
       }
@@ -7061,9 +7059,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "38804",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "38804"
       }
@@ -7098,9 +7096,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "38693",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "38693"
       }
@@ -7135,9 +7133,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "39128",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "39128"
       }
@@ -7172,9 +7170,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "39488",
-        "district_id": 6,
-        "district_color": "#dc2626",
-        "district_label": 7,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "39488"
       }
@@ -7209,9 +7207,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "39831",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "39831"
       }
@@ -7246,9 +7244,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "40205",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "40205"
       }
@@ -7283,9 +7281,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "41219",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "41219"
       }
@@ -7320,9 +7318,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "41219",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "41219"
       }
@@ -7357,9 +7355,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "41745",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "41745"
       }
@@ -7394,9 +7392,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "42228",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "42228"
       }
@@ -7431,9 +7429,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "42779",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "42779"
       }
@@ -7468,9 +7466,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "43076",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "43076"
       }
@@ -7505,9 +7503,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "43076",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "43076"
       }
@@ -7542,9 +7540,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "44239",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44239"
       }
@@ -7579,9 +7577,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "44797",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44797"
       }
@@ -7616,9 +7614,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "44847",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44847"
       }
@@ -7653,9 +7651,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "44879",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44879"
       }
@@ -7690,9 +7688,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "47238",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "47238"
       }
@@ -7727,9 +7725,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "48597",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48597"
       }
@@ -7764,9 +7762,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "48643",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48643"
       }
@@ -7801,9 +7799,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "48936",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48936"
       }
@@ -7838,9 +7836,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "48936",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48936"
       }
@@ -7875,9 +7873,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "49373",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49373"
       }
@@ -7912,9 +7910,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "49373",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49373"
       }
@@ -7949,9 +7947,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "49541",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49541"
       }
@@ -7986,9 +7984,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "49617",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49617"
       }
@@ -8023,9 +8021,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "49632",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49632"
       }
@@ -8060,9 +8058,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "50247",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "50247"
       }
@@ -8097,9 +8095,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "50840",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "50840"
       }
@@ -8134,9 +8132,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "52486",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "52486"
       }
@@ -8171,9 +8169,9 @@
         "Is_assigned_ministers": "yes",
         "_group": 1,
         "_cellId": "53615",
-        "district_id": 7,
-        "district_color": "#65a30d",
-        "district_label": 8,
+        "district_id": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "53615"
       }
