@@ -1066,12 +1066,11 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
-        "_cellId": "10281",
         "district_id": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "10281"
+        "cell_id": null
       }
     },
     {
@@ -1103,12 +1102,11 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
-        "_cellId": "10281",
         "district_id": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "10281"
+        "cell_id": null
       }
     },
     {
@@ -1997,43 +1995,6 @@
         "district_label": 1,
         "group": 1,
         "cell_id": "13836"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 152,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.57403471669446,
-          37.09840507698104
-        ]
-      },
-      "properties": {
-        "OBJECTID": 152,
-        "Last_Name": "Greene",
-        "First_Name": "Catherine Iola",
-        "Address": "570 S 440 E Cir, St. George, UT 84770",
-        "lat": 37.0984039,
-        "lon": -113.574036,
-        "Apt_Number": null,
-        "Notes": null,
-        "Gender": "F",
-        "Address_confidence": "high",
-        "BirthDate": 714787200000,
-        "Age": 33,
-        "Emails": "catherinegreene.ii@gmail.com",
-        "Quarterly_att_pct": 0,
-        "prospective_elder": "not applicable",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "_group": 1,
-        "_cellId": "13928",
-        "district_id": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "13928"
       }
     },
     {
@@ -4106,6 +4067,44 @@
         "district_label": 2,
         "group": 1,
         "cell_id": "18525"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57403471669446,
+          37.09840507698104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "Last_Name": "Greene",
+        "First_Name": "Catherine Iola",
+        "Address": "570 S 440 E Cir, St. George, UT 84770",
+        "lat": 37.0984039,
+        "lon": -113.574036,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "F",
+        "Address_confidence": "high",
+        "BirthDate": 714787200000,
+        "Age": 33,
+        "Emails": "catherinegreene.ii@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "not applicable",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "_group": 1,
+        "_cellId": "13928",
+        "_district": 1,
+        "district_id": 1,
+        "district_label": 2,
+        "district_color": "#2563eb",
+        "group": 1,
+        "cell_id": "13928"
       }
     },
     {
