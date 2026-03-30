@@ -451,12 +451,33 @@ function isLikelyMobileOrTablet() {
     (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
 }
   
+  function isOutsideBoundaryPoint(props) {
+    return !!(props && props._outsideBoundary);
+  }
+
   function getDistrictNumber(props) {
     return Number(props.district_id) + 1;
   }
 
+  function getDistrictLabel(props) {
+    if (isOutsideBoundaryPoint(props)) {
+      return "Out of Boundary";
+    }
+
+    const districtId = Number(props?.district_id);
+    if (Number.isFinite(districtId)) {
+      return `District ${districtId + 1}`;
+    }
+
+    return "Unknown District";
+  }
+
   function getDistrictColor(props) {
-    const districtId = Number(props.district_id);
+    if (isOutsideBoundaryPoint(props)) {
+      return "#9ca3af";
+    }
+
+    const districtId = Number(props?.district_id);
     if (Number.isFinite(districtId)) {
       return DISTRICT_PALETTE[districtId % DISTRICT_PALETTE.length];
     }
@@ -877,16 +898,18 @@ L.control.scale({
         renderer: exportRenderer,
         interactive: false,
         pointToLayer: function (feature, latlng) {
-          const color = getDistrictColor(feature.properties);
+          const props = feature.properties || {};
+          const color = getDistrictColor(props);
+          const isOutsideBoundary = isOutsideBoundaryPoint(props);
 
           return L.circleMarker(latlng, {
             renderer: exportRenderer,
             radius: 4,
             fillColor: color,
-            color: "#111111",
-            weight: 1,
-            opacity: 0.7,
-            fillOpacity: 0.65,
+            color: isOutsideBoundary ? "#4b5563" : "#111111",
+            weight: isOutsideBoundary ? 0.8 : 1,
+            opacity: 0.8,
+            fillOpacity: isOutsideBoundary ? 0.8 : 0.65,
             interactive: false
           });
         }
@@ -993,30 +1016,33 @@ Promise.all([
 
       pointLayer = L.geoJSON(pointData, {
         pointToLayer: function (feature, latlng) {
-          const color = getDistrictColor(feature.properties);
+          const props = feature.properties || {};
+          const color = getDistrictColor(props);
+          const isOutsideBoundary = isOutsideBoundaryPoint(props);
 
           return L.circleMarker(latlng, {
             radius: 7,
             fillColor: color,
-            color: "#000000",
-            weight: 2,
+            color: isOutsideBoundary ? "#4b5563" : "#000000",
+            weight: isOutsideBoundary ? 1.5 : 2,
             opacity: 1,
-            fillOpacity: 1
+            fillOpacity: isOutsideBoundary ? 0.9 : 1
           });
         },
         onEachFeature: function (feature, layer) {
           const props = feature.properties;
-          const districtLabel = `District ${getDistrictNumber(props)}`;
+          const districtLabel = getDistrictLabel(props);
           const displayName = getDisplayName(props);
 
           const assignedToMinister = formatYesNo(props.Assigned_to_minister);
           const isAssignedMinisters = formatYesNo(props.Is_assigned_ministers);
+          const outsideBoundaryText = isOutsideBoundaryPoint(props) ? "<br><b>Boundary status:</b> Outside ward boundary" : "";
 
           layer.bindPopup(`
             <b>${displayName}</b><br>
             ${districtLabel}<br><br>
             <b>Assigned to Minister:</b> ${assignedToMinister}<br>
-            <b>Has Assigned Ministers:</b> ${isAssignedMinisters}
+            <b>Has Assigned Ministers:</b> ${isAssignedMinisters}${outsideBoundaryText}
           `);
 
           layer.bindTooltip(
@@ -1033,7 +1059,7 @@ Promise.all([
           layer.on("mouseover", function () {
             layer.setStyle({
               radius: 9,
-              weight: 3
+              weight: isOutsideBoundaryPoint(props) ? 2.5 : 3
             });
 
             if (showHoverLabels) {
@@ -1044,7 +1070,7 @@ Promise.all([
           layer.on("mouseout", function () {
             layer.setStyle({
               radius: 7,
-              weight: 2
+              weight: isOutsideBoundaryPoint(props) ? 1.5 : 2
             });
 
             layer.closeTooltip();
