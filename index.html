@@ -488,35 +488,41 @@ function isLikelyMobileOrTablet() {
     return String(value ?? "").trim().toLowerCase();
   }
 
-  function buildDistrictStats(pointData) {
-    districtStats.clear();
+function buildDistrictStats(pointData) {
+  districtStats.clear();
 
-    for (const feature of pointData.features || []) {
-      const props = feature.properties || {};
-      const districtId = Number(props.district_id);
+  for (const feature of pointData.features || []) {
+    const props = feature.properties || {};
+    const districtId = Number(props.district_id);
 
-      if (!Number.isFinite(districtId)) continue;
+    if (!Number.isFinite(districtId)) continue;
 
-      if (!districtStats.has(districtId)) {
-        districtStats.set(districtId, {
-          assignedYes: 0,
-          assignedNo: 0,
-          total: 0
-        });
-      }
+    if (!districtStats.has(districtId)) {
+      districtStats.set(districtId, {
+        assignedYes: 0,
+        assignedNo: 0,
+        outsideInvolved: 0,
+        total: 0
+      });
+    }
 
-      const stats = districtStats.get(districtId);
-      const assignedToMinister = normalizeYesNo(props.Assigned_to_minister);
+    const stats = districtStats.get(districtId);
+    const assignedToMinister = normalizeYesNo(props.Assigned_to_minister);
+    const isOutside = isOutsideBoundaryPoint(props);
 
+    if (isOutside) {
+      stats.outsideInvolved++;
+    } else {
       if (assignedToMinister === "yes") {
         stats.assignedYes++;
       } else if (assignedToMinister === "no") {
         stats.assignedNo++;
       }
-
-      stats.total++;
     }
+
+    stats.total = stats.assignedYes + stats.assignedNo + stats.outsideInvolved;
   }
+}
 
   function getDistrictStats(districtId) {
     return districtStats.get(Number(districtId)) || {
