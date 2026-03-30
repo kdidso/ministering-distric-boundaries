@@ -446,6 +446,13 @@
     "#1f77b4"
   ];
 
+function parseDistrictId(value) {
+  if (value === null || value === undefined || value === "") return null;
+
+  const num = Number(value);
+  return Number.isFinite(num) ? num : null;
+}
+
 function isLikelyMobileOrTablet() {
   return /iPad|iPhone|iPod|Android/.test(navigator.userAgent) ||
     (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
@@ -455,34 +462,36 @@ function isLikelyMobileOrTablet() {
     return !!(props && props._outsideBoundary);
   }
 
-  function getDistrictNumber(props) {
-    return Number(props.district_id) + 1;
+function getDistrictNumber(props) {
+  const districtId = parseDistrictId(props?.district_id);
+  return districtId === null ? null : districtId + 1;
+}
+
+function getDistrictLabel(props) {
+  if (isOutsideBoundaryPoint(props)) {
+    return "Out of Boundary";
   }
 
-  function getDistrictLabel(props) {
-    if (isOutsideBoundaryPoint(props)) {
-      return "Out of Boundary";
-    }
-
-    const districtId = Number(props?.district_id);
-    if (Number.isFinite(districtId)) {
-      return `District ${districtId + 1}`;
-    }
-
-    return "Unknown District";
+  const districtId = parseDistrictId(props?.district_id);
+  if (districtId !== null) {
+    return `District ${districtId + 1}`;
   }
 
-  function getDistrictColor(props) {
-    if (isOutsideBoundaryPoint(props)) {
-      return "#9ca3af";
-    }
+  return "Unknown District";
+}
 
-    const districtId = Number(props?.district_id);
-    if (Number.isFinite(districtId)) {
-      return DISTRICT_PALETTE[districtId % DISTRICT_PALETTE.length];
-    }
-    return "#888888";
+function getDistrictColor(props) {
+  if (isOutsideBoundaryPoint(props)) {
+    return "#9ca3af";
   }
+
+  const districtId = parseDistrictId(props?.district_id);
+  if (districtId !== null) {
+    return DISTRICT_PALETTE[districtId % DISTRICT_PALETTE.length];
+  }
+
+  return "#888888";
+}
 
   function normalizeYesNo(value) {
     return String(value ?? "").trim().toLowerCase();
@@ -493,9 +502,12 @@ function buildDistrictStats(pointData) {
 
   for (const feature of pointData.features || []) {
     const props = feature.properties || {};
-    const districtId = Number(props.district_id);
+    const districtId = parseDistrictId(props.district_id);
+    const isOutside = isOutsideBoundaryPoint(props);
 
-    if (!Number.isFinite(districtId)) continue;
+    // Outside-boundary points only count toward a district
+    // if they were explicitly tied to one.
+    if (districtId === null) continue;
 
     if (!districtStats.has(districtId)) {
       districtStats.set(districtId, {
@@ -508,7 +520,6 @@ function buildDistrictStats(pointData) {
 
     const stats = districtStats.get(districtId);
     const assignedToMinister = normalizeYesNo(props.Assigned_to_minister);
-    const isOutside = isOutsideBoundaryPoint(props);
 
     if (isOutside) {
       stats.outsideInvolved++;
@@ -523,9 +534,19 @@ function buildDistrictStats(pointData) {
     stats.total = stats.assignedYes + stats.assignedNo + stats.outsideInvolved;
   }
 }
-
 function getDistrictStats(districtId) {
-  return districtStats.get(Number(districtId)) || {
+  const parsedDistrictId = parseDistrictId(districtId);
+
+  if (parsedDistrictId === null) {
+    return {
+      assignedYes: 0,
+      assignedNo: 0,
+      outsideInvolved: 0,
+      total: 0
+    };
+  }
+
+  return districtStats.get(parsedDistrictId) || {
     assignedYes: 0,
     assignedNo: 0,
     outsideInvolved: 0,
@@ -566,10 +587,11 @@ function highlightPolygon(layer) {
   });
 
   const props = layer.feature.properties;
+  const districtNum = getDistrictNumber(props);
   const stats = getDistrictStats(props.district_id);
 
   infoText.innerHTML = `
-    <b>District ${getDistrictNumber(props)}</b><br>
+    <b>District ${districtNum}</b><br>
     Yes: ${stats.assignedYes} | No: ${stats.assignedNo} | Out: ${stats.outsideInvolved} | Total: ${stats.total}
   `;
 }
