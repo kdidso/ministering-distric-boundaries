@@ -30,14 +30,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "4646",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4646",
-        "_outsideBoundary": false
+        "cell_id": "4646"
       }
     },
     {
@@ -69,14 +69,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "4706",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4706",
-        "_outsideBoundary": false
+        "cell_id": "4706"
       }
     },
     {
@@ -108,14 +108,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "4857",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4857",
-        "_outsideBoundary": false
+        "cell_id": "4857"
       }
     },
     {
@@ -147,14 +147,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "4978",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4978",
-        "_outsideBoundary": false
+        "cell_id": "4978"
       }
     },
     {
@@ -186,14 +186,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "5032",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "5032",
-        "_outsideBoundary": false
+        "cell_id": "5032"
       }
     },
     {
@@ -225,14 +225,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "5149",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "5149",
-        "_outsideBoundary": false
+        "cell_id": "5149"
       }
     },
     {
@@ -264,14 +264,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "6383",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6383",
-        "_outsideBoundary": false
+        "cell_id": "6383"
       }
     },
     {
@@ -303,14 +303,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "6387",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6387",
-        "_outsideBoundary": false
+        "cell_id": "6387"
       }
     },
     {
@@ -342,14 +342,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "6885",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6885",
-        "_outsideBoundary": false
+        "cell_id": "6885"
       }
     },
     {
@@ -381,14 +381,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "6885",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6885",
-        "_outsideBoundary": false
+        "cell_id": "6885"
       }
     },
     {
@@ -420,14 +420,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "7621",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "7621",
-        "_outsideBoundary": false
+        "cell_id": "7621"
       }
     },
     {
@@ -459,14 +459,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "8008",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "8008",
-        "_outsideBoundary": false
+        "cell_id": "8008"
       }
     },
     {
@@ -498,14 +498,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "8542",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "8542",
-        "_outsideBoundary": false
+        "cell_id": "8542"
       }
     },
     {
@@ -537,14 +537,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "9000",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "9000",
-        "_outsideBoundary": false
+        "cell_id": "9000"
       }
     },
     {
@@ -576,14 +576,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "10281",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "10281",
-        "_outsideBoundary": false
+        "cell_id": "10281"
       }
     },
     {
@@ -615,14 +615,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "12962",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "12962",
-        "_outsideBoundary": false
+        "cell_id": "12962"
       }
     },
     {
@@ -654,14 +654,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "12868",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "12868",
-        "_outsideBoundary": false
+        "cell_id": "12868"
       }
     },
     {
@@ -693,14 +693,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "13290",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "13290",
-        "_outsideBoundary": false
+        "cell_id": "13290"
       }
     },
     {
@@ -732,14 +732,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "13639",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "13639",
-        "_outsideBoundary": false
+        "cell_id": "13639"
       }
     },
     {
@@ -771,14 +771,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "3942",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "3942",
-        "_outsideBoundary": false
+        "cell_id": "3942"
       }
     },
     {
@@ -810,14 +810,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "4300",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "4300",
-        "_outsideBoundary": false
+        "cell_id": "4300"
       }
     },
     {
@@ -849,14 +849,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "5090",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "5090",
-        "_outsideBoundary": false
+        "cell_id": "5090"
       }
     },
     {
@@ -888,14 +888,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "5090",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "5090",
-        "_outsideBoundary": false
+        "cell_id": "5090"
       }
     },
     {
@@ -927,14 +927,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "5857",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "5857",
-        "_outsideBoundary": false
+        "cell_id": "5857"
       }
     },
     {
@@ -966,14 +966,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "6320",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "6320",
-        "_outsideBoundary": false
+        "cell_id": "6320"
       }
     },
     {
@@ -1005,14 +1005,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "6407",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "6407",
-        "_outsideBoundary": false
+        "cell_id": "6407"
       }
     },
     {
@@ -1044,14 +1044,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "6656",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "6656",
-        "_outsideBoundary": false
+        "cell_id": "6656"
       }
     },
     {
@@ -1083,14 +1083,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "7766",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "7766",
-        "_outsideBoundary": false
+        "cell_id": "7766"
       }
     },
     {
@@ -1122,14 +1122,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "8797",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "8797",
-        "_outsideBoundary": false
+        "cell_id": "8797"
       }
     },
     {
@@ -1161,14 +1161,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "8542",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "8542",
-        "_outsideBoundary": false
+        "cell_id": "8542"
       }
     },
     {
@@ -1200,14 +1200,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "8603",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "8603",
-        "_outsideBoundary": false
+        "cell_id": "8603"
       }
     },
     {
@@ -1239,14 +1239,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "9240",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "9240",
-        "_outsideBoundary": false
+        "cell_id": "9240"
       }
     },
     {
@@ -1278,14 +1278,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "10551",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10551",
-        "_outsideBoundary": false
+        "cell_id": "10551"
       }
     },
     {
@@ -1317,14 +1317,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "10551",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10551",
-        "_outsideBoundary": false
+        "cell_id": "10551"
       }
     },
     {
@@ -1356,14 +1356,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "10551",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10551",
-        "_outsideBoundary": false
+        "cell_id": "10551"
       }
     },
     {
@@ -1395,14 +1395,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "10621",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10621",
-        "_outsideBoundary": false
+        "cell_id": "10621"
       }
     },
     {
@@ -1434,14 +1434,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "10810",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10810",
-        "_outsideBoundary": false
+        "cell_id": "10810"
       }
     },
     {
@@ -1473,14 +1473,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "11096",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11096",
-        "_outsideBoundary": false
+        "cell_id": "11096"
       }
     },
     {
@@ -1512,14 +1512,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "11731",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11731",
-        "_outsideBoundary": false
+        "cell_id": "11731"
       }
     },
     {
@@ -1551,14 +1551,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "11928",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11928",
-        "_outsideBoundary": false
+        "cell_id": "11928"
       }
     },
     {
@@ -1590,14 +1590,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "11928",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11928",
-        "_outsideBoundary": false
+        "cell_id": "11928"
       }
     },
     {
@@ -1629,14 +1629,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "12160",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12160",
-        "_outsideBoundary": false
+        "cell_id": "12160"
       }
     },
     {
@@ -1668,14 +1668,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "12305",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12305",
-        "_outsideBoundary": false
+        "cell_id": "12305"
       }
     },
     {
@@ -1707,14 +1707,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "12328",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12328",
-        "_outsideBoundary": false
+        "cell_id": "12328"
       }
     },
     {
@@ -1746,14 +1746,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "12500",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12500",
-        "_outsideBoundary": false
+        "cell_id": "12500"
       }
     },
     {
@@ -1785,14 +1785,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "12949",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12949",
-        "_outsideBoundary": false
+        "cell_id": "12949"
       }
     },
     {
@@ -1824,14 +1824,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "12949",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12949",
-        "_outsideBoundary": false
+        "cell_id": "12949"
       }
     },
     {
@@ -1863,14 +1863,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "13185",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "13185",
-        "_outsideBoundary": false
+        "cell_id": "13185"
       }
     },
     {
@@ -1902,14 +1902,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "13391",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "13391",
-        "_outsideBoundary": false
+        "cell_id": "13391"
       }
     },
     {
@@ -1941,14 +1941,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "13416",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "13416",
-        "_outsideBoundary": false
+        "cell_id": "13416"
       }
     },
     {
@@ -1980,14 +1980,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14093",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14093",
-        "_outsideBoundary": false
+        "cell_id": "14093"
       }
     },
     {
@@ -2019,14 +2019,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14320",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14320",
-        "_outsideBoundary": false
+        "cell_id": "14320"
       }
     },
     {
@@ -2058,14 +2058,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14270",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14270",
-        "_outsideBoundary": false
+        "cell_id": "14270"
       }
     },
     {
@@ -2097,14 +2097,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14336",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14336",
-        "_outsideBoundary": false
+        "cell_id": "14336"
       }
     },
     {
@@ -2136,14 +2136,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14412",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14412",
-        "_outsideBoundary": false
+        "cell_id": "14412"
       }
     },
     {
@@ -2175,14 +2175,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14720",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14720",
-        "_outsideBoundary": false
+        "cell_id": "14720"
       }
     },
     {
@@ -2214,14 +2214,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14720",
         "district_id": 0,
         "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14720",
-        "_outsideBoundary": false
+        "cell_id": "14720"
       }
     },
     {
@@ -2253,14 +2253,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "13889",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "13889",
-        "_outsideBoundary": false
+        "cell_id": "13889"
       }
     },
     {
@@ -2292,14 +2292,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "13959",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "13959",
-        "_outsideBoundary": false
+        "cell_id": "13959"
       }
     },
     {
@@ -2331,14 +2331,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "14417",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14417",
-        "_outsideBoundary": false
+        "cell_id": "14417"
       }
     },
     {
@@ -2370,14 +2370,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "14412",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14412",
-        "_outsideBoundary": false
+        "cell_id": "14412"
       }
     },
     {
@@ -2409,14 +2409,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "14696",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14696",
-        "_outsideBoundary": false
+        "cell_id": "14696"
       }
     },
     {
@@ -2448,14 +2448,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "15195",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15195",
-        "_outsideBoundary": false
+        "cell_id": "15195"
       }
     },
     {
@@ -2487,14 +2487,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "14963",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14963",
-        "_outsideBoundary": false
+        "cell_id": "14963"
       }
     },
     {
@@ -2526,14 +2526,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "15116",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15116",
-        "_outsideBoundary": false
+        "cell_id": "15116"
       }
     },
     {
@@ -2565,14 +2565,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "15227",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15227",
-        "_outsideBoundary": false
+        "cell_id": "15227"
       }
     },
     {
@@ -2604,14 +2604,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "16025",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16025",
-        "_outsideBoundary": false
+        "cell_id": "16025"
       }
     },
     {
@@ -2643,14 +2643,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "15705",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15705",
-        "_outsideBoundary": false
+        "cell_id": "15705"
       }
     },
     {
@@ -2682,14 +2682,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "15705",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15705",
-        "_outsideBoundary": false
+        "cell_id": "15705"
       }
     },
     {
@@ -2721,14 +2721,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "16140",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16140",
-        "_outsideBoundary": false
+        "cell_id": "16140"
       }
     },
     {
@@ -2760,14 +2760,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "16486",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16486",
-        "_outsideBoundary": false
+        "cell_id": "16486"
       }
     },
     {
@@ -2799,14 +2799,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "16291",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16291",
-        "_outsideBoundary": false
+        "cell_id": "16291"
       }
     },
     {
@@ -2838,14 +2838,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "16928",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16928",
-        "_outsideBoundary": false
+        "cell_id": "16928"
       }
     },
     {
@@ -2877,14 +2877,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "17352",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "17352",
-        "_outsideBoundary": false
+        "cell_id": "17352"
       }
     },
     {
@@ -2916,14 +2916,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "18192",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "18192",
-        "_outsideBoundary": false
+        "cell_id": "18192"
       }
     },
     {
@@ -2955,14 +2955,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "18645",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "18645",
-        "_outsideBoundary": false
+        "cell_id": "18645"
       }
     },
     {
@@ -2994,14 +2994,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14621",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14621",
-        "_outsideBoundary": false
+        "cell_id": "14621"
       }
     },
     {
@@ -3033,14 +3033,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14658",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14658",
-        "_outsideBoundary": false
+        "cell_id": "14658"
       }
     },
     {
@@ -3072,14 +3072,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14658",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14658",
-        "_outsideBoundary": false
+        "cell_id": "14658"
       }
     },
     {
@@ -3111,14 +3111,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14770",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14770",
-        "_outsideBoundary": false
+        "cell_id": "14770"
       }
     },
     {
@@ -3150,14 +3150,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15070",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15070",
-        "_outsideBoundary": false
+        "cell_id": "15070"
       }
     },
     {
@@ -3189,14 +3189,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15085",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15085",
-        "_outsideBoundary": false
+        "cell_id": "15085"
       }
     },
     {
@@ -3228,14 +3228,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14749",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14749",
-        "_outsideBoundary": false
+        "cell_id": "14749"
       }
     },
     {
@@ -3267,14 +3267,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "14828",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14828",
-        "_outsideBoundary": false
+        "cell_id": "14828"
       }
     },
     {
@@ -3306,14 +3306,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15067",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15067",
-        "_outsideBoundary": false
+        "cell_id": "15067"
       }
     },
     {
@@ -3345,14 +3345,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15163",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15163",
-        "_outsideBoundary": false
+        "cell_id": "15163"
       }
     },
     {
@@ -3384,14 +3384,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15163",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15163",
-        "_outsideBoundary": false
+        "cell_id": "15163"
       }
     },
     {
@@ -3423,14 +3423,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15195",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15195",
-        "_outsideBoundary": false
+        "cell_id": "15195"
       }
     },
     {
@@ -3462,14 +3462,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15729",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15729",
-        "_outsideBoundary": false
+        "cell_id": "15729"
       }
     },
     {
@@ -3501,14 +3501,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15602",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15602",
-        "_outsideBoundary": false
+        "cell_id": "15602"
       }
     },
     {
@@ -3540,14 +3540,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15729",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15729",
-        "_outsideBoundary": false
+        "cell_id": "15729"
       }
     },
     {
@@ -3579,14 +3579,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "15834",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15834",
-        "_outsideBoundary": false
+        "cell_id": "15834"
       }
     },
     {
@@ -3618,14 +3618,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16292",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16292",
-        "_outsideBoundary": false
+        "cell_id": "16292"
       }
     },
     {
@@ -3657,14 +3657,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16123",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16123",
-        "_outsideBoundary": false
+        "cell_id": "16123"
       }
     },
     {
@@ -3696,14 +3696,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16486",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486",
-        "_outsideBoundary": false
+        "cell_id": "16486"
       }
     },
     {
@@ -3735,14 +3735,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16486",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486",
-        "_outsideBoundary": false
+        "cell_id": "16486"
       }
     },
     {
@@ -3774,14 +3774,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16486",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486",
-        "_outsideBoundary": false
+        "cell_id": "16486"
       }
     },
     {
@@ -3813,14 +3813,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16486",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486",
-        "_outsideBoundary": false
+        "cell_id": "16486"
       }
     },
     {
@@ -3852,14 +3852,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16620",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16620",
-        "_outsideBoundary": false
+        "cell_id": "16620"
       }
     },
     {
@@ -3891,14 +3891,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16563",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16563",
-        "_outsideBoundary": false
+        "cell_id": "16563"
       }
     },
     {
@@ -3930,14 +3930,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16666",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16666",
-        "_outsideBoundary": false
+        "cell_id": "16666"
       }
     },
     {
@@ -3969,14 +3969,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "17165",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17165",
-        "_outsideBoundary": false
+        "cell_id": "17165"
       }
     },
     {
@@ -4008,14 +4008,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "16862",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16862",
-        "_outsideBoundary": false
+        "cell_id": "16862"
       }
     },
     {
@@ -4047,14 +4047,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "17456",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17456",
-        "_outsideBoundary": false
+        "cell_id": "17456"
       }
     },
     {
@@ -4086,14 +4086,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "18192",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18192",
-        "_outsideBoundary": false
+        "cell_id": "18192"
       }
     },
     {
@@ -4125,14 +4125,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "17561",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17561",
-        "_outsideBoundary": false
+        "cell_id": "17561"
       }
     },
     {
@@ -4164,14 +4164,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "17541",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17541",
-        "_outsideBoundary": false
+        "cell_id": "17541"
       }
     },
     {
@@ -4203,14 +4203,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "17816",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17816",
-        "_outsideBoundary": false
+        "cell_id": "17816"
       }
     },
     {
@@ -4242,14 +4242,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "17798",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17798",
-        "_outsideBoundary": false
+        "cell_id": "17798"
       }
     },
     {
@@ -4281,14 +4281,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "18020",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18020",
-        "_outsideBoundary": false
+        "cell_id": "18020"
       }
     },
     {
@@ -4320,14 +4320,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "17986",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17986",
-        "_outsideBoundary": false
+        "cell_id": "17986"
       }
     },
     {
@@ -4359,14 +4359,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "18193",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18193",
-        "_outsideBoundary": false
+        "cell_id": "18193"
       }
     },
     {
@@ -4398,14 +4398,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "18776",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18776",
-        "_outsideBoundary": false
+        "cell_id": "18776"
       }
     },
     {
@@ -4437,14 +4437,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "18737",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "18737",
-        "_outsideBoundary": false
+        "cell_id": "18737"
       }
     },
     {
@@ -4476,14 +4476,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "19672",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "19672",
-        "_outsideBoundary": false
+        "cell_id": "19672"
       }
     },
     {
@@ -4515,14 +4515,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "19491",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "19491",
-        "_outsideBoundary": false
+        "cell_id": "19491"
       }
     },
     {
@@ -4554,14 +4554,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "19569",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "19569",
-        "_outsideBoundary": false
+        "cell_id": "19569"
       }
     },
     {
@@ -4593,14 +4593,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "23158",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "23158",
-        "_outsideBoundary": false
+        "cell_id": "23158"
       }
     },
     {
@@ -4632,14 +4632,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "23054",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "23054",
-        "_outsideBoundary": false
+        "cell_id": "23054"
       }
     },
     {
@@ -4671,14 +4671,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "23573",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "23573",
-        "_outsideBoundary": false
+        "cell_id": "23573"
       }
     },
     {
@@ -4710,14 +4710,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "24364",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24364",
-        "_outsideBoundary": false
+        "cell_id": "24364"
       }
     },
     {
@@ -4749,14 +4749,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "24536",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24536",
-        "_outsideBoundary": false
+        "cell_id": "24536"
       }
     },
     {
@@ -4788,14 +4788,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "24881",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24881",
-        "_outsideBoundary": false
+        "cell_id": "24881"
       }
     },
     {
@@ -4827,14 +4827,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "24997",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24997",
-        "_outsideBoundary": false
+        "cell_id": "24997"
       }
     },
     {
@@ -4866,14 +4866,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "25768",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "25768",
-        "_outsideBoundary": false
+        "cell_id": "25768"
       }
     },
     {
@@ -4905,14 +4905,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "26096",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "26096",
-        "_outsideBoundary": false
+        "cell_id": "26096"
       }
     },
     {
@@ -4944,14 +4944,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "27295",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "27295",
-        "_outsideBoundary": false
+        "cell_id": "27295"
       }
     },
     {
@@ -4983,14 +4983,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "29179",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "29179",
-        "_outsideBoundary": false
+        "cell_id": "29179"
       }
     },
     {
@@ -5022,14 +5022,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "29246",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "29246",
-        "_outsideBoundary": false
+        "cell_id": "29246"
       }
     },
     {
@@ -5061,14 +5061,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "30468",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "30468",
-        "_outsideBoundary": false
+        "cell_id": "30468"
       }
     },
     {
@@ -5100,14 +5100,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "30562",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "30562",
-        "_outsideBoundary": false
+        "cell_id": "30562"
       }
     },
     {
@@ -5139,14 +5139,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "18734",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "18734",
-        "_outsideBoundary": false
+        "cell_id": "18734"
       }
     },
     {
@@ -5178,14 +5178,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19067",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19067",
-        "_outsideBoundary": false
+        "cell_id": "19067"
       }
     },
     {
@@ -5217,14 +5217,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19067",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19067",
-        "_outsideBoundary": false
+        "cell_id": "19067"
       }
     },
     {
@@ -5256,14 +5256,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19074",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19074",
-        "_outsideBoundary": false
+        "cell_id": "19074"
       }
     },
     {
@@ -5295,14 +5295,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19867",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19867",
-        "_outsideBoundary": false
+        "cell_id": "19867"
       }
     },
     {
@@ -5334,14 +5334,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19867",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19867",
-        "_outsideBoundary": false
+        "cell_id": "19867"
       }
     },
     {
@@ -5373,14 +5373,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19672",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19672",
-        "_outsideBoundary": false
+        "cell_id": "19672"
       }
     },
     {
@@ -5412,14 +5412,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19672",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19672",
-        "_outsideBoundary": false
+        "cell_id": "19672"
       }
     },
     {
@@ -5451,14 +5451,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19506",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19506",
-        "_outsideBoundary": false
+        "cell_id": "19506"
       }
     },
     {
@@ -5490,14 +5490,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19593",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19593",
-        "_outsideBoundary": false
+        "cell_id": "19593"
       }
     },
     {
@@ -5529,14 +5529,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "19721",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19721",
-        "_outsideBoundary": false
+        "cell_id": "19721"
       }
     },
     {
@@ -5568,14 +5568,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "20015",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "20015",
-        "_outsideBoundary": false
+        "cell_id": "20015"
       }
     },
     {
@@ -5607,14 +5607,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "20018",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "20018",
-        "_outsideBoundary": false
+        "cell_id": "20018"
       }
     },
     {
@@ -5646,14 +5646,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "21551",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "21551",
-        "_outsideBoundary": false
+        "cell_id": "21551"
       }
     },
     {
@@ -5685,14 +5685,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "21623",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "21623",
-        "_outsideBoundary": false
+        "cell_id": "21623"
       }
     },
     {
@@ -5724,14 +5724,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "21733",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "21733",
-        "_outsideBoundary": false
+        "cell_id": "21733"
       }
     },
     {
@@ -5763,14 +5763,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "22533",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22533",
-        "_outsideBoundary": false
+        "cell_id": "22533"
       }
     },
     {
@@ -5802,14 +5802,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "22095",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22095",
-        "_outsideBoundary": false
+        "cell_id": "22095"
       }
     },
     {
@@ -5841,14 +5841,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "22752",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22752",
-        "_outsideBoundary": false
+        "cell_id": "22752"
       }
     },
     {
@@ -5880,14 +5880,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "22820",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22820",
-        "_outsideBoundary": false
+        "cell_id": "22820"
       }
     },
     {
@@ -5919,14 +5919,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "22961",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22961",
-        "_outsideBoundary": false
+        "cell_id": "22961"
       }
     },
     {
@@ -5958,14 +5958,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "22942",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22942",
-        "_outsideBoundary": false
+        "cell_id": "22942"
       }
     },
     {
@@ -5997,14 +5997,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "23054",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23054",
-        "_outsideBoundary": false
+        "cell_id": "23054"
       }
     },
     {
@@ -6036,14 +6036,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "23158",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23158",
-        "_outsideBoundary": false
+        "cell_id": "23158"
       }
     },
     {
@@ -6075,14 +6075,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "23158",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23158",
-        "_outsideBoundary": false
+        "cell_id": "23158"
       }
     },
     {
@@ -6114,14 +6114,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "23235",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23235",
-        "_outsideBoundary": false
+        "cell_id": "23235"
       }
     },
     {
@@ -6153,14 +6153,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "23203",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23203",
-        "_outsideBoundary": false
+        "cell_id": "23203"
       }
     },
     {
@@ -6192,14 +6192,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "23932",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23932",
-        "_outsideBoundary": false
+        "cell_id": "23932"
       }
     },
     {
@@ -6231,14 +6231,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "24066",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24066",
-        "_outsideBoundary": false
+        "cell_id": "24066"
       }
     },
     {
@@ -6270,14 +6270,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "24066",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24066",
-        "_outsideBoundary": false
+        "cell_id": "24066"
       }
     },
     {
@@ -6309,14 +6309,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "24252",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24252",
-        "_outsideBoundary": false
+        "cell_id": "24252"
       }
     },
     {
@@ -6348,14 +6348,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "24728",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24728",
-        "_outsideBoundary": false
+        "cell_id": "24728"
       }
     },
     {
@@ -6387,14 +6387,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "24835",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24835",
-        "_outsideBoundary": false
+        "cell_id": "24835"
       }
     },
     {
@@ -6426,14 +6426,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "25268",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "25268",
-        "_outsideBoundary": false
+        "cell_id": "25268"
       }
     },
     {
@@ -6465,14 +6465,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "25414",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "25414",
-        "_outsideBoundary": false
+        "cell_id": "25414"
       }
     },
     {
@@ -6504,14 +6504,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "26164",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "26164",
-        "_outsideBoundary": false
+        "cell_id": "26164"
       }
     },
     {
@@ -6543,14 +6543,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "26331",
         "district_id": 2,
         "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "26331",
-        "_outsideBoundary": false
+        "cell_id": "26331"
       }
     },
     {
@@ -6582,14 +6582,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "31072",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "31072",
-        "_outsideBoundary": false
+        "cell_id": "31072"
       }
     },
     {
@@ -6621,14 +6621,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "32798",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "32798",
-        "_outsideBoundary": false
+        "cell_id": "32798"
       }
     },
     {
@@ -6660,14 +6660,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "34411",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "34411",
-        "_outsideBoundary": false
+        "cell_id": "34411"
       }
     },
     {
@@ -6699,14 +6699,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "34607",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "34607",
-        "_outsideBoundary": false
+        "cell_id": "34607"
       }
     },
     {
@@ -6738,14 +6738,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "35277",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "35277",
-        "_outsideBoundary": false
+        "cell_id": "35277"
       }
     },
     {
@@ -6777,14 +6777,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "35497",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "35497",
-        "_outsideBoundary": false
+        "cell_id": "35497"
       }
     },
     {
@@ -6816,14 +6816,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "40278",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "40278",
-        "_outsideBoundary": false
+        "cell_id": "40278"
       }
     },
     {
@@ -6855,14 +6855,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "40876",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "40876",
-        "_outsideBoundary": false
+        "cell_id": "40876"
       }
     },
     {
@@ -6894,14 +6894,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "44239",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44239",
-        "_outsideBoundary": false
+        "cell_id": "44239"
       }
     },
     {
@@ -6933,14 +6933,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "44239",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44239",
-        "_outsideBoundary": false
+        "cell_id": "44239"
       }
     },
     {
@@ -6972,14 +6972,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "44239",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44239",
-        "_outsideBoundary": false
+        "cell_id": "44239"
       }
     },
     {
@@ -7011,14 +7011,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "43652",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "43652",
-        "_outsideBoundary": false
+        "cell_id": "43652"
       }
     },
     {
@@ -7050,14 +7050,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "43676",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "43676",
-        "_outsideBoundary": false
+        "cell_id": "43676"
       }
     },
     {
@@ -7089,14 +7089,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "44013",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44013",
-        "_outsideBoundary": false
+        "cell_id": "44013"
       }
     },
     {
@@ -7128,14 +7128,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "44687",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44687",
-        "_outsideBoundary": false
+        "cell_id": "44687"
       }
     },
     {
@@ -7167,14 +7167,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "48661",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "48661",
-        "_outsideBoundary": false
+        "cell_id": "48661"
       }
     },
     {
@@ -7206,14 +7206,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "50335",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "50335",
-        "_outsideBoundary": false
+        "cell_id": "50335"
       }
     },
     {
@@ -7245,14 +7245,14 @@
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "_group": 1,
+        "_outsideBoundary": false,
         "_cellId": "51330",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "51330",
-        "_outsideBoundary": false
+        "cell_id": "51330"
       }
     },
     {
@@ -7284,14 +7284,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "26822",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "26822",
-        "_outsideBoundary": false
+        "cell_id": "26822"
       }
     },
     {
@@ -7323,14 +7323,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "27054",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "27054",
-        "_outsideBoundary": false
+        "cell_id": "27054"
       }
     },
     {
@@ -7362,14 +7362,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "27279",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "27279",
-        "_outsideBoundary": false
+        "cell_id": "27279"
       }
     },
     {
@@ -7401,14 +7401,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "27964",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "27964",
-        "_outsideBoundary": false
+        "cell_id": "27964"
       }
     },
     {
@@ -7440,14 +7440,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "28649",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "28649",
-        "_outsideBoundary": false
+        "cell_id": "28649"
       }
     },
     {
@@ -7479,14 +7479,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "29635",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "29635",
-        "_outsideBoundary": false
+        "cell_id": "29635"
       }
     },
     {
@@ -7518,14 +7518,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "30562",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "30562",
-        "_outsideBoundary": false
+        "cell_id": "30562"
       }
     },
     {
@@ -7557,14 +7557,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "31412",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "31412",
-        "_outsideBoundary": false
+        "cell_id": "31412"
       }
     },
     {
@@ -7596,14 +7596,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32172",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32172",
-        "_outsideBoundary": false
+        "cell_id": "32172"
       }
     },
     {
@@ -7635,14 +7635,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32234",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32234",
-        "_outsideBoundary": false
+        "cell_id": "32234"
       }
     },
     {
@@ -7674,14 +7674,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32362",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32362",
-        "_outsideBoundary": false
+        "cell_id": "32362"
       }
     },
     {
@@ -7713,14 +7713,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32408",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32408",
-        "_outsideBoundary": false
+        "cell_id": "32408"
       }
     },
     {
@@ -7752,14 +7752,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32496",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32496",
-        "_outsideBoundary": false
+        "cell_id": "32496"
       }
     },
     {
@@ -7791,14 +7791,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32559",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32559",
-        "_outsideBoundary": false
+        "cell_id": "32559"
       }
     },
     {
@@ -7830,14 +7830,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32590",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32590",
-        "_outsideBoundary": false
+        "cell_id": "32590"
       }
     },
     {
@@ -7869,14 +7869,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32708",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32708",
-        "_outsideBoundary": false
+        "cell_id": "32708"
       }
     },
     {
@@ -7908,14 +7908,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "32802",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32802",
-        "_outsideBoundary": false
+        "cell_id": "32802"
       }
     },
     {
@@ -7947,14 +7947,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "33979",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "33979",
-        "_outsideBoundary": false
+        "cell_id": "33979"
       }
     },
     {
@@ -7986,14 +7986,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "34159",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "34159",
-        "_outsideBoundary": false
+        "cell_id": "34159"
       }
     },
     {
@@ -8025,14 +8025,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "34631",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "34631",
-        "_outsideBoundary": false
+        "cell_id": "34631"
       }
     },
     {
@@ -8064,14 +8064,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "35817",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "35817",
-        "_outsideBoundary": false
+        "cell_id": "35817"
       }
     },
     {
@@ -8103,14 +8103,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "35878",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "35878",
-        "_outsideBoundary": false
+        "cell_id": "35878"
       }
     },
     {
@@ -8142,14 +8142,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "36077",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "36077",
-        "_outsideBoundary": false
+        "cell_id": "36077"
       }
     },
     {
@@ -8181,14 +8181,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "37089",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "37089",
-        "_outsideBoundary": false
+        "cell_id": "37089"
       }
     },
     {
@@ -8220,14 +8220,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "37089",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "37089",
-        "_outsideBoundary": false
+        "cell_id": "37089"
       }
     },
     {
@@ -8259,14 +8259,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "37383",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "37383",
-        "_outsideBoundary": false
+        "cell_id": "37383"
       }
     },
     {
@@ -8298,14 +8298,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "39703",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "39703",
-        "_outsideBoundary": false
+        "cell_id": "39703"
       }
     },
     {
@@ -8337,14 +8337,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "42339",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42339",
-        "_outsideBoundary": false
+        "cell_id": "42339"
       }
     },
     {
@@ -8376,14 +8376,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "42457",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42457",
-        "_outsideBoundary": false
+        "cell_id": "42457"
       }
     },
     {
@@ -8415,14 +8415,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "42950",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42950",
-        "_outsideBoundary": false
+        "cell_id": "42950"
       }
     },
     {
@@ -8454,14 +8454,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "42980",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42980",
-        "_outsideBoundary": false
+        "cell_id": "42980"
       }
     },
     {
@@ -8493,14 +8493,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "44239",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "44239",
-        "_outsideBoundary": false
+        "cell_id": "44239"
       }
     },
     {
@@ -8532,14 +8532,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "44540",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "44540",
-        "_outsideBoundary": false
+        "cell_id": "44540"
       }
     },
     {
@@ -8571,14 +8571,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "45183",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "45183",
-        "_outsideBoundary": false
+        "cell_id": "45183"
       }
     },
     {
@@ -8610,14 +8610,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "50400",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "50400",
-        "_outsideBoundary": false
+        "cell_id": "50400"
       }
     },
     {
@@ -8649,14 +8649,14 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
+        "_outsideBoundary": false,
         "_cellId": "51033",
         "district_id": 3,
         "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "51033",
-        "_outsideBoundary": false
+        "cell_id": "51033"
       }
     },
     {
@@ -8688,13 +8688,13 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
-        "district_id": null,
-        "_district": null,
+        "_outsideBoundary": true,
+        "district_id": 1,
+        "_district": 1,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
-        "cell_id": null,
-        "_outsideBoundary": true
+        "cell_id": null
       }
     },
     {
@@ -8726,13 +8726,13 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
-        "district_id": null,
-        "_district": null,
+        "_outsideBoundary": true,
+        "district_id": 2,
+        "_district": 2,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
-        "cell_id": null,
-        "_outsideBoundary": true
+        "cell_id": null
       }
     },
     {
@@ -8764,13 +8764,13 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
-        "district_id": null,
-        "_district": null,
+        "_outsideBoundary": true,
+        "district_id": 1,
+        "_district": 1,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
-        "cell_id": null,
-        "_outsideBoundary": true
+        "cell_id": null
       }
     },
     {
@@ -8802,13 +8802,13 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
-        "district_id": null,
-        "_district": null,
+        "_outsideBoundary": true,
+        "district_id": 3,
+        "_district": 3,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
-        "cell_id": null,
-        "_outsideBoundary": true
+        "cell_id": null
       }
     },
     {
@@ -8840,13 +8840,13 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
-        "district_id": null,
-        "_district": null,
+        "_outsideBoundary": true,
+        "district_id": 3,
+        "_district": 3,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
-        "cell_id": null,
-        "_outsideBoundary": true
+        "cell_id": null
       }
     },
     {
@@ -8878,13 +8878,13 @@
         "Assigned_to_minister": "no",
         "Is_assigned_ministers": "yes",
         "_group": 2,
-        "district_id": null,
-        "_district": null,
+        "_outsideBoundary": true,
+        "district_id": 3,
+        "_district": 3,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
-        "cell_id": null,
-        "_outsideBoundary": true
+        "cell_id": null
       }
     }
   ]
