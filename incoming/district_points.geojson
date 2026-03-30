@@ -32,10 +32,12 @@
         "_group": 1,
         "_cellId": "4646",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4646"
+        "cell_id": "4646",
+        "_outsideBoundary": false
       }
     },
     {
@@ -69,10 +71,12 @@
         "_group": 1,
         "_cellId": "4706",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4706"
+        "cell_id": "4706",
+        "_outsideBoundary": false
       }
     },
     {
@@ -106,10 +110,12 @@
         "_group": 1,
         "_cellId": "4857",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4857"
+        "cell_id": "4857",
+        "_outsideBoundary": false
       }
     },
     {
@@ -143,10 +149,12 @@
         "_group": 1,
         "_cellId": "4978",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "4978"
+        "cell_id": "4978",
+        "_outsideBoundary": false
       }
     },
     {
@@ -180,10 +188,12 @@
         "_group": 1,
         "_cellId": "5032",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "5032"
+        "cell_id": "5032",
+        "_outsideBoundary": false
       }
     },
     {
@@ -217,10 +227,12 @@
         "_group": 1,
         "_cellId": "5149",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "5149"
+        "cell_id": "5149",
+        "_outsideBoundary": false
       }
     },
     {
@@ -254,10 +266,12 @@
         "_group": 1,
         "_cellId": "6383",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6383"
+        "cell_id": "6383",
+        "_outsideBoundary": false
       }
     },
     {
@@ -291,10 +305,12 @@
         "_group": 1,
         "_cellId": "6387",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6387"
+        "cell_id": "6387",
+        "_outsideBoundary": false
       }
     },
     {
@@ -328,10 +344,12 @@
         "_group": 1,
         "_cellId": "6885",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6885"
+        "cell_id": "6885",
+        "_outsideBoundary": false
       }
     },
     {
@@ -365,10 +383,12 @@
         "_group": 1,
         "_cellId": "6885",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "6885"
+        "cell_id": "6885",
+        "_outsideBoundary": false
       }
     },
     {
@@ -402,10 +422,12 @@
         "_group": 1,
         "_cellId": "7621",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "7621"
+        "cell_id": "7621",
+        "_outsideBoundary": false
       }
     },
     {
@@ -439,10 +461,12 @@
         "_group": 1,
         "_cellId": "8008",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "8008"
+        "cell_id": "8008",
+        "_outsideBoundary": false
       }
     },
     {
@@ -476,10 +500,12 @@
         "_group": 1,
         "_cellId": "8542",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "8542"
+        "cell_id": "8542",
+        "_outsideBoundary": false
       }
     },
     {
@@ -513,10 +539,12 @@
         "_group": 1,
         "_cellId": "9000",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "9000"
+        "cell_id": "9000",
+        "_outsideBoundary": false
       }
     },
     {
@@ -550,10 +578,12 @@
         "_group": 1,
         "_cellId": "10281",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "10281"
+        "cell_id": "10281",
+        "_outsideBoundary": false
       }
     },
     {
@@ -587,10 +617,12 @@
         "_group": 1,
         "_cellId": "12962",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "12962"
+        "cell_id": "12962",
+        "_outsideBoundary": false
       }
     },
     {
@@ -624,10 +656,12 @@
         "_group": 1,
         "_cellId": "12868",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "12868"
+        "cell_id": "12868",
+        "_outsideBoundary": false
       }
     },
     {
@@ -661,10 +695,12 @@
         "_group": 1,
         "_cellId": "13290",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "13290"
+        "cell_id": "13290",
+        "_outsideBoundary": false
       }
     },
     {
@@ -698,10 +734,12 @@
         "_group": 1,
         "_cellId": "13639",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 1,
-        "cell_id": "13639"
+        "cell_id": "13639",
+        "_outsideBoundary": false
       }
     },
     {
@@ -735,10 +773,12 @@
         "_group": 2,
         "_cellId": "3942",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "3942"
+        "cell_id": "3942",
+        "_outsideBoundary": false
       }
     },
     {
@@ -772,10 +812,12 @@
         "_group": 2,
         "_cellId": "4300",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "4300"
+        "cell_id": "4300",
+        "_outsideBoundary": false
       }
     },
     {
@@ -809,10 +851,12 @@
         "_group": 2,
         "_cellId": "5090",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "5090"
+        "cell_id": "5090",
+        "_outsideBoundary": false
       }
     },
     {
@@ -846,10 +890,12 @@
         "_group": 2,
         "_cellId": "5090",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "5090"
+        "cell_id": "5090",
+        "_outsideBoundary": false
       }
     },
     {
@@ -883,10 +929,12 @@
         "_group": 2,
         "_cellId": "5857",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "5857"
+        "cell_id": "5857",
+        "_outsideBoundary": false
       }
     },
     {
@@ -920,10 +968,12 @@
         "_group": 2,
         "_cellId": "6320",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "6320"
+        "cell_id": "6320",
+        "_outsideBoundary": false
       }
     },
     {
@@ -957,10 +1007,12 @@
         "_group": 2,
         "_cellId": "6407",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "6407"
+        "cell_id": "6407",
+        "_outsideBoundary": false
       }
     },
     {
@@ -994,10 +1046,12 @@
         "_group": 2,
         "_cellId": "6656",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "6656"
+        "cell_id": "6656",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1031,10 +1085,12 @@
         "_group": 2,
         "_cellId": "7766",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "7766"
+        "cell_id": "7766",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1068,10 +1124,12 @@
         "_group": 2,
         "_cellId": "8797",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "8797"
+        "cell_id": "8797",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1105,10 +1163,12 @@
         "_group": 2,
         "_cellId": "8542",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "8542"
+        "cell_id": "8542",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1142,10 +1202,12 @@
         "_group": 2,
         "_cellId": "8603",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "8603"
+        "cell_id": "8603",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1179,10 +1241,12 @@
         "_group": 2,
         "_cellId": "9240",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "9240"
+        "cell_id": "9240",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1216,10 +1280,12 @@
         "_group": 2,
         "_cellId": "10551",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10551"
+        "cell_id": "10551",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1253,10 +1319,12 @@
         "_group": 2,
         "_cellId": "10551",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10551"
+        "cell_id": "10551",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1290,10 +1358,12 @@
         "_group": 2,
         "_cellId": "10551",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10551"
+        "cell_id": "10551",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1327,10 +1397,12 @@
         "_group": 2,
         "_cellId": "10621",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10621"
+        "cell_id": "10621",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1364,10 +1436,12 @@
         "_group": 2,
         "_cellId": "10810",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "10810"
+        "cell_id": "10810",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1401,10 +1475,12 @@
         "_group": 2,
         "_cellId": "11096",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11096"
+        "cell_id": "11096",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1438,10 +1514,12 @@
         "_group": 2,
         "_cellId": "11731",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11731"
+        "cell_id": "11731",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1475,10 +1553,12 @@
         "_group": 2,
         "_cellId": "11928",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11928"
+        "cell_id": "11928",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1512,10 +1592,12 @@
         "_group": 2,
         "_cellId": "11928",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "11928"
+        "cell_id": "11928",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1549,10 +1631,12 @@
         "_group": 2,
         "_cellId": "12160",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12160"
+        "cell_id": "12160",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1586,10 +1670,12 @@
         "_group": 2,
         "_cellId": "12305",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12305"
+        "cell_id": "12305",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1623,10 +1709,12 @@
         "_group": 2,
         "_cellId": "12328",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12328"
+        "cell_id": "12328",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1660,10 +1748,12 @@
         "_group": 2,
         "_cellId": "12500",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12500"
+        "cell_id": "12500",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1697,10 +1787,12 @@
         "_group": 2,
         "_cellId": "12949",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12949"
+        "cell_id": "12949",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1734,10 +1826,12 @@
         "_group": 2,
         "_cellId": "12949",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "12949"
+        "cell_id": "12949",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1771,10 +1865,12 @@
         "_group": 2,
         "_cellId": "13185",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "13185"
+        "cell_id": "13185",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1808,10 +1904,12 @@
         "_group": 2,
         "_cellId": "13391",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "13391"
+        "cell_id": "13391",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1845,10 +1943,12 @@
         "_group": 2,
         "_cellId": "13416",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "13416"
+        "cell_id": "13416",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1882,10 +1982,12 @@
         "_group": 2,
         "_cellId": "14093",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14093"
+        "cell_id": "14093",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1919,10 +2021,12 @@
         "_group": 2,
         "_cellId": "14320",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14320"
+        "cell_id": "14320",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1956,10 +2060,12 @@
         "_group": 2,
         "_cellId": "14270",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14270"
+        "cell_id": "14270",
+        "_outsideBoundary": false
       }
     },
     {
@@ -1993,10 +2099,12 @@
         "_group": 2,
         "_cellId": "14336",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14336"
+        "cell_id": "14336",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2030,10 +2138,12 @@
         "_group": 2,
         "_cellId": "14412",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14412"
+        "cell_id": "14412",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2067,10 +2177,12 @@
         "_group": 2,
         "_cellId": "14720",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14720"
+        "cell_id": "14720",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2104,10 +2216,12 @@
         "_group": 2,
         "_cellId": "14720",
         "district_id": 0,
+        "_district": 0,
         "district_color": "#e11d48",
         "district_label": 1,
         "group": 2,
-        "cell_id": "14720"
+        "cell_id": "14720",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2141,10 +2255,12 @@
         "_group": 1,
         "_cellId": "13889",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "13889"
+        "cell_id": "13889",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2178,10 +2294,12 @@
         "_group": 1,
         "_cellId": "13959",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "13959"
+        "cell_id": "13959",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2215,10 +2333,12 @@
         "_group": 1,
         "_cellId": "14417",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14417"
+        "cell_id": "14417",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2252,10 +2372,12 @@
         "_group": 1,
         "_cellId": "14412",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14412"
+        "cell_id": "14412",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2289,10 +2411,12 @@
         "_group": 1,
         "_cellId": "14696",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14696"
+        "cell_id": "14696",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2326,10 +2450,12 @@
         "_group": 1,
         "_cellId": "15195",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15195"
+        "cell_id": "15195",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2363,10 +2489,12 @@
         "_group": 1,
         "_cellId": "14963",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "14963"
+        "cell_id": "14963",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2400,10 +2528,12 @@
         "_group": 1,
         "_cellId": "15116",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15116"
+        "cell_id": "15116",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2437,10 +2567,12 @@
         "_group": 1,
         "_cellId": "15227",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15227"
+        "cell_id": "15227",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2474,10 +2606,12 @@
         "_group": 1,
         "_cellId": "16025",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16025"
+        "cell_id": "16025",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2511,10 +2645,12 @@
         "_group": 1,
         "_cellId": "15705",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15705"
+        "cell_id": "15705",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2548,10 +2684,12 @@
         "_group": 1,
         "_cellId": "15705",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "15705"
+        "cell_id": "15705",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2585,10 +2723,12 @@
         "_group": 1,
         "_cellId": "16140",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16140"
+        "cell_id": "16140",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2622,10 +2762,12 @@
         "_group": 1,
         "_cellId": "16486",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16486"
+        "cell_id": "16486",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2659,10 +2801,12 @@
         "_group": 1,
         "_cellId": "16291",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16291"
+        "cell_id": "16291",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2696,10 +2840,12 @@
         "_group": 1,
         "_cellId": "16928",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "16928"
+        "cell_id": "16928",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2733,10 +2879,12 @@
         "_group": 1,
         "_cellId": "17352",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "17352"
+        "cell_id": "17352",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2770,10 +2918,12 @@
         "_group": 1,
         "_cellId": "18192",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "18192"
+        "cell_id": "18192",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2807,10 +2957,12 @@
         "_group": 1,
         "_cellId": "18645",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "18645"
+        "cell_id": "18645",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2844,10 +2996,12 @@
         "_group": 2,
         "_cellId": "14621",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14621"
+        "cell_id": "14621",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2881,10 +3035,12 @@
         "_group": 2,
         "_cellId": "14658",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14658"
+        "cell_id": "14658",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2918,10 +3074,12 @@
         "_group": 2,
         "_cellId": "14658",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14658"
+        "cell_id": "14658",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2955,10 +3113,12 @@
         "_group": 2,
         "_cellId": "14770",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14770"
+        "cell_id": "14770",
+        "_outsideBoundary": false
       }
     },
     {
@@ -2992,10 +3152,12 @@
         "_group": 2,
         "_cellId": "15070",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15070"
+        "cell_id": "15070",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3029,10 +3191,12 @@
         "_group": 2,
         "_cellId": "15085",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15085"
+        "cell_id": "15085",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3066,10 +3230,12 @@
         "_group": 2,
         "_cellId": "14749",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14749"
+        "cell_id": "14749",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3103,10 +3269,12 @@
         "_group": 2,
         "_cellId": "14828",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "14828"
+        "cell_id": "14828",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3140,10 +3308,12 @@
         "_group": 2,
         "_cellId": "15067",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15067"
+        "cell_id": "15067",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3177,10 +3347,12 @@
         "_group": 2,
         "_cellId": "15163",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15163"
+        "cell_id": "15163",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3214,10 +3386,12 @@
         "_group": 2,
         "_cellId": "15163",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15163"
+        "cell_id": "15163",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3251,10 +3425,12 @@
         "_group": 2,
         "_cellId": "15195",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15195"
+        "cell_id": "15195",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3288,10 +3464,12 @@
         "_group": 2,
         "_cellId": "15729",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15729"
+        "cell_id": "15729",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3325,10 +3503,12 @@
         "_group": 2,
         "_cellId": "15602",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15602"
+        "cell_id": "15602",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3362,10 +3542,12 @@
         "_group": 2,
         "_cellId": "15729",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15729"
+        "cell_id": "15729",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3399,10 +3581,12 @@
         "_group": 2,
         "_cellId": "15834",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "15834"
+        "cell_id": "15834",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3436,10 +3620,12 @@
         "_group": 2,
         "_cellId": "16292",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16292"
+        "cell_id": "16292",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3473,10 +3659,12 @@
         "_group": 2,
         "_cellId": "16123",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16123"
+        "cell_id": "16123",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3510,10 +3698,12 @@
         "_group": 2,
         "_cellId": "16486",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486"
+        "cell_id": "16486",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3547,10 +3737,12 @@
         "_group": 2,
         "_cellId": "16486",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486"
+        "cell_id": "16486",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3584,10 +3776,12 @@
         "_group": 2,
         "_cellId": "16486",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486"
+        "cell_id": "16486",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3621,10 +3815,12 @@
         "_group": 2,
         "_cellId": "16486",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16486"
+        "cell_id": "16486",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3658,10 +3854,12 @@
         "_group": 2,
         "_cellId": "16620",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16620"
+        "cell_id": "16620",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3695,10 +3893,12 @@
         "_group": 2,
         "_cellId": "16563",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16563"
+        "cell_id": "16563",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3732,10 +3932,12 @@
         "_group": 2,
         "_cellId": "16666",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16666"
+        "cell_id": "16666",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3769,10 +3971,12 @@
         "_group": 2,
         "_cellId": "17165",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17165"
+        "cell_id": "17165",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3806,10 +4010,12 @@
         "_group": 2,
         "_cellId": "16862",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "16862"
+        "cell_id": "16862",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3843,10 +4049,12 @@
         "_group": 2,
         "_cellId": "17456",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17456"
+        "cell_id": "17456",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3880,10 +4088,12 @@
         "_group": 2,
         "_cellId": "18192",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18192"
+        "cell_id": "18192",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3917,10 +4127,12 @@
         "_group": 2,
         "_cellId": "17561",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17561"
+        "cell_id": "17561",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3954,10 +4166,12 @@
         "_group": 2,
         "_cellId": "17541",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17541"
+        "cell_id": "17541",
+        "_outsideBoundary": false
       }
     },
     {
@@ -3991,10 +4205,12 @@
         "_group": 2,
         "_cellId": "17816",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17816"
+        "cell_id": "17816",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4028,10 +4244,12 @@
         "_group": 2,
         "_cellId": "17798",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17798"
+        "cell_id": "17798",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4065,10 +4283,12 @@
         "_group": 2,
         "_cellId": "18020",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18020"
+        "cell_id": "18020",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4102,10 +4322,12 @@
         "_group": 2,
         "_cellId": "17986",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "17986"
+        "cell_id": "17986",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4139,10 +4361,12 @@
         "_group": 2,
         "_cellId": "18193",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18193"
+        "cell_id": "18193",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4176,10 +4400,12 @@
         "_group": 2,
         "_cellId": "18776",
         "district_id": 1,
+        "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 2,
-        "cell_id": "18776"
+        "cell_id": "18776",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4213,10 +4439,12 @@
         "_group": 1,
         "_cellId": "18737",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "18737"
+        "cell_id": "18737",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4250,10 +4478,12 @@
         "_group": 1,
         "_cellId": "19672",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "19672"
+        "cell_id": "19672",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4287,10 +4517,12 @@
         "_group": 1,
         "_cellId": "19491",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "19491"
+        "cell_id": "19491",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4324,10 +4556,12 @@
         "_group": 1,
         "_cellId": "19569",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "19569"
+        "cell_id": "19569",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4361,10 +4595,12 @@
         "_group": 1,
         "_cellId": "23158",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "23158"
+        "cell_id": "23158",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4398,10 +4634,12 @@
         "_group": 1,
         "_cellId": "23054",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "23054"
+        "cell_id": "23054",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4435,10 +4673,12 @@
         "_group": 1,
         "_cellId": "23573",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "23573"
+        "cell_id": "23573",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4472,10 +4712,12 @@
         "_group": 1,
         "_cellId": "24364",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24364"
+        "cell_id": "24364",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4509,10 +4751,12 @@
         "_group": 1,
         "_cellId": "24536",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24536"
+        "cell_id": "24536",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4546,10 +4790,12 @@
         "_group": 1,
         "_cellId": "24881",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24881"
+        "cell_id": "24881",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4583,10 +4829,12 @@
         "_group": 1,
         "_cellId": "24997",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "24997"
+        "cell_id": "24997",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4620,10 +4868,12 @@
         "_group": 1,
         "_cellId": "25768",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "25768"
+        "cell_id": "25768",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4657,10 +4907,12 @@
         "_group": 1,
         "_cellId": "26096",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "26096"
+        "cell_id": "26096",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4694,10 +4946,12 @@
         "_group": 1,
         "_cellId": "27295",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "27295"
+        "cell_id": "27295",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4731,10 +4985,12 @@
         "_group": 1,
         "_cellId": "29179",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "29179"
+        "cell_id": "29179",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4768,10 +5024,12 @@
         "_group": 1,
         "_cellId": "29246",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "29246"
+        "cell_id": "29246",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4805,10 +5063,12 @@
         "_group": 1,
         "_cellId": "30468",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "30468"
+        "cell_id": "30468",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4842,10 +5102,12 @@
         "_group": 1,
         "_cellId": "30562",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 1,
-        "cell_id": "30562"
+        "cell_id": "30562",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4879,10 +5141,12 @@
         "_group": 2,
         "_cellId": "18734",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "18734"
+        "cell_id": "18734",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4916,10 +5180,12 @@
         "_group": 2,
         "_cellId": "19067",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19067"
+        "cell_id": "19067",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4953,10 +5219,12 @@
         "_group": 2,
         "_cellId": "19067",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19067"
+        "cell_id": "19067",
+        "_outsideBoundary": false
       }
     },
     {
@@ -4990,10 +5258,12 @@
         "_group": 2,
         "_cellId": "19074",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19074"
+        "cell_id": "19074",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5027,10 +5297,12 @@
         "_group": 2,
         "_cellId": "19867",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19867"
+        "cell_id": "19867",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5064,10 +5336,12 @@
         "_group": 2,
         "_cellId": "19867",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19867"
+        "cell_id": "19867",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5101,10 +5375,12 @@
         "_group": 2,
         "_cellId": "19672",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19672"
+        "cell_id": "19672",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5138,10 +5414,12 @@
         "_group": 2,
         "_cellId": "19672",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19672"
+        "cell_id": "19672",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5175,10 +5453,12 @@
         "_group": 2,
         "_cellId": "19506",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19506"
+        "cell_id": "19506",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5212,10 +5492,12 @@
         "_group": 2,
         "_cellId": "19593",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19593"
+        "cell_id": "19593",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5249,10 +5531,12 @@
         "_group": 2,
         "_cellId": "19721",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "19721"
+        "cell_id": "19721",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5286,10 +5570,12 @@
         "_group": 2,
         "_cellId": "20015",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "20015"
+        "cell_id": "20015",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5323,10 +5609,12 @@
         "_group": 2,
         "_cellId": "20018",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "20018"
+        "cell_id": "20018",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5360,10 +5648,12 @@
         "_group": 2,
         "_cellId": "21551",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "21551"
+        "cell_id": "21551",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5397,10 +5687,12 @@
         "_group": 2,
         "_cellId": "21623",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "21623"
+        "cell_id": "21623",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5434,10 +5726,12 @@
         "_group": 2,
         "_cellId": "21733",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "21733"
+        "cell_id": "21733",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5471,10 +5765,12 @@
         "_group": 2,
         "_cellId": "22533",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22533"
+        "cell_id": "22533",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5508,10 +5804,12 @@
         "_group": 2,
         "_cellId": "22095",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22095"
+        "cell_id": "22095",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5545,10 +5843,12 @@
         "_group": 2,
         "_cellId": "22752",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22752"
+        "cell_id": "22752",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5582,10 +5882,12 @@
         "_group": 2,
         "_cellId": "22820",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22820"
+        "cell_id": "22820",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5619,10 +5921,12 @@
         "_group": 2,
         "_cellId": "22961",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22961"
+        "cell_id": "22961",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5656,10 +5960,12 @@
         "_group": 2,
         "_cellId": "22942",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "22942"
+        "cell_id": "22942",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5693,10 +5999,12 @@
         "_group": 2,
         "_cellId": "23054",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23054"
+        "cell_id": "23054",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5730,10 +6038,12 @@
         "_group": 2,
         "_cellId": "23158",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23158"
+        "cell_id": "23158",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5767,10 +6077,12 @@
         "_group": 2,
         "_cellId": "23158",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23158"
+        "cell_id": "23158",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5804,10 +6116,12 @@
         "_group": 2,
         "_cellId": "23235",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23235"
+        "cell_id": "23235",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5841,10 +6155,12 @@
         "_group": 2,
         "_cellId": "23203",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23203"
+        "cell_id": "23203",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5878,10 +6194,12 @@
         "_group": 2,
         "_cellId": "23932",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "23932"
+        "cell_id": "23932",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5915,10 +6233,12 @@
         "_group": 2,
         "_cellId": "24066",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24066"
+        "cell_id": "24066",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5952,10 +6272,12 @@
         "_group": 2,
         "_cellId": "24066",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24066"
+        "cell_id": "24066",
+        "_outsideBoundary": false
       }
     },
     {
@@ -5989,10 +6311,12 @@
         "_group": 2,
         "_cellId": "24252",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24252"
+        "cell_id": "24252",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6026,10 +6350,12 @@
         "_group": 2,
         "_cellId": "24728",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24728"
+        "cell_id": "24728",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6063,10 +6389,12 @@
         "_group": 2,
         "_cellId": "24835",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "24835"
+        "cell_id": "24835",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6100,10 +6428,12 @@
         "_group": 2,
         "_cellId": "25268",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "25268"
+        "cell_id": "25268",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6137,10 +6467,12 @@
         "_group": 2,
         "_cellId": "25414",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "25414"
+        "cell_id": "25414",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6174,10 +6506,12 @@
         "_group": 2,
         "_cellId": "26164",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "26164"
+        "cell_id": "26164",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6211,10 +6545,12 @@
         "_group": 2,
         "_cellId": "26331",
         "district_id": 2,
+        "_district": 2,
         "district_color": "#16a34a",
         "district_label": 3,
         "group": 2,
-        "cell_id": "26331"
+        "cell_id": "26331",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6248,10 +6584,12 @@
         "_group": 1,
         "_cellId": "31072",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "31072"
+        "cell_id": "31072",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6285,10 +6623,12 @@
         "_group": 1,
         "_cellId": "32798",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "32798"
+        "cell_id": "32798",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6322,10 +6662,12 @@
         "_group": 1,
         "_cellId": "34411",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "34411"
+        "cell_id": "34411",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6359,10 +6701,12 @@
         "_group": 1,
         "_cellId": "34607",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "34607"
+        "cell_id": "34607",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6396,10 +6740,12 @@
         "_group": 1,
         "_cellId": "35277",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "35277"
+        "cell_id": "35277",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6433,10 +6779,12 @@
         "_group": 1,
         "_cellId": "35497",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "35497"
+        "cell_id": "35497",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6470,10 +6818,12 @@
         "_group": 1,
         "_cellId": "40278",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "40278"
+        "cell_id": "40278",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6507,10 +6857,12 @@
         "_group": 1,
         "_cellId": "40876",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "40876"
+        "cell_id": "40876",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6544,10 +6896,12 @@
         "_group": 1,
         "_cellId": "44239",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44239"
+        "cell_id": "44239",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6581,10 +6935,12 @@
         "_group": 1,
         "_cellId": "44239",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44239"
+        "cell_id": "44239",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6618,10 +6974,12 @@
         "_group": 1,
         "_cellId": "44239",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44239"
+        "cell_id": "44239",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6655,10 +7013,12 @@
         "_group": 1,
         "_cellId": "43652",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "43652"
+        "cell_id": "43652",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6692,10 +7052,12 @@
         "_group": 1,
         "_cellId": "43676",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "43676"
+        "cell_id": "43676",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6729,10 +7091,12 @@
         "_group": 1,
         "_cellId": "44013",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44013"
+        "cell_id": "44013",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6766,10 +7130,12 @@
         "_group": 1,
         "_cellId": "44687",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "44687"
+        "cell_id": "44687",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6803,10 +7169,12 @@
         "_group": 1,
         "_cellId": "48661",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "48661"
+        "cell_id": "48661",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6840,10 +7208,12 @@
         "_group": 1,
         "_cellId": "50335",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "50335"
+        "cell_id": "50335",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6877,10 +7247,12 @@
         "_group": 1,
         "_cellId": "51330",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 1,
-        "cell_id": "51330"
+        "cell_id": "51330",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6914,10 +7286,12 @@
         "_group": 2,
         "_cellId": "26822",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "26822"
+        "cell_id": "26822",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6951,10 +7325,12 @@
         "_group": 2,
         "_cellId": "27054",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "27054"
+        "cell_id": "27054",
+        "_outsideBoundary": false
       }
     },
     {
@@ -6988,10 +7364,12 @@
         "_group": 2,
         "_cellId": "27279",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "27279"
+        "cell_id": "27279",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7025,10 +7403,12 @@
         "_group": 2,
         "_cellId": "27964",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "27964"
+        "cell_id": "27964",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7062,10 +7442,12 @@
         "_group": 2,
         "_cellId": "28649",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "28649"
+        "cell_id": "28649",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7099,10 +7481,12 @@
         "_group": 2,
         "_cellId": "29635",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "29635"
+        "cell_id": "29635",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7136,10 +7520,12 @@
         "_group": 2,
         "_cellId": "30562",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "30562"
+        "cell_id": "30562",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7173,10 +7559,12 @@
         "_group": 2,
         "_cellId": "31412",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "31412"
+        "cell_id": "31412",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7210,10 +7598,12 @@
         "_group": 2,
         "_cellId": "32172",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32172"
+        "cell_id": "32172",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7247,10 +7637,12 @@
         "_group": 2,
         "_cellId": "32234",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32234"
+        "cell_id": "32234",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7284,10 +7676,12 @@
         "_group": 2,
         "_cellId": "32362",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32362"
+        "cell_id": "32362",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7321,10 +7715,12 @@
         "_group": 2,
         "_cellId": "32408",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32408"
+        "cell_id": "32408",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7358,10 +7754,12 @@
         "_group": 2,
         "_cellId": "32496",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32496"
+        "cell_id": "32496",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7395,10 +7793,12 @@
         "_group": 2,
         "_cellId": "32559",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32559"
+        "cell_id": "32559",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7432,10 +7832,12 @@
         "_group": 2,
         "_cellId": "32590",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32590"
+        "cell_id": "32590",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7469,10 +7871,12 @@
         "_group": 2,
         "_cellId": "32708",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32708"
+        "cell_id": "32708",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7506,10 +7910,12 @@
         "_group": 2,
         "_cellId": "32802",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "32802"
+        "cell_id": "32802",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7543,10 +7949,12 @@
         "_group": 2,
         "_cellId": "33979",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "33979"
+        "cell_id": "33979",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7580,10 +7988,12 @@
         "_group": 2,
         "_cellId": "34159",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "34159"
+        "cell_id": "34159",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7617,10 +8027,12 @@
         "_group": 2,
         "_cellId": "34631",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "34631"
+        "cell_id": "34631",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7654,10 +8066,12 @@
         "_group": 2,
         "_cellId": "35817",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "35817"
+        "cell_id": "35817",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7691,10 +8105,12 @@
         "_group": 2,
         "_cellId": "35878",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "35878"
+        "cell_id": "35878",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7728,10 +8144,12 @@
         "_group": 2,
         "_cellId": "36077",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "36077"
+        "cell_id": "36077",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7765,10 +8183,12 @@
         "_group": 2,
         "_cellId": "37089",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "37089"
+        "cell_id": "37089",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7802,10 +8222,12 @@
         "_group": 2,
         "_cellId": "37089",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "37089"
+        "cell_id": "37089",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7839,10 +8261,12 @@
         "_group": 2,
         "_cellId": "37383",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "37383"
+        "cell_id": "37383",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7876,10 +8300,12 @@
         "_group": 2,
         "_cellId": "39703",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "39703"
+        "cell_id": "39703",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7913,10 +8339,12 @@
         "_group": 2,
         "_cellId": "42339",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42339"
+        "cell_id": "42339",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7950,10 +8378,12 @@
         "_group": 2,
         "_cellId": "42457",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42457"
+        "cell_id": "42457",
+        "_outsideBoundary": false
       }
     },
     {
@@ -7987,10 +8417,12 @@
         "_group": 2,
         "_cellId": "42950",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42950"
+        "cell_id": "42950",
+        "_outsideBoundary": false
       }
     },
     {
@@ -8024,10 +8456,12 @@
         "_group": 2,
         "_cellId": "42980",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "42980"
+        "cell_id": "42980",
+        "_outsideBoundary": false
       }
     },
     {
@@ -8061,10 +8495,12 @@
         "_group": 2,
         "_cellId": "44239",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "44239"
+        "cell_id": "44239",
+        "_outsideBoundary": false
       }
     },
     {
@@ -8098,10 +8534,12 @@
         "_group": 2,
         "_cellId": "44540",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "44540"
+        "cell_id": "44540",
+        "_outsideBoundary": false
       }
     },
     {
@@ -8135,10 +8573,12 @@
         "_group": 2,
         "_cellId": "45183",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "45183"
+        "cell_id": "45183",
+        "_outsideBoundary": false
       }
     },
     {
@@ -8172,10 +8612,12 @@
         "_group": 2,
         "_cellId": "50400",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "50400"
+        "cell_id": "50400",
+        "_outsideBoundary": false
       }
     },
     {
@@ -8209,10 +8651,240 @@
         "_group": 2,
         "_cellId": "51033",
         "district_id": 3,
+        "_district": 3,
         "district_color": "#d97706",
         "district_label": 4,
         "group": 2,
-        "cell_id": "51033"
+        "cell_id": "51033",
+        "_outsideBoundary": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.71705837307792,
+          37.5640612644919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "Last_Name": "Beckstrand",
+        "First_Name": "Todd",
+        "Address": "568 S 200 E St, Enterprise, UT 84725",
+        "lat": 37.5640602,
+        "lon": -113.717056,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 767318400000,
+        "Age": 31,
+        "Emails": "footballhonda8721@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "district_id": null,
+        "_district": null,
+        "district_color": "#9ca3af",
+        "district_label": "Out of Boundary",
+        "group": 2,
+        "cell_id": null,
+        "_outsideBoundary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.54307863905304,
+          37.06365531674267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "Last_Name": "Flores Alvarado",
+        "First_Name": "Marvin Jared",
+        "Address": "1980 E 2630 S, St. George, UT 84790",
+        "lat": 37.0636559,
+        "lon": -113.543076,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 886982400000,
+        "Age": 28,
+        "Emails": "jdflores998@hotmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "district_id": null,
+        "_district": null,
+        "district_color": "#9ca3af",
+        "district_label": "Out of Boundary",
+        "group": 2,
+        "cell_id": null,
+        "_outsideBoundary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.52495582798352,
+          37.054591538705196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 373,
+        "Last_Name": "Sanchez Malan",
+        "First_Name": "Elthon Santiago",
+        "Address": "2908 E 3150 S, St. George, UT 84790",
+        "lat": 37.0545921,
+        "lon": -113.524956,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 782524800000,
+        "Age": 31,
+        "Emails": "elthonsanm94@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "district_id": null,
+        "_district": null,
+        "district_color": "#9ca3af",
+        "district_label": "Out of Boundary",
+        "group": 2,
+        "cell_id": null,
+        "_outsideBoundary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.70365270539685,
+          37.57689768007288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 432,
+        "Last_Name": "Thomas",
+        "First_Name": "James",
+        "Address": "775 E 100 N Enterprise, Utah 84725",
+        "lat": 37.5768967,
+        "lon": -113.703651,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 813110400000,
+        "Age": 30,
+        "Emails": "wolvesjt23@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "district_id": null,
+        "_district": null,
+        "district_color": "#9ca3af",
+        "district_label": "Out of Boundary",
+        "group": 2,
+        "cell_id": null,
+        "_outsideBoundary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56044718059253,
+          37.10163954442177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 590,
+        "Last_Name": "Okwori",
+        "First_Name": "Henry Chisom",
+        "Address": "1109 E 400 S, St. George, UT 84790",
+        "lat": 37.1016388,
+        "lon": -113.560448,
+        "Apt_Number": null,
+        "Notes": null,
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 755395200000,
+        "Age": 32,
+        "Emails": "henrycokwori@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "district_id": null,
+        "_district": null,
+        "district_color": "#9ca3af",
+        "district_label": "Out of Boundary",
+        "group": 2,
+        "cell_id": null,
+        "_outsideBoundary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.55989203881494,
+          37.10269131255488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 707,
+        "Last_Name": "Zitting",
+        "First_Name": "David Taylor",
+        "Address": "1122 E 300 S, St. George, UT 84790",
+        "lat": 37.1026917,
+        "lon": -113.559891,
+        "Apt_Number": null,
+        "Notes": "Address is slightly out of ward boundaries.  ",
+        "Gender": "M",
+        "Address_confidence": "high",
+        "BirthDate": 841104000000,
+        "Age": 29,
+        "Emails": "davidtz.lds@gmail.com",
+        "Quarterly_att_pct": 0,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "_group": 2,
+        "district_id": null,
+        "_district": null,
+        "district_color": "#9ca3af",
+        "district_label": "Out of Boundary",
+        "group": 2,
+        "cell_id": null,
+        "_outsideBoundary": true
       }
     }
   ]
