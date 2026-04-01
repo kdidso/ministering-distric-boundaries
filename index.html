@@ -67,10 +67,6 @@
       display: none;
     }
 
-    #map.hide-member-hover-labels .member-name-tooltip {
-      display: none !important;
-    }
-
     .export-panel {
       position: absolute;
       top: 10px;
@@ -621,10 +617,14 @@ function highlightPolygon(layer) {
   function onEachPolygon(feature, layer) {
     layer.on({
       mouseover: function () {
-        highlightPolygon(layer);
+        if (showHoverLabels) {
+          highlightPolygon(layer);
+        }
       },
       mouseout: function () {
-        resetPolygonStyle(layer);
+        if (showHoverLabels) {
+          resetPolygonStyle(layer);
+        }
       },
       click: function () {
         openDistrictPopup(layer);
@@ -1085,28 +1085,19 @@ Promise.all([
             <b>Has Assigned Ministers:</b> ${isAssignedMinisters}${outsideBoundaryText}
           `);
 
-          layer.bindTooltip(
-            `<span>${displayName}</span>`,
-            {
-              permanent: false,
-              sticky: true,
-              direction: "top",
-              offset: [0, -10],
-              className: "member-name-tooltip"
-            }
-          );
+          layer._memberTooltipHtml = `<span>${displayName}</span>`;
+          layer._memberTooltipOptions = {
+            permanent: false,
+            sticky: true,
+            direction: "top",
+            offset: [0, -10],
+            className: "member-name-tooltip"
+          };
 
           layer.on("mouseover", function () {
             layer.setStyle({
               radius: 9,
               weight: isOutsideBoundaryPoint(props) ? 2.5 : 3
-            });
-          });
-
-          layer.on("mouseout", function () {
-            layer.setStyle({
-              radius: 7,
-              weight: isOutsideBoundaryPoint(props) ? 1.5 : 2
             });
           });
 
@@ -1131,19 +1122,37 @@ Promise.all([
       showHoverLabels = toggleNameLabels.checked;
       map.getContainer().classList.toggle("hide-member-hover-labels", !showHoverLabels);
 
-      toggleNameLabels.addEventListener("change", function () {
+      function syncHoverToggleState() {
         showHoverLabels = toggleNameLabels.checked;
 
-        map.getContainer().classList.toggle("hide-member-hover-labels", !showHoverLabels);
+        if (!pointLayer) return;
 
-        if (!showHoverLabels && pointLayer) {
-          pointLayer.eachLayer(layer => {
-            if (layer.closeTooltip) {
-              layer.closeTooltip();
+        pointLayer.eachLayer(layer => {
+          if (showHoverLabels) {
+            if (!layer.getTooltip() && layer._memberTooltipHtml) {
+              layer.bindTooltip(layer._memberTooltipHtml, layer._memberTooltipOptions);
             }
-          });
+          } else {
+            if (layer.getTooltip()) {
+              layer.closeTooltip();
+              layer.unbindTooltip();
+            }
+          }
+        });
+
+        if (!showHoverLabels) {
+          infoText.innerHTML = "Hover over a district";
+
+          if (polygonLayer) {
+            polygonLayer.eachLayer(layer => {
+              polygonLayer.resetStyle(layer);
+            });
+          }
         }
-      });
+      }
+
+      syncHoverToggleState();
+      toggleNameLabels.addEventListener("change", syncHoverToggleState);
     })
     .catch(err => {
       console.error("Failed to load map layers:", err);
