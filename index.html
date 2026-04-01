@@ -424,7 +424,7 @@
   let polygonLayer;
   let pointLayer;
   let districtLabelLayer;
-  let showHoverLabels = false;
+  
 
   let polygonDataGlobal = null;
   let pointDataGlobal = null;
@@ -446,6 +446,9 @@
     "#1f77b4"
   ];
 
+  function hoverLabelsEnabled() {
+    return !!toggleNameLabels.checked;
+  }
 function parseDistrictId(value) {
   if (value === null || value === undefined || value === "") return null;
 
@@ -617,14 +620,12 @@ function highlightPolygon(layer) {
   function onEachPolygon(feature, layer) {
     layer.on({
       mouseover: function () {
-        if (showHoverLabels) {
+        if (hoverLabelsEnabled()) {
           highlightPolygon(layer);
         }
       },
       mouseout: function () {
-        if (showHoverLabels) {
-          resetPolygonStyle(layer);
-        }
+        resetPolygonStyle(layer);
       },
       click: function () {
         openDistrictPopup(layer);
@@ -1093,12 +1094,18 @@ Promise.all([
               weight: isOutsideBoundaryPoint(props) ? 2.5 : 3
             });
 
-            if (showHoverLabels) {
+            if (hoverLabelsEnabled()) {
+              if (layer._hoverNameTooltip) {
+                map.removeLayer(layer._hoverNameTooltip);
+                layer._hoverNameTooltip = null;
+              }
+
               const latlng = layer.getLatLng();
 
               layer._hoverNameTooltip = L.tooltip({
                 permanent: false,
                 sticky: false,
+                interactive: false,
                 direction: "top",
                 offset: [0, -10],
                 className: "member-name-tooltip"
@@ -1129,9 +1136,7 @@ Promise.all([
       if (pointLayer) pointLayer.bringToFront();
 
       function syncHoverToggleState() {
-        showHoverLabels = toggleNameLabels.checked;
-
-        if (!showHoverLabels) {
+        if (!hoverLabelsEnabled()) {
           infoText.innerHTML = "Hover over a district";
 
           if (polygonLayer) {
@@ -1153,6 +1158,7 @@ Promise.all([
 
       syncHoverToggleState();
       toggleNameLabels.addEventListener("change", syncHoverToggleState);
+      toggleNameLabels.addEventListener("input", syncHoverToggleState);
     })
     .catch(err => {
       console.error("Failed to load map layers:", err);
