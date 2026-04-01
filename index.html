@@ -1081,16 +1081,17 @@ Promise.all([
             <b>Has Assigned Ministers:</b> ${isAssignedMinisters}${outsideBoundaryText}
           `);
 
-          layer.bindTooltip(
-            `<span>${displayName}</span>`,
-            {
-              permanent: false,
-              sticky: true,
-              direction: "top",
-              offset: [0, -10],
-              className: "member-name-tooltip"
-            }
-          );
+          const tooltipHtml = `<span>${displayName}</span>`;
+          const tooltipOptions = {
+            permanent: false,
+            sticky: true,
+            direction: "top",
+            offset: [0, -10],
+            className: "member-name-tooltip"
+          };
+
+          layer._memberTooltipHtml = tooltipHtml;
+          layer._memberTooltipOptions = tooltipOptions;
 
           layer.on("mouseover", function () {
             layer.setStyle({
@@ -1099,6 +1100,9 @@ Promise.all([
             });
 
             if (showHoverLabels) {
+              if (!layer.getTooltip()) {
+                layer.bindTooltip(layer._memberTooltipHtml, layer._memberTooltipOptions);
+              }
               layer.openTooltip();
             }
           });
@@ -1109,7 +1113,9 @@ Promise.all([
               weight: isOutsideBoundaryPoint(props) ? 1.5 : 2
             });
 
-            layer.closeTooltip();
+            if (layer.getTooltip()) {
+              layer.closeTooltip();
+            }
           });
         }
       }).addTo(map);
@@ -1122,13 +1128,16 @@ Promise.all([
       toggleNameLabels.addEventListener("change", function () {
         showHoverLabels = toggleNameLabels.checked;
 
-        if (!showHoverLabels && pointLayer) {
-          pointLayer.eachLayer(layer => {
-            if (layer.closeTooltip) {
+        if (!pointLayer) return;
+
+        pointLayer.eachLayer(layer => {
+          if (!showHoverLabels) {
+            if (layer.getTooltip()) {
               layer.closeTooltip();
+              layer.unbindTooltip();
             }
-          });
-        }
+          }
+        });
       });
     })
     .catch(err => {
