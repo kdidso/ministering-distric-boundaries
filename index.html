@@ -67,6 +67,10 @@
       display: none;
     }
 
+    #map.hide-member-hover-labels .member-name-tooltip {
+      display: none !important;
+    }
+
     .export-panel {
       position: absolute;
       top: 10px;
@@ -1081,30 +1085,29 @@ Promise.all([
             <b>Has Assigned Ministers:</b> ${isAssignedMinisters}${outsideBoundaryText}
           `);
 
-          const tooltipHtml = `<span>${displayName}</span>`;
-          const tooltipOptions = {
-            permanent: false,
-            sticky: true,
-            direction: "top",
-            offset: [0, -10],
-            className: "member-name-tooltip"
-          };
-
-          layer._memberTooltipHtml = tooltipHtml;
-          layer._memberTooltipOptions = tooltipOptions;
+          layer.bindTooltip(
+            `<span>${displayName}</span>`,
+            {
+              permanent: false,
+              sticky: true,
+              direction: "top",
+              offset: [0, -10],
+              className: "member-name-tooltip"
+            }
+          );
 
           layer.on("mouseover", function () {
             layer.setStyle({
               radius: 9,
               weight: isOutsideBoundaryPoint(props) ? 2.5 : 3
             });
+          });
 
-            if (showHoverLabels) {
-              if (!layer.getTooltip()) {
-                layer.bindTooltip(layer._memberTooltipHtml, layer._memberTooltipOptions);
-              }
-              layer.openTooltip();
-            }
+          layer.on("mouseout", function () {
+            layer.setStyle({
+              radius: 7,
+              weight: isOutsideBoundaryPoint(props) ? 1.5 : 2
+            });
           });
 
           layer.on("mouseout", function () {
@@ -1125,19 +1128,21 @@ Promise.all([
       if (districtLabelLayer) districtLabelLayer.bringToFront();
       if (pointLayer) pointLayer.bringToFront();
 
+      showHoverLabels = toggleNameLabels.checked;
+      map.getContainer().classList.toggle("hide-member-hover-labels", !showHoverLabels);
+
       toggleNameLabels.addEventListener("change", function () {
         showHoverLabels = toggleNameLabels.checked;
 
-        if (!pointLayer) return;
+        map.getContainer().classList.toggle("hide-member-hover-labels", !showHoverLabels);
 
-        pointLayer.eachLayer(layer => {
-          if (!showHoverLabels) {
-            if (layer.getTooltip()) {
+        if (!showHoverLabels && pointLayer) {
+          pointLayer.eachLayer(layer => {
+            if (layer.closeTooltip) {
               layer.closeTooltip();
-              layer.unbindTooltip();
             }
-          }
-        });
+          });
+        }
       });
     })
     .catch(err => {
