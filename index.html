@@ -1086,19 +1086,27 @@ Promise.all([
           `);
 
           layer._memberTooltipHtml = `<span>${displayName}</span>`;
-          layer._memberTooltipOptions = {
-            permanent: false,
-            sticky: true,
-            direction: "top",
-            offset: [0, -10],
-            className: "member-name-tooltip"
-          };
 
           layer.on("mouseover", function () {
             layer.setStyle({
               radius: 9,
               weight: isOutsideBoundaryPoint(props) ? 2.5 : 3
             });
+
+            if (showHoverLabels) {
+              const latlng = layer.getLatLng();
+
+              layer._hoverNameTooltip = L.tooltip({
+                permanent: false,
+                sticky: false,
+                direction: "top",
+                offset: [0, -10],
+                className: "member-name-tooltip"
+              })
+                .setLatLng(latlng)
+                .setContent(layer._memberTooltipHtml)
+                .addTo(map);
+            }
           });
 
           layer.on("mouseout", function () {
@@ -1107,8 +1115,9 @@ Promise.all([
               weight: isOutsideBoundaryPoint(props) ? 1.5 : 2
             });
 
-            if (layer.getTooltip()) {
-              layer.closeTooltip();
+            if (layer._hoverNameTooltip) {
+              map.removeLayer(layer._hoverNameTooltip);
+              layer._hoverNameTooltip = null;
             }
           });
         }
@@ -1119,26 +1128,8 @@ Promise.all([
       if (districtLabelLayer) districtLabelLayer.bringToFront();
       if (pointLayer) pointLayer.bringToFront();
 
-      showHoverLabels = toggleNameLabels.checked;
-      map.getContainer().classList.toggle("hide-member-hover-labels", !showHoverLabels);
-
       function syncHoverToggleState() {
         showHoverLabels = toggleNameLabels.checked;
-
-        if (!pointLayer) return;
-
-        pointLayer.eachLayer(layer => {
-          if (showHoverLabels) {
-            if (!layer.getTooltip() && layer._memberTooltipHtml) {
-              layer.bindTooltip(layer._memberTooltipHtml, layer._memberTooltipOptions);
-            }
-          } else {
-            if (layer.getTooltip()) {
-              layer.closeTooltip();
-              layer.unbindTooltip();
-            }
-          }
-        });
 
         if (!showHoverLabels) {
           infoText.innerHTML = "Hover over a district";
@@ -1146,6 +1137,15 @@ Promise.all([
           if (polygonLayer) {
             polygonLayer.eachLayer(layer => {
               polygonLayer.resetStyle(layer);
+            });
+          }
+
+          if (pointLayer) {
+            pointLayer.eachLayer(layer => {
+              if (layer._hoverNameTooltip) {
+                map.removeLayer(layer._hoverNameTooltip);
+                layer._hoverNameTooltip = null;
+              }
             });
           }
         }
