@@ -505,16 +505,15 @@ function buildDistrictStats(pointData) {
     const districtId = parseDistrictId(props.district_id);
     const isOutside = isOutsideBoundaryPoint(props);
 
-    // Outside-boundary points only count toward a district
-    // if they were explicitly tied to one.
     if (districtId === null) continue;
 
     if (!districtStats.has(districtId)) {
       districtStats.set(districtId, {
         assignedYes: 0,
         assignedNo: 0,
+        insideTotal: 0,
         outsideInvolved: 0,
-        total: 0
+        grandTotal: 0
       });
     }
 
@@ -529,9 +528,11 @@ function buildDistrictStats(pointData) {
       } else if (assignedToMinister === "no") {
         stats.assignedNo++;
       }
+
+      stats.insideTotal = stats.assignedYes + stats.assignedNo;
     }
 
-    stats.total = stats.assignedYes + stats.assignedNo + stats.outsideInvolved;
+    stats.grandTotal = stats.insideTotal + stats.outsideInvolved;
   }
 }
 function getDistrictStats(districtId) {
@@ -541,16 +542,18 @@ function getDistrictStats(districtId) {
     return {
       assignedYes: 0,
       assignedNo: 0,
+      insideTotal: 0,
       outsideInvolved: 0,
-      total: 0
+      grandTotal: 0
     };
   }
 
   return districtStats.get(parsedDistrictId) || {
     assignedYes: 0,
     assignedNo: 0,
+    insideTotal: 0,
     outsideInvolved: 0,
-    total: 0
+    grandTotal: 0
   };
 }
 
@@ -562,8 +565,9 @@ function getDistrictPopupHtml(props) {
     <b>District ${districtNum}</b><br><br>
     <b>Assigned_to_minister = yes:</b> ${stats.assignedYes}<br>
     <b>Assigned_to_minister = no:</b> ${stats.assignedNo}<br>
+    <b>Inside-boundary total:</b> ${stats.insideTotal}<br>
     <b>Out-of-boundary members involved:</b> ${stats.outsideInvolved}<br>
-    <b>District total:</b> ${stats.total}
+    <b>District grand total:</b> ${stats.grandTotal}
   `;
 }
 
@@ -592,7 +596,9 @@ function highlightPolygon(layer) {
 
   infoText.innerHTML = `
     <b>District ${districtNum}</b><br>
-    Yes: ${stats.assignedYes} | No: ${stats.assignedNo} | Out: ${stats.outsideInvolved} | Total: ${stats.total}
+    Yes: ${stats.assignedYes} | No: ${stats.assignedNo}<br>
+    Inside: ${stats.insideTotal} | Out: ${stats.outsideInvolved}<br>
+    Grand Total: ${stats.grandTotal}
   `;
 }
 
