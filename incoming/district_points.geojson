@@ -1436,10 +1436,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13128",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13128"
       }
@@ -1475,10 +1475,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13179",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13179"
       }
@@ -1514,10 +1514,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13150",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13150"
       }
@@ -1553,10 +1553,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13275",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13275"
       }
@@ -1592,10 +1592,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13369",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13369"
       }
@@ -1631,10 +1631,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13369",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13369"
       }
@@ -1670,10 +1670,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13588",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13588"
       }
@@ -1709,10 +1709,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13588",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13588"
       }
@@ -1748,10 +1748,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13358",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13358"
       }
@@ -1787,10 +1787,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13597",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13597"
       }
@@ -1826,10 +1826,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13597",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13597"
       }
@@ -1865,10 +1865,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13632",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13632"
       }
@@ -1904,10 +1904,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13886",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13886"
       }
@@ -1943,10 +1943,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13836",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13836"
       }
@@ -1982,10 +1982,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "13928",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "13928"
       }
@@ -2021,10 +2021,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14041",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14041"
       }
@@ -2060,10 +2060,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14258",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14258"
       }
@@ -2099,10 +2099,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14342",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14342"
       }
@@ -2138,10 +2138,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14382",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14382"
       }
@@ -2177,10 +2177,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14382",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14382"
       }
@@ -2216,10 +2216,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14461",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14461"
       }
@@ -2255,10 +2255,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14461",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14461"
       }
@@ -2294,10 +2294,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14453",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14453"
       }
@@ -2333,10 +2333,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14453",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14453"
       }
@@ -2372,10 +2372,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14453",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14453"
       }
@@ -2411,10 +2411,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14635",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14635"
       }
@@ -2450,10 +2450,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14635",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14635"
       }
@@ -2489,10 +2489,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14641",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14641"
       }
@@ -2528,10 +2528,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "14749",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "14749"
       }
@@ -2567,10 +2567,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "15182",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15182"
       }
@@ -2606,10 +2606,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "15717",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15717"
       }
@@ -2645,10 +2645,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "15732",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15732"
       }
@@ -2684,10 +2684,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "15814",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15814"
       }
@@ -2723,10 +2723,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "15885",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "15885"
       }
@@ -2762,10 +2762,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16391",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "16391"
       }
@@ -2801,10 +2801,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16037",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
         "group": 1,
         "cell_id": "16037"
       }
@@ -2840,10 +2840,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16363",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16363"
       }
@@ -2879,10 +2879,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16486",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16486"
       }
@@ -2918,10 +2918,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16250",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16250"
       }
@@ -2957,10 +2957,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16321",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16321"
       }
@@ -2996,10 +2996,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16301",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16301"
       }
@@ -3035,10 +3035,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16400",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16400"
       }
@@ -3074,10 +3074,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16679",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16679"
       }
@@ -3113,10 +3113,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17893",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17893"
       }
@@ -3152,10 +3152,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17165",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17165"
       }
@@ -3191,10 +3191,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16900",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16900"
       }
@@ -3230,10 +3230,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16986",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16986"
       }
@@ -3269,10 +3269,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "16886",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "16886"
       }
@@ -3308,10 +3308,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17456",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17456"
       }
@@ -3347,10 +3347,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17005",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17005"
       }
@@ -3386,10 +3386,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17098",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17098"
       }
@@ -3425,10 +3425,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17246",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17246"
       }
@@ -3464,10 +3464,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17232",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17232"
       }
@@ -3503,10 +3503,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17434",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17434"
       }
@@ -3542,10 +3542,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17534",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17534"
       }
@@ -3581,10 +3581,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17520",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17520"
       }
@@ -3620,10 +3620,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17520",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17520"
       }
@@ -3659,10 +3659,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17520",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17520"
       }
@@ -3698,10 +3698,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17590",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17590"
       }
@@ -3737,10 +3737,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17681",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17681"
       }
@@ -3776,10 +3776,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17563",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17563"
       }
@@ -3815,10 +3815,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17714",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17714"
       }
@@ -3854,10 +3854,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17802",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17802"
       }
@@ -3893,10 +3893,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "17845",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "17845"
       }
@@ -3932,10 +3932,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18040",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18040"
       }
@@ -3971,10 +3971,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18192",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18192"
       }
@@ -4010,10 +4010,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18192",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18192"
       }
@@ -4049,10 +4049,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18123",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18123"
       }
@@ -4088,10 +4088,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18306",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18306"
       }
@@ -4127,10 +4127,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18222",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18222"
       }
@@ -4166,10 +4166,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18525",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18525"
       }
@@ -4205,10 +4205,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18529",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18529"
       }
@@ -4244,10 +4244,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18529",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
         "group": 1,
         "cell_id": "18529"
       }
@@ -4283,10 +4283,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18546",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18546"
       }
@@ -4322,10 +4322,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18546",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18546"
       }
@@ -4361,10 +4361,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18743",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18743"
       }
@@ -4400,10 +4400,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "19148",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19148"
       }
@@ -4439,10 +4439,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "19148",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19148"
       }
@@ -4478,10 +4478,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "19067",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19067"
       }
@@ -4517,10 +4517,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "18949",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "18949"
       }
@@ -4556,10 +4556,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "19074",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19074"
       }
@@ -4595,10 +4595,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "19867",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19867"
       }
@@ -4634,10 +4634,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "19867",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19867"
       }
@@ -4673,10 +4673,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "19672",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "19672"
       }
@@ -4712,10 +4712,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "20018",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "20018"
       }
@@ -4751,10 +4751,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "20471",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "20471"
       }
@@ -4790,10 +4790,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "21086",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21086"
       }
@@ -4829,10 +4829,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "21284",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21284"
       }
@@ -4868,10 +4868,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "21592",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21592"
       }
@@ -4907,10 +4907,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22533",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22533"
       }
@@ -4946,10 +4946,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22533",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22533"
       }
@@ -4985,10 +4985,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "21810",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "21810"
       }
@@ -5024,10 +5024,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22050",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22050"
       }
@@ -5063,10 +5063,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22154",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22154"
       }
@@ -5102,10 +5102,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22446",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22446"
       }
@@ -5141,10 +5141,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22321",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22321"
       }
@@ -5180,10 +5180,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22231",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22231"
       }
@@ -5219,10 +5219,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22728",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22728"
       }
@@ -5258,10 +5258,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22684",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22684"
       }
@@ -5297,10 +5297,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22841",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22841"
       }
@@ -5336,10 +5336,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "22899",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "22899"
       }
@@ -5375,10 +5375,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "23235",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23235"
       }
@@ -5414,10 +5414,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "23283",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23283"
       }
@@ -5453,10 +5453,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "23705",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23705"
       }
@@ -5492,10 +5492,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "23799",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "23799"
       }
@@ -5531,10 +5531,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "24245",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "24245"
       }
@@ -5570,10 +5570,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "24378",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "24378"
       }
@@ -5609,10 +5609,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "24500",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
         "group": 1,
         "cell_id": "24500"
       }
@@ -5648,10 +5648,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "24737",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24737"
       }
@@ -5687,10 +5687,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "24737",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24737"
       }
@@ -5726,10 +5726,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "24908",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24908"
       }
@@ -5765,10 +5765,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "24961",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "24961"
       }
@@ -5804,10 +5804,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "25115",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25115"
       }
@@ -5843,10 +5843,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "25218",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25218"
       }
@@ -5882,10 +5882,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "25375",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25375"
       }
@@ -5921,10 +5921,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "25392",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25392"
       }
@@ -5960,10 +5960,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "25786",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25786"
       }
@@ -5999,10 +5999,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "25736",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "25736"
       }
@@ -6038,10 +6038,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "26136",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26136"
       }
@@ -6077,10 +6077,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "26668",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26668"
       }
@@ -6116,10 +6116,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "26613",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26613"
       }
@@ -6155,10 +6155,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "26677",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "26677"
       }
@@ -6194,10 +6194,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "27486",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "27486"
       }
@@ -6233,10 +6233,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "27531",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "27531"
       }
@@ -6272,10 +6272,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "28010",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28010"
       }
@@ -6311,10 +6311,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "28318",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28318"
       }
@@ -6350,10 +6350,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "28371",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28371"
       }
@@ -6389,10 +6389,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "28371",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28371"
       }
@@ -6428,10 +6428,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "28732",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "28732"
       }
@@ -6467,10 +6467,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "29544",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "29544"
       }
@@ -6506,10 +6506,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "30454",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "30454"
       }
@@ -6545,10 +6545,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "30957",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "30957"
       }
@@ -6584,10 +6584,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "31360",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "31360"
       }
@@ -6623,10 +6623,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "31764",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "31764"
       }
@@ -6662,10 +6662,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "32554",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "32554"
       }
@@ -6701,10 +6701,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "33368",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "33368"
       }
@@ -6740,10 +6740,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "33740",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "33740"
       }
@@ -6779,10 +6779,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "34680",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "34680"
       }
@@ -6818,10 +6818,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "35036",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "35036"
       }
@@ -6857,10 +6857,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "35650",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "35650"
       }
@@ -6896,10 +6896,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "35770",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "35770"
       }
@@ -6935,10 +6935,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "36149",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "36149"
       }
@@ -6974,10 +6974,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "36487",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 4,
+        "_district": 4,
+        "district_color": "#7c3aed",
+        "district_label": 5,
         "group": 1,
         "cell_id": "36487"
       }
@@ -7013,10 +7013,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "36607",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "36607"
       }
@@ -7052,10 +7052,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "36496",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "36496"
       }
@@ -7091,10 +7091,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "36972",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "36972"
       }
@@ -7130,10 +7130,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "38574",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "38574"
       }
@@ -7169,10 +7169,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "38804",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "38804"
       }
@@ -7208,10 +7208,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "38693",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "38693"
       }
@@ -7247,10 +7247,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "39128",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "39128"
       }
@@ -7286,10 +7286,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "39488",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "39488"
       }
@@ -7325,10 +7325,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "39831",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "39831"
       }
@@ -7364,10 +7364,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "40205",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "40205"
       }
@@ -7403,10 +7403,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "41219",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "41219"
       }
@@ -7442,10 +7442,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "41219",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "41219"
       }
@@ -7481,10 +7481,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "41745",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "41745"
       }
@@ -7520,10 +7520,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "42228",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "42228"
       }
@@ -7559,10 +7559,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "42779",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "42779"
       }
@@ -7598,10 +7598,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "43076",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "43076"
       }
@@ -7637,10 +7637,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "43076",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "43076"
       }
@@ -7676,10 +7676,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "44239",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44239"
       }
@@ -7715,10 +7715,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "44797",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44797"
       }
@@ -7754,10 +7754,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "44847",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44847"
       }
@@ -7793,10 +7793,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "44879",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "44879"
       }
@@ -7832,10 +7832,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "47238",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "47238"
       }
@@ -7871,10 +7871,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "48597",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48597"
       }
@@ -7910,10 +7910,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "48643",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48643"
       }
@@ -7949,10 +7949,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "48936",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48936"
       }
@@ -7988,10 +7988,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "48936",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "48936"
       }
@@ -8027,10 +8027,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "49373",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49373"
       }
@@ -8066,10 +8066,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "49373",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49373"
       }
@@ -8105,10 +8105,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "49541",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49541"
       }
@@ -8144,10 +8144,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "49617",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49617"
       }
@@ -8183,10 +8183,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "49632",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "49632"
       }
@@ -8222,10 +8222,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "50247",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "50247"
       }
@@ -8261,10 +8261,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "50840",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "50840"
       }
@@ -8300,10 +8300,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "52486",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "52486"
       }
@@ -8339,10 +8339,10 @@
         "_group": 1,
         "_outsideBoundary": false,
         "_cellId": "53615",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
+        "district_id": 5,
+        "_district": 5,
+        "district_color": "#0891b2",
+        "district_label": 6,
         "group": 1,
         "cell_id": "53615"
       }
