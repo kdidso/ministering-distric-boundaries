@@ -1293,6 +1293,49 @@
     },
     {
       "type": "Feature",
+      "id": 820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.60003951854335,
+          37.07402385039157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 820,
+        "Last_Name": "Moss",
+        "First_Name": "Jackson Parker",
+        "Address": "763 Crystal Dr, St. George, UT 84770",
+        "lat": 37.0740242,
+        "lon": -113.600037,
+        "Apt_Number": null,
+        "Age": 26,
+        "Gender": "M",
+        "BirthDate": 964569600000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "jpmoss726@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": null,
+        "Q_1_pct_att": null,
+        "Q_2_pct_att": null,
+        "Second_hr_pct_att": null,
+        "pct_att_drop": null,
+        "_group": 2,
+        "_outsideBoundary": false,
+        "_cellId": "9133",
+        "district_id": 0,
+        "_district": 0,
+        "district_color": "#e11d48",
+        "district_label": 1,
+        "group": 2,
+        "cell_id": "9133"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 123,
       "geometry": {
         "type": "Point",
@@ -3056,49 +3099,6 @@
     },
     {
       "type": "Feature",
-      "id": 435,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.61779282918029,
-          37.10613886446994
-        ]
-      },
-      "properties": {
-        "OBJECTID": 435,
-        "Last_Name": "Tinker",
-        "First_Name": "Josh",
-        "Address": "1607 Burgundy Way, St. George, UT 84770",
-        "lat": 37.1061401,
-        "lon": -113.61779,
-        "Apt_Number": null,
-        "Age": 27,
-        "Gender": "M",
-        "BirthDate": 906681600000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "tinkerj123@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 0,
-        "Q_2_pct_att": 7.6923076923076925,
-        "Second_hr_pct_att": 3.846153846153846,
-        "pct_att_drop": null,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "18193",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "18193"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 592,
       "geometry": {
         "type": "Point",
@@ -3224,6 +3224,49 @@
         "district_label": 2,
         "group": 1,
         "cell_id": "19507"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.59658518995042,
+          37.108657886053834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 480,
+        "Last_Name": "Zamacona",
+        "First_Name": "Matthew Henry",
+        "Address": "33 N 660 W, St. George, UT 84770",
+        "lat": 37.1086578,
+        "lon": -113.596588,
+        "Apt_Number": null,
+        "Age": 29,
+        "Gender": "M",
+        "BirthDate": 860716800000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": null,
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": 23.07692307692308,
+        "Q_2_pct_att": 7.6923076923076925,
+        "Second_hr_pct_att": 15.38461538461539,
+        "pct_att_drop": 66.66666666666666,
+        "_group": 1,
+        "_outsideBoundary": false,
+        "_cellId": "19491",
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "19491"
       }
     },
     {
@@ -4346,6 +4389,49 @@
     },
     {
       "type": "Feature",
+      "id": 816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57029068681226,
+          37.105383340968515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 816,
+        "Last_Name": "Darrington",
+        "First_Name": "Kohlton",
+        "Address": "612 E 160 S, St. George, UT 84770",
+        "lat": 37.1053848,
+        "lon": -113.57029,
+        "Apt_Number": null,
+        "Age": 29,
+        "Gender": "M",
+        "BirthDate": 844387200000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "kohlton.darrington62@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": null,
+        "Q_1_pct_att": null,
+        "Q_2_pct_att": null,
+        "Second_hr_pct_att": null,
+        "pct_att_drop": null,
+        "_group": 2,
+        "_outsideBoundary": false,
+        "_cellId": "17712",
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 2,
+        "cell_id": "17712"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 75,
       "geometry": {
         "type": "Point",
@@ -4686,135 +4772,6 @@
         "district_label": 2,
         "group": 2,
         "cell_id": "18734"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 35,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56514187598033,
-          37.10784709965923
-        ]
-      },
-      "properties": {
-        "OBJECTID": 35,
-        "Last_Name": "Bentley",
-        "First_Name": "Michael",
-        "Address": "852 E Tabernacle St, St. George, UT 84770",
-        "lat": 37.1078453,
-        "lon": -113.56514,
-        "Apt_Number": null,
-        "Age": 33,
-        "Gender": "M",
-        "BirthDate": 731808000000,
-        "Notes": "https://www.facebook.com/michael.bentley.7923030/about_overview ",
-        "Address_confidence": "low",
-        "Emails": "mihyearu@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 0,
-        "Q_2_pct_att": 0,
-        "Second_hr_pct_att": 0,
-        "pct_att_drop": null,
-        "_group": 2,
-        "_outsideBoundary": false,
-        "_cellId": "19067",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 2,
-        "cell_id": "19067"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 704,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56514628581007,
-          37.10785372213093
-        ]
-      },
-      "properties": {
-        "OBJECTID": 704,
-        "Last_Name": "Atkinson",
-        "First_Name": "Nathan",
-        "Address": "852 E Tabernacle St, St. George, UT 84770",
-        "lat": 37.1078529,
-        "lon": -113.565147,
-        "Apt_Number": null,
-        "Age": 26,
-        "Gender": "M",
-        "BirthDate": 944524800000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "nratkinson1999@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 0,
-        "Q_2_pct_att": 0,
-        "Second_hr_pct_att": 0,
-        "pct_att_drop": null,
-        "_group": 2,
-        "_outsideBoundary": false,
-        "_cellId": "19067",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 2,
-        "cell_id": "19067"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 480,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.59658518995042,
-          37.108657886053834
-        ]
-      },
-      "properties": {
-        "OBJECTID": 480,
-        "Last_Name": "Zamacona",
-        "First_Name": "Matthew Henry",
-        "Address": "33 N 660 W, St. George, UT 84770",
-        "lat": 37.1086578,
-        "lon": -113.596588,
-        "Apt_Number": null,
-        "Age": 29,
-        "Gender": "M",
-        "BirthDate": 860716800000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": null,
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 23.07692307692308,
-        "Q_2_pct_att": 7.6923076923076925,
-        "Second_hr_pct_att": 15.38461538461539,
-        "pct_att_drop": 66.66666666666666,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "19491",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "19491"
       }
     },
     {
@@ -5593,6 +5550,92 @@
     },
     {
       "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56514187598033,
+          37.10784709965923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "Last_Name": "Bentley",
+        "First_Name": "Michael",
+        "Address": "852 E Tabernacle St, St. George, UT 84770",
+        "lat": 37.1078453,
+        "lon": -113.56514,
+        "Apt_Number": null,
+        "Age": 33,
+        "Gender": "M",
+        "BirthDate": 731808000000,
+        "Notes": "https://www.facebook.com/michael.bentley.7923030/about_overview ",
+        "Address_confidence": "low",
+        "Emails": "mihyearu@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": 0,
+        "Q_2_pct_att": 0,
+        "Second_hr_pct_att": 0,
+        "pct_att_drop": null,
+        "_group": 2,
+        "_outsideBoundary": false,
+        "_cellId": "19067",
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "19067"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56514628581007,
+          37.10785372213093
+        ]
+      },
+      "properties": {
+        "OBJECTID": 704,
+        "Last_Name": "Atkinson",
+        "First_Name": "Nathan",
+        "Address": "852 E Tabernacle St, St. George, UT 84770",
+        "lat": 37.1078529,
+        "lon": -113.565147,
+        "Apt_Number": null,
+        "Age": 26,
+        "Gender": "M",
+        "BirthDate": 944524800000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "nratkinson1999@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": 0,
+        "Q_2_pct_att": 0,
+        "Second_hr_pct_att": 0,
+        "pct_att_drop": null,
+        "_group": 2,
+        "_outsideBoundary": false,
+        "_cellId": "19067",
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 2,
+        "cell_id": "19067"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 32,
       "geometry": {
         "type": "Point",
@@ -6281,49 +6324,6 @@
     },
     {
       "type": "Feature",
-      "id": 652,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60588157185641,
-          37.115950161121305
-        ]
-      },
-      "properties": {
-        "OBJECTID": 652,
-        "Last_Name": "Bennion",
-        "First_Name": "Sean",
-        "Address": "438 N Stone Mountain Dr, St. George, UT 84770",
-        "lat": 37.1159515,
-        "lon": -113.605881,
-        "Apt_Number": 26,
-        "Age": 26,
-        "Gender": "M",
-        "BirthDate": 942710400000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "seanbennion5@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 0,
-        "Q_2_pct_att": 0,
-        "Second_hr_pct_att": 0,
-        "pct_att_drop": null,
-        "_group": 2,
-        "_outsideBoundary": false,
-        "_cellId": "23158",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 2,
-        "cell_id": "23158"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 742,
       "geometry": {
         "type": "Point",
@@ -6684,7 +6684,7 @@
         "lat": 37.120018,
         "lon": -113.594902,
         "Apt_Number": 4,
-        "Age": 29,
+        "Age": 30,
         "Gender": "M",
         "BirthDate": 838339200000,
         "Notes": null,
@@ -8947,6 +8947,49 @@
     },
     {
       "type": "Feature",
+      "id": 821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6784550982212,
+          37.15795547370422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 821,
+        "Last_Name": "Peterson",
+        "First_Name": "Josh",
+        "Address": "36 E 550 S, Ivins, UT 84738",
+        "lat": 37.1579552,
+        "lon": -113.678452,
+        "Apt_Number": null,
+        "Age": 26,
+        "Gender": "M",
+        "BirthDate": 952646400000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "Peterson.jm@outlook.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": null,
+        "Q_1_pct_att": null,
+        "Q_2_pct_att": null,
+        "Second_hr_pct_att": null,
+        "pct_att_drop": null,
+        "_group": 2,
+        "_outsideBoundary": false,
+        "_cellId": "39326",
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 2,
+        "cell_id": "39326"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 184,
       "geometry": {
         "type": "Point",
@@ -9452,8 +9495,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 2,
-        "_district": 2,
+        "district_id": 0,
+        "_district": 0,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9494,8 +9537,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 0,
-        "_district": 0,
+        "district_id": 3,
+        "_district": 3,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9536,8 +9579,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 0,
-        "_district": 0,
+        "district_id": 3,
+        "_district": 3,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9578,8 +9621,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 3,
-        "_district": 3,
+        "district_id": 0,
+        "_district": 0,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9620,8 +9663,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 2,
-        "_district": 2,
+        "district_id": 3,
+        "_district": 3,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9662,8 +9705,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 2,
-        "_district": 2,
+        "district_id": 3,
+        "_district": 3,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
