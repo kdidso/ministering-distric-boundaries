@@ -132,49 +132,6 @@
     },
     {
       "type": "Feature",
-      "id": 634,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.61050797012982,
-          37.04862256203865
-        ]
-      },
-      "properties": {
-        "OBJECTID": 634,
-        "Last_Name": "Bunker",
-        "First_Name": "Casey",
-        "Address": "3506 Marigold Wy, St. George, UT 84790",
-        "lat": 37.0486221,
-        "lon": -113.610512,
-        "Apt_Number": null,
-        "Age": 26,
-        "Gender": "M",
-        "BirthDate": 941155200000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "bunkercasey2114@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 7.6923076923076925,
-        "Q_2_pct_att": 23.07692307692308,
-        "Second_hr_pct_att": 15.38461538461539,
-        "pct_att_drop": 0,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "4978",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "4978"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 212,
       "geometry": {
         "type": "Point",
@@ -257,49 +214,6 @@
         "district_label": 1,
         "group": 1,
         "cell_id": "5149"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 375,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.60691076538924,
-          37.0581783198166
-        ]
-      },
-      "properties": {
-        "OBJECTID": 375,
-        "Last_Name": "Sappington",
-        "First_Name": "Kaler",
-        "Address": "2947 Jacob Hamblin Dr, St. George, UT 84790",
-        "lat": 37.0581779,
-        "lon": -113.606911,
-        "Apt_Number": null,
-        "Age": 27,
-        "Gender": "M",
-        "BirthDate": 908496000000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "Kaler.sappington@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 15.38461538461539,
-        "Q_2_pct_att": 7.6923076923076925,
-        "Second_hr_pct_att": 11.53846153846154,
-        "pct_att_drop": 50.00000000000002,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "6383",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "6383"
       }
     },
     {
@@ -644,49 +558,6 @@
         "district_label": 1,
         "group": 1,
         "cell_id": "12868"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 444,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56802065307242,
-          37.097221401214
-        ]
-      },
-      "properties": {
-        "OBJECTID": 444,
-        "Last_Name": "Vance",
-        "First_Name": "Hayden",
-        "Address": "669 S 700 E, St. George, UT 84770",
-        "lat": 37.0972214,
-        "lon": -113.568024,
-        "Apt_Number": 34,
-        "Age": 27,
-        "Gender": "M",
-        "BirthDate": 918518400000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "4haydenvance@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 15.38461538461539,
-        "Q_2_pct_att": 0,
-        "Second_hr_pct_att": 7.6923076923076925,
-        "pct_att_drop": 100,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "13290",
-        "district_id": 0,
-        "_district": 0,
-        "district_color": "#e11d48",
-        "district_label": 1,
-        "group": 1,
-        "cell_id": "13290"
       }
     },
     {
@@ -2454,92 +2325,6 @@
     },
     {
       "type": "Feature",
-      "id": 140,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.5882515415175,
-          37.100140368218476
-        ]
-      },
-      "properties": {
-        "OBJECTID": 140,
-        "Last_Name": "Gallagher",
-        "First_Name": "Noah Wilson",
-        "Address": "480 S 200 W, St. George, UT 84770",
-        "lat": 37.1001396,
-        "lon": -113.588249,
-        "Apt_Number": 20,
-        "Age": 29,
-        "Gender": "M",
-        "BirthDate": 847756800000,
-        "Notes": "https://www.facebook.com/noahwilsongallagher",
-        "Address_confidence": "low",
-        "Emails": "noah.w.gallagher@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 46.15384615384616,
-        "Q_2_pct_att": 30.76923076923077,
-        "Second_hr_pct_att": 38.46153846153846,
-        "pct_att_drop": 33.33333333333334,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "14696",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "14696"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 591,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56373578259199,
-          37.10053518807142
-        ]
-      },
-      "properties": {
-        "OBJECTID": 591,
-        "Last_Name": "Valentine",
-        "First_Name": "Seth",
-        "Address": "423 S 900 E, St. George, UT 84770",
-        "lat": 37.1005363,
-        "lon": -113.563736,
-        "Apt_Number": null,
-        "Age": 27,
-        "Gender": "M",
-        "BirthDate": 929577600000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "seththomasvalentine@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 30.76923076923077,
-        "Q_2_pct_att": 7.6923076923076925,
-        "Second_hr_pct_att": 19.23076923076923,
-        "pct_att_drop": 75,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "15195",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "15195"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 45,
       "geometry": {
         "type": "Point",
@@ -3013,6 +2798,49 @@
     },
     {
       "type": "Feature",
+      "id": 797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5610701290044,
+          37.10549183503975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 797,
+        "Last_Name": "Abo",
+        "First_Name": "Kai",
+        "Address": "175 S 1000 E, St. George, UT 84770",
+        "lat": 37.1054916,
+        "lon": -113.561073,
+        "Apt_Number": 9,
+        "Age": 26,
+        "Gender": "M",
+        "BirthDate": 939600000000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "kai.abo@hotmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": null,
+        "Q_1_pct_att": null,
+        "Q_2_pct_att": 0,
+        "Second_hr_pct_att": 0,
+        "pct_att_drop": null,
+        "_group": 1,
+        "_outsideBoundary": false,
+        "_cellId": "17778",
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 1,
+        "cell_id": "17778"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 718,
       "geometry": {
         "type": "Point",
@@ -3142,88 +2970,45 @@
     },
     {
       "type": "Feature",
-      "id": 554,
+      "id": 724,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.5656095766465,
-          37.10866655019431
+          -113.5841793902997,
+          37.10843438470233
         ]
       },
       "properties": {
-        "OBJECTID": 554,
-        "Last_Name": "Lutz",
-        "First_Name": "Hyrum David",
-        "Address": "833 E Tabernacle St, St. George, UT 84770",
-        "lat": 37.1086655,
-        "lon": -113.565613,
-        "Apt_Number": 9,
-        "Age": 27,
+        "OBJECTID": 724,
+        "Last_Name": "Rees",
+        "First_Name": "Tyler Michael",
+        "Address": "38 W Tabernacle St, St. George, UT 84770",
+        "lat": 37.1084328,
+        "lon": -113.584183,
+        "Apt_Number": 202,
+        "Age": 26,
         "Gender": "M",
-        "BirthDate": 931651200000,
+        "BirthDate": 956361600000,
         "Notes": null,
         "Address_confidence": "high",
-        "Emails": "hlutz07@gmail.com",
+        "Emails": "tylerrees007@gmail.com",
         "prospective_elder": "no",
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 0,
-        "Q_2_pct_att": 7.6923076923076925,
-        "Second_hr_pct_att": 3.846153846153846,
-        "pct_att_drop": null,
+        "Q_1_pct_att": 44.44444444444444,
+        "Q_2_pct_att": 15.38461538461539,
+        "Second_hr_pct_att": 27.27272727272727,
+        "pct_att_drop": 65.38461538461537,
         "_group": 1,
         "_outsideBoundary": false,
-        "_cellId": "19506",
+        "_cellId": "19672",
         "district_id": 1,
         "_district": 1,
         "district_color": "#2563eb",
         "district_label": 2,
         "group": 1,
-        "cell_id": "19506"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 755,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.56592580788102,
-          37.10857249614718
-        ]
-      },
-      "properties": {
-        "OBJECTID": 755,
-        "Last_Name": "Watson",
-        "First_Name": "Bailey",
-        "Address": "833 E Tabernacle St, St. George, UT 84770",
-        "lat": 37.1085739,
-        "lon": -113.565926,
-        "Apt_Number": 10,
-        "Age": 26,
-        "Gender": "M",
-        "BirthDate": 951609600000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "beetleboy00@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": null,
-        "Q_1_pct_att": null,
-        "Q_2_pct_att": 25,
-        "Second_hr_pct_att": 25,
-        "pct_att_drop": null,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "19507",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 1,
-        "cell_id": "19507"
+        "cell_id": "19672"
       }
     },
     {
@@ -4217,6 +4002,49 @@
     },
     {
       "type": "Feature",
+      "id": 823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.57240149776122,
+          37.103287871909295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 823,
+        "Last_Name": "Western",
+        "First_Name": "Dallin",
+        "Address": "513 E 300 S, St. George, UT 84770",
+        "lat": 37.1032867,
+        "lon": -113.572403,
+        "Apt_Number": null,
+        "Age": 26,
+        "Gender": "M",
+        "BirthDate": 963273600000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "westedalt@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": null,
+        "Q_1_pct_att": null,
+        "Q_2_pct_att": null,
+        "Second_hr_pct_att": null,
+        "pct_att_drop": null,
+        "_group": 2,
+        "_outsideBoundary": false,
+        "_cellId": "16573",
+        "district_id": 1,
+        "_district": 1,
+        "district_color": "#2563eb",
+        "district_label": 2,
+        "group": 2,
+        "cell_id": "16573"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 236,
       "geometry": {
         "type": "Point",
@@ -4471,49 +4299,6 @@
         "district_label": 2,
         "group": 2,
         "cell_id": "17816"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 797,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.5610701290044,
-          37.10549183503975
-        ]
-      },
-      "properties": {
-        "OBJECTID": 797,
-        "Last_Name": "Abo",
-        "First_Name": "Kai",
-        "Address": "175 S 1000 E, St. George, UT 84770",
-        "lat": 37.1054916,
-        "lon": -113.561073,
-        "Apt_Number": 9,
-        "Age": 26,
-        "Gender": "M",
-        "BirthDate": 939600000000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "kai.abo@hotmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": null,
-        "Q_1_pct_att": null,
-        "Q_2_pct_att": 0,
-        "Second_hr_pct_att": 0,
-        "pct_att_drop": null,
-        "_group": 2,
-        "_outsideBoundary": false,
-        "_cellId": "17778",
-        "district_id": 1,
-        "_district": 1,
-        "district_color": "#2563eb",
-        "district_label": 2,
-        "group": 2,
-        "cell_id": "17778"
       }
     },
     {
@@ -4776,6 +4561,92 @@
     },
     {
       "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5882515415175,
+          37.100140368218476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "Last_Name": "Gallagher",
+        "First_Name": "Noah Wilson",
+        "Address": "480 S 200 W, St. George, UT 84770",
+        "lat": 37.1001396,
+        "lon": -113.588249,
+        "Apt_Number": 20,
+        "Age": 29,
+        "Gender": "M",
+        "BirthDate": 847756800000,
+        "Notes": "https://www.facebook.com/noahwilsongallagher",
+        "Address_confidence": "low",
+        "Emails": "noah.w.gallagher@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": 46.15384615384616,
+        "Q_2_pct_att": 30.76923076923077,
+        "Second_hr_pct_att": 38.46153846153846,
+        "pct_att_drop": 33.33333333333334,
+        "_group": 1,
+        "_outsideBoundary": false,
+        "_cellId": "14696",
+        "_district": 1,
+        "district_id": 1,
+        "district_label": 2,
+        "district_color": "#2563eb",
+        "group": 1,
+        "cell_id": "14696"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.56373578259199,
+          37.10053518807142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 591,
+        "Last_Name": "Valentine",
+        "First_Name": "Seth",
+        "Address": "423 S 900 E, St. George, UT 84770",
+        "lat": 37.1005363,
+        "lon": -113.563736,
+        "Apt_Number": null,
+        "Age": 27,
+        "Gender": "M",
+        "BirthDate": 929577600000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "seththomasvalentine@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": 30.76923076923077,
+        "Q_2_pct_att": 7.6923076923076925,
+        "Second_hr_pct_att": 19.23076923076923,
+        "pct_att_drop": 75,
+        "_group": 1,
+        "_outsideBoundary": false,
+        "_cellId": "15195",
+        "_district": 1,
+        "district_id": 1,
+        "district_label": 2,
+        "district_color": "#2563eb",
+        "group": 1,
+        "cell_id": "15195"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 534,
       "geometry": {
         "type": "Point",
@@ -4987,49 +4858,6 @@
         "district_label": 3,
         "group": 1,
         "cell_id": "23573"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 326,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.63740714006548,
-          37.11795668213146
-        ]
-      },
-      "properties": {
-        "OBJECTID": 326,
-        "Last_Name": "Patterson",
-        "First_Name": "Cason",
-        "Address": "2477 Catawba Cir, Santa Clara, UT 84765",
-        "lat": 37.1179581,
-        "lon": -113.637405,
-        "Apt_Number": null,
-        "Age": 31,
-        "Gender": "M",
-        "BirthDate": 806630400000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "cason.patterson@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 30.76923076923077,
-        "Q_2_pct_att": 15.38461538461539,
-        "Second_hr_pct_att": 23.07692307692308,
-        "pct_att_drop": 49.999999999999986,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "24364",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "24364"
       }
     },
     {
@@ -5378,49 +5206,6 @@
     },
     {
       "type": "Feature",
-      "id": 278,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.65640368132641,
-          37.132772163259986
-        ]
-      },
-      "properties": {
-        "OBJECTID": 278,
-        "Last_Name": "Mikami",
-        "First_Name": "Kyler",
-        "Address": "3131 Santa Clara Dr, Santa Clara, UT 84765",
-        "lat": 37.1327705,
-        "lon": -113.656403,
-        "Apt_Number": null,
-        "Age": 29,
-        "Gender": "M",
-        "BirthDate": 866419200000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "kyguy28rules@yahoo.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 38.46153846153846,
-        "Q_2_pct_att": 38.46153846153846,
-        "Second_hr_pct_att": 38.46153846153846,
-        "pct_att_drop": 0,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "30468",
-        "district_id": 2,
-        "_district": 2,
-        "district_color": "#16a34a",
-        "district_label": 3,
-        "group": 1,
-        "cell_id": "30468"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 792,
       "geometry": {
         "type": "Point",
@@ -5546,6 +5331,49 @@
         "district_label": 3,
         "group": 1,
         "cell_id": "32488"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.66464834803715,
+          37.14167190824428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 361,
+        "Last_Name": "Rogers",
+        "First_Name": "Kyle",
+        "Address": "3765 Windmill Dr, Santa Clara, UT 84765",
+        "lat": 37.1416702,
+        "lon": -113.66465,
+        "Apt_Number": null,
+        "Age": 28,
+        "Gender": "M",
+        "BirthDate": 882835200000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "213kyro@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": 7.6923076923076925,
+        "Q_2_pct_att": 0,
+        "Second_hr_pct_att": 3.846153846153846,
+        "pct_att_drop": 100,
+        "_group": 1,
+        "_outsideBoundary": false,
+        "_cellId": "33979",
+        "district_id": 2,
+        "_district": 2,
+        "district_color": "#16a34a",
+        "district_label": 3,
+        "group": 1,
+        "cell_id": "33979"
       }
     },
     {
@@ -7055,88 +6883,88 @@
     },
     {
       "type": "Feature",
-      "id": 724,
+      "id": 554,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.5841793902997,
-          37.10843438470233
+          -113.5656095766465,
+          37.10866655019431
         ]
       },
       "properties": {
-        "OBJECTID": 724,
-        "Last_Name": "Rees",
-        "First_Name": "Tyler Michael",
-        "Address": "38 W Tabernacle St, St. George, UT 84770",
-        "lat": 37.1084328,
-        "lon": -113.584183,
-        "Apt_Number": 202,
-        "Age": 26,
+        "OBJECTID": 554,
+        "Last_Name": "Lutz",
+        "First_Name": "Hyrum David",
+        "Address": "833 E Tabernacle St, St. George, UT 84770",
+        "lat": 37.1086655,
+        "lon": -113.565613,
+        "Apt_Number": 9,
+        "Age": 27,
         "Gender": "M",
-        "BirthDate": 956361600000,
+        "BirthDate": 931651200000,
         "Notes": null,
         "Address_confidence": "high",
-        "Emails": "tylerrees007@gmail.com",
+        "Emails": "hlutz07@gmail.com",
         "prospective_elder": "no",
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
         "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 44.44444444444444,
-        "Q_2_pct_att": 15.38461538461539,
-        "Second_hr_pct_att": 27.27272727272727,
-        "pct_att_drop": 65.38461538461537,
+        "Q_1_pct_att": 0,
+        "Q_2_pct_att": 7.6923076923076925,
+        "Second_hr_pct_att": 3.846153846153846,
+        "pct_att_drop": null,
         "_group": 1,
         "_outsideBoundary": false,
-        "_cellId": "19672",
+        "_cellId": "19506",
         "_district": 2,
         "district_id": 2,
         "district_label": 3,
         "district_color": "#16a34a",
         "group": 1,
-        "cell_id": "19672"
+        "cell_id": "19506"
       }
     },
     {
       "type": "Feature",
-      "id": 361,
+      "id": 755,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.66464834803715,
-          37.14167190824428
+          -113.56592580788102,
+          37.10857249614718
         ]
       },
       "properties": {
-        "OBJECTID": 361,
-        "Last_Name": "Rogers",
-        "First_Name": "Kyle",
-        "Address": "3765 Windmill Dr, Santa Clara, UT 84765",
-        "lat": 37.1416702,
-        "lon": -113.66465,
-        "Apt_Number": null,
-        "Age": 28,
+        "OBJECTID": 755,
+        "Last_Name": "Watson",
+        "First_Name": "Bailey",
+        "Address": "833 E Tabernacle St, St. George, UT 84770",
+        "lat": 37.1085739,
+        "lon": -113.565926,
+        "Apt_Number": 10,
+        "Age": 26,
         "Gender": "M",
-        "BirthDate": 882835200000,
+        "BirthDate": 951609600000,
         "Notes": null,
         "Address_confidence": "high",
-        "Emails": "213kyro@gmail.com",
+        "Emails": "beetleboy00@gmail.com",
         "prospective_elder": "no",
         "Assigned_to_minister": "yes",
         "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 7.6923076923076925,
-        "Q_2_pct_att": 0,
-        "Second_hr_pct_att": 3.846153846153846,
-        "pct_att_drop": 100,
+        "ON_DO_NOT_CONTACT_LIST": null,
+        "Q_1_pct_att": null,
+        "Q_2_pct_att": 25,
+        "Second_hr_pct_att": 25,
+        "pct_att_drop": null,
         "_group": 1,
         "_outsideBoundary": false,
-        "_cellId": "33979",
-        "district_id": 3,
-        "_district": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
+        "_cellId": "19507",
+        "_district": 2,
+        "district_id": 2,
+        "district_label": 3,
+        "district_color": "#16a34a",
         "group": 1,
-        "cell_id": "33979"
+        "cell_id": "19507"
       }
     },
     {
@@ -7309,6 +7137,49 @@
         "district_label": 4,
         "group": 1,
         "cell_id": "35497"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6690344802097,
+          37.15085032675903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 813,
+        "Last_Name": "Willmore",
+        "First_Name": "Elliot",
+        "Address": "4295 Bella Vista Dr, Santa Clara, UT 84765",
+        "lat": 37.1508522,
+        "lon": -113.669037,
+        "Apt_Number": null,
+        "Age": 28,
+        "Gender": "M",
+        "BirthDate": 877824000000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "elliot1026@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "yes",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": null,
+        "Q_2_pct_att": null,
+        "Second_hr_pct_att": null,
+        "pct_att_drop": null,
+        "_group": 1,
+        "_outsideBoundary": false,
+        "_cellId": "36464",
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 1,
+        "cell_id": "36464"
       }
     },
     {
@@ -7825,49 +7696,6 @@
         "district_label": 4,
         "group": 1,
         "cell_id": "50335"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 719,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.70701997825562,
-          37.33559082426385
-        ]
-      },
-      "properties": {
-        "OBJECTID": 719,
-        "Last_Name": "Goodrich",
-        "First_Name": "John",
-        "Address": "120 S 600 W, Veyo, UT 84782",
-        "lat": 37.3355904,
-        "lon": -113.707024,
-        "Apt_Number": null,
-        "Age": 30,
-        "Gender": "M",
-        "BirthDate": 820800000000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "johnathan.ml.goodrich@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "yes",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": 11.11111111111111,
-        "Q_2_pct_att": 15.38461538461539,
-        "Second_hr_pct_att": 13.63636363636364,
-        "pct_att_drop": 0,
-        "_group": 1,
-        "_outsideBoundary": false,
-        "_cellId": "51033",
-        "district_id": 3,
-        "_district": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 1,
-        "cell_id": "51033"
       }
     },
     {
@@ -8861,49 +8689,6 @@
     },
     {
       "type": "Feature",
-      "id": 813,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.6690344802097,
-          37.15085032675903
-        ]
-      },
-      "properties": {
-        "OBJECTID": 813,
-        "Last_Name": "Willmore",
-        "First_Name": "Elliot",
-        "Address": "4295 Bella Vista Dr, Santa Clara, UT 84765",
-        "lat": 37.1508522,
-        "lon": -113.669037,
-        "Apt_Number": null,
-        "Age": 28,
-        "Gender": "M",
-        "BirthDate": 877824000000,
-        "Notes": null,
-        "Address_confidence": "high",
-        "Emails": "elliot1026@gmail.com",
-        "prospective_elder": "no",
-        "Assigned_to_minister": "no",
-        "Is_assigned_ministers": "yes",
-        "ON_DO_NOT_CONTACT_LIST": "no",
-        "Q_1_pct_att": null,
-        "Q_2_pct_att": null,
-        "Second_hr_pct_att": null,
-        "pct_att_drop": null,
-        "_group": 2,
-        "_outsideBoundary": false,
-        "_cellId": "36464",
-        "district_id": 3,
-        "_district": 3,
-        "district_color": "#d97706",
-        "district_label": 4,
-        "group": 2,
-        "cell_id": "36464"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 235,
       "geometry": {
         "type": "Point",
@@ -9420,6 +9205,49 @@
     },
     {
       "type": "Feature",
+      "id": 719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.70701997825562,
+          37.33559082426385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 719,
+        "Last_Name": "Goodrich",
+        "First_Name": "John",
+        "Address": "120 S 600 W, Veyo, UT 84782",
+        "lat": 37.3355904,
+        "lon": -113.707024,
+        "Apt_Number": null,
+        "Age": 30,
+        "Gender": "M",
+        "BirthDate": 820800000000,
+        "Notes": null,
+        "Address_confidence": "high",
+        "Emails": "johnathan.ml.goodrich@gmail.com",
+        "prospective_elder": "no",
+        "Assigned_to_minister": "no",
+        "Is_assigned_ministers": "yes",
+        "ON_DO_NOT_CONTACT_LIST": "no",
+        "Q_1_pct_att": 11.11111111111111,
+        "Q_2_pct_att": 15.38461538461539,
+        "Second_hr_pct_att": 13.63636363636364,
+        "pct_att_drop": 0,
+        "_group": 2,
+        "_outsideBoundary": false,
+        "_cellId": "51033",
+        "district_id": 3,
+        "_district": 3,
+        "district_color": "#d97706",
+        "district_label": 4,
+        "group": 2,
+        "cell_id": "51033"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 343,
       "geometry": {
         "type": "Point",
@@ -9495,8 +9323,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 0,
-        "_district": 0,
+        "district_id": 2,
+        "_district": 2,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9537,8 +9365,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 3,
-        "_district": 3,
+        "district_id": 0,
+        "_district": 0,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9579,8 +9407,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 3,
-        "_district": 3,
+        "district_id": 1,
+        "_district": 1,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9621,8 +9449,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 0,
-        "_district": 0,
+        "district_id": 1,
+        "_district": 1,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9663,8 +9491,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 3,
-        "_district": 3,
+        "district_id": 2,
+        "_district": 2,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
@@ -9705,8 +9533,8 @@
         "pct_att_drop": null,
         "_group": 2,
         "_outsideBoundary": true,
-        "district_id": 3,
-        "_district": 3,
+        "district_id": 2,
+        "_district": 2,
         "district_color": "#9ca3af",
         "district_label": "Out of Boundary",
         "group": 2,
